@@ -6,6 +6,10 @@ free time<br>
     <img align="center" width="500px" src="https://github-readme-stats.vercel.app/api?username=Dadangdut33&show_icons=true&count_private=true" alt="Dadangdut33's GitHub stats">
     <img align="center" width="210px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dadangdut33&langs_count=8" alt="Dadangdut33's Most Used Language">
 </p>
+<p align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Dadangdut33" alt="Dadangdut33's Coding Activity">
+</p>
+
 ---
 
 ## I'm Still a Student and Actively Learning, So Far I Have Experience Coding Using
@@ -40,9 +44,9 @@ free time<br>
 <br />
 
 ---
-
-<summary>:zap: Recent GitHub Activity</summary>
-
+<details>
+    <summary>:zap: Recent GitHub Activity</summary>
 <!--START_SECTION:activity-->
-
 <!--END_SECTION:activity-->
+
+</details>
