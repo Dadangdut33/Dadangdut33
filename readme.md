@@ -45,21 +45,8 @@ free time<br>
 
 ---
 
-<details>
-    <summary>:zap: Recent GitHub Activity</summary>
+<summary>:zap: Recent GitHub Activity</summary>
 
-    <!--START_SECTION:activity-->
+<!--START_SECTION:activity-->
 
-    <!--END_SECTION:activity-->
-
-</details>
-
-<!-- ---
-
-## Featured Works
-- [Screen Translate](https://github.com/Dadangdut33/Screen-Translate), a screen translator made using python and tesseract OCR
-- [Lets API](https://github.com/Team-LAPIZ/Lets-Api), a tool website that utilizes many api
-- [Sistem Database Warung](https://github.com/Dadangdut33/Sistem-Database-Warung), a database gui application to manage a small shop
-- [Misaka-100032](https://github.com/Dadangdut33/Misaka-10032), a bot that i made for my discord server
-
---- -->
+<!--END_SECTION:activity-->
