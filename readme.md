@@ -2,7 +2,7 @@
 I am ~~Dadangdut33~~ Fauzan, a student at UIN Syarif Hidayatullah Jakarta. I like to code on some side project on my
 free time<br>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Dadangdut33&show_icons=true&count_private=true" alt="Dadangdut33's GitHub stats"><br>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Dadangdut33&show_icons=true&count_private=true" alt="Dadangdut33's GitHub stats">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dadangdut33&langs_count=8" alt="Dadangdut33's Most Used Language">
 
 ---
