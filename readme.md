@@ -1,5 +1,5 @@
 # Hello ヾ(￣▽￣)
-I am ~~Dadangdut33~~ Fauzan, a student at UIN Syarif Hidayatullah Jakarta. I like to code on some side project on my
+I am ~~Dadangdut33~~ Fauzan, an Informatics Engineering student at UIN Syarif Hidayatullah Jakarta. I like to code on some side project on my
 free time<br>
 
 <p align="center">
