@@ -2,15 +2,11 @@
 I am ~~Dadangdut33~~ Fauzan, a student at UIN Syarif Hidayatullah Jakarta. I like to code on some side project on my
 free time<br>
 
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Dadangdut33&show_icons=true&count_private=true" alt="Dadangdut33's GitHub stats"><br>
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Dadangdut33&layout=compact" alt="Dadangdut33's wakatime stats"><br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dadangdut33&langs_count=8" alt="Dadangdut33's Most Used Language">
-</p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Dadangdut33&show_icons=true&count_private=true" alt="Dadangdut33's GitHub stats"><br>
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Dadangdut33&layout=compact" alt="Dadangdut33's wakatime stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dadangdut33&langs_count=8" alt="Dadangdut33's Most Used Language">
 
 ---
-
-<br />
 
 ## I'm Still a Student and Actively Learning, So Far I Have Experience Coding Using
 
