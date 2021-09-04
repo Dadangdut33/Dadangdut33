@@ -1,38 +1,38 @@
 # Hello ヾ(￣▽￣)
 I am ~~Dadangdut33~~ Fauzan, a student at UIN Syarif Hidayatullah Jakarta. I like to code on some side project on my free time<br>
 
-<style>
-.wrapper {
-    align:center;
-}
-
-.column {
-  float: left;
-  width: 33.33%;
-  padding: 5px;
-}
-
-/* Clear floats after image containers */
-.row::after {
-  content: "";
-  clear: both;
-  display: table;
-}
-</style>
-
-<div class="wrapper">
-    <div class="row">
-        <div class="column">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dadangdut33&langs_count=8">
-        </div>
-        <div class="column">
-            <img src="https://github-readme-stats.vercel.app/api?username=Dadangdut33&show_icons=true&count_private=true" alt="Dadangdut33's GitHub stats">
-        </div>
-        <div class="column">
-            <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Dadangdut33&layout=compact" alt="Dadangdut33's wakatime stats">
+<foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+        <style> 
+        .wrapper {
+			align:center;
+		}
+		.column {
+            float: left;
+            width: 33.33%;
+            padding: 5px;
+		}
+        .row::after {
+            content: "";
+            clear: both;
+            display: table;
+        }
+        </style>
+        <div class="wrapper">
+            <div class="row">
+                <div class="column">
+                    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dadangdut33&langs_count=8">
+                </div>
+                <div class="column">
+                    <img src="https://github-readme-stats.vercel.app/api?username=Dadangdut33&show_icons=true&count_private=true" alt="Dadangdut33's GitHub stats">
+                </div>
+                <div class="column">
+                    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Dadangdut33&layout=compact" alt="Dadangdut33's wakatime stats">
+                </div>
+            </div>
         </div>
     </div>
-</div>
+</foreignObject>
 
 ---
 
