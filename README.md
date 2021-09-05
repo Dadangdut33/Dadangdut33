@@ -49,7 +49,7 @@ free time<br>
 <details>
     <summary>:zap: Recent GitHub Activity</summary>
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/Dadangdut33/Screen-Translate/issues/2) in [Dadangdut33/Screen-Translate](https://github.com/Dadangdut33/Screen-Translate)
+1. 🎉 Merged PR [#2](https://github.com/Dadangdut33/Screen-Translate/pull/2) in [Dadangdut33/Screen-Translate](https://github.com/Dadangdut33/Screen-Translate)
 <!--END_SECTION:activity-->
 
 </details>
