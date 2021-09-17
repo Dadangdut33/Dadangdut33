@@ -49,7 +49,7 @@ free time<br>
 <details>
     <summary>:zap: Recent GitHub Activity</summary>
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/Dadangdut33/Screen-Translate/issues/3) in [Dadangdut33/Screen-Translate](https://github.com/Dadangdut33/Screen-Translate)
+1. 🗣 Commented on [#158](https://github.com/jikan-me/jikan-rest/issues/158) in [jikan-me/jikan-rest](https://github.com/jikan-me/jikan-rest)
 <!--END_SECTION:activity-->
 
 </details>
