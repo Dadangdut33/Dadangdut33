@@ -51,5 +51,4 @@ free time<br>
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#158](https://github.com/jikan-me/jikan-rest/issues/158) in [jikan-me/jikan-rest](https://github.com/jikan-me/jikan-rest)
 <!--END_SECTION:activity-->
-
 </details>
