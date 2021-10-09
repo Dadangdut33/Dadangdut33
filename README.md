@@ -1,4 +1,6 @@
 # Hello There ヾ(￣▽￣)
+[![wakatime](https://wakatime.com/badge/user/2c62c33c-4952-4ba2-98b9-e2451599b83a.svg)](https://wakatime.com/@2c62c33c-4952-4ba2-98b9-e2451599b83a)
+
 I am ~~Dadangdut33~~ Fauzan, an Informatics Engineering student at UIN Syarif Hidayatullah Jakarta. I like to code on some side project on my
 free time<br>
 
@@ -8,11 +10,7 @@ free time<br>
 </p>
 <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Dadangdut33" alt="Dadangdut33's Coding Activity"><br>
-    <a href="https://wakatime.com/@2c62c33c-4952-4ba2-98b9-e2451599b83a"><img src="https://wakatime.com/badge/user/2c62c33c-4952-4ba2-98b9-e2451599b83a.svg" alt="Total time coded since Sep 4 2021" /></a>
 </p>    
-
-<img src="https://wakatime.com/badge/user/2c62c33c-4952-4ba2-98b9-e2451599b83a.svg" alt="Total time coded since Sep 4 2021" />
-
 
 ---
 ## I'm Still a Student and Actively Learning, So Far I Have Experience Coding Using
