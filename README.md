@@ -10,8 +10,11 @@ free time<br>
     <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Dadangdut33" alt="Dadangdut33's Coding Activity"><br>
     <a href="https://wakatime.com/@2c62c33c-4952-4ba2-98b9-e2451599b83a"><img src="https://wakatime.com/badge/user/2c62c33c-4952-4ba2-98b9-e2451599b83a.svg" alt="Total time coded since Sep 4 2021" /></a>
 </p>    
----
 
+<img src="https://wakatime.com/badge/user/2c62c33c-4952-4ba2-98b9-e2451599b83a.svg" alt="Total time coded since Sep 4 2021" />
+
+
+---
 ## I'm Still a Student and Actively Learning, So Far I Have Experience Coding Using
 <div align="left">
     <img align="center" alt="C" width="26px"
