@@ -7,9 +7,9 @@ free time<br>
     <img align="center" width="209px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dadangdut33&langs_count=8" alt="Dadangdut33's Most Used Language">
 </p>
 <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Dadangdut33" alt="Dadangdut33's Coding Activity">
-</p>
-
+    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Dadangdut33" alt="Dadangdut33's Coding Activity"><br>
+    <a href="https://wakatime.com/@2c62c33c-4952-4ba2-98b9-e2451599b83a"><img src="https://wakatime.com/badge/user/2c62c33c-4952-4ba2-98b9-e2451599b83a.svg" alt="Total time coded since Sep 4 2021" /></a>
+</p>    
 ---
 
 ## I'm Still a Student and Actively Learning, So Far I Have Experience Coding Using
