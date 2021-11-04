@@ -49,6 +49,6 @@ free time<br>
 <details>
     <summary>:zap: Recent GitHub Activity</summary>
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#6](https://github.com/Dadangdut33/Screen-Translate/issues/6) in [Dadangdut33/Screen-Translate](https://github.com/Dadangdut33/Screen-Translate)
+1. ❗️ Closed issue [#7](https://github.com/Dadangdut33/Screen-Translate/issues/7) in [Dadangdut33/Screen-Translate](https://github.com/Dadangdut33/Screen-Translate)
 <!--END_SECTION:activity-->
 </details>
