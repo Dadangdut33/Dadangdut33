@@ -49,6 +49,6 @@ free time<br>
 <details>
     <summary>:zap: Recent GitHub Activity</summary>
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#10](https://github.com/Dadangdut33/Screen-Translate/issues/10) in [Dadangdut33/Screen-Translate](https://github.com/Dadangdut33/Screen-Translate)
+1. 💪 Opened PR [#11](https://github.com/Dadangdut33/Screen-Translate/pull/11) in [Dadangdut33/Screen-Translate](https://github.com/Dadangdut33/Screen-Translate)
 <!--END_SECTION:activity-->
 </details>
