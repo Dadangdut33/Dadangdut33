@@ -44,7 +44,7 @@
 
 <br>
 
-<h1>🖐 Find me on</h1>
+<h1>📡 Find me on</h1>
 <div align="center">
     <a href="https://www.linkedin.com/in/fauzan-farhan-antoro/"><code><img alt="Fauzan Farhan Antoro | LinkedIn" width="30px"
         src="https://content.linkedin.com/content/dam/me/brand/en-us/brand-home/logos/In-Blue-Logo.png.original.png" /></code></a>
