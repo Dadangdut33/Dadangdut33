@@ -8,7 +8,6 @@
 # 💬 About Me
 ### My name is ~~Dadangdut33~~ Fauzan, I'm currently an Informatics Engineering student at UIN Jakarta. I like to code on some side project on my free time.
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=dadangdut33.visitor-badge)
-
 <br>
 
 <h1>🔧 Language/Tools</h1>
@@ -57,7 +56,7 @@
 <br>
 <br>
 
-# 📊 Github Stats
+# <code>📊 Github Stats</code>
 <p align="center">
     <img align="center" height="200" src="https://github-readme-stats.vercel.app/api?username=Dadangdut33&show_icons=true&count_private=true&theme=radical&line_height=27" alt="Dadangdut33's GitHub stats">
     <img align="center" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dadangdut33&langs_count=8&theme=radical&hide=jupyter notebook" alt="Dadangdut33's Most Used Language">
