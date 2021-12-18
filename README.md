@@ -7,7 +7,7 @@
 
 # 💬 About Me
 ### My name is ~~Dadangdut33~~ Fauzan, I'm currently an Informatics Engineering student at UIN Jakarta. I like to code on some side project on my free time.
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=dadangdut33.visitor-badge)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/O4O47B5Q3)
 <br>
 
 <h1>🔧 Language/Tools</h1>
