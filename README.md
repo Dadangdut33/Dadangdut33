@@ -73,6 +73,14 @@
 <details>
     <summary>⚡ Recent GitHub Activity</summary>
 <!--RECENT_ACTIVITY:start-->
+1. ✌️ Released [V1.8.4 Minor Update](https://github.com/Dadangdut33/Screen-Translate/releases/tag/V1.8.4) in [Dadangdut33/Screen-Translate](https://github.com/Dadangdut33/Screen-Translate)
+2. 
+3. 
+4. 
+5. 
+<!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
+Last Updated: Wednesday, December 22nd, 2021, 5:09:53 AM
+<!--RECENT_ACTIVITY:last_update_end-->
 </details>
