@@ -4,8 +4,7 @@ on:
     schedule:
         - cron: "*/5760 * * * *"
     workflow_dispatch:
-		settings:
-			disabled_events: []
+
 jobs:
     build:
         runs-on: ubuntu-latest
