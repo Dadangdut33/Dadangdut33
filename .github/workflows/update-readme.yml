@@ -2,13 +2,16 @@ name: Update README
 
 on:
     schedule:
-        - cron: "*/1440 * * * *"
+        - cron: "*/5760 * * * *"
     workflow_dispatch:
 
 jobs:
     build:
         runs-on: ubuntu-latest
         name: Recent GitHub Activity - Profile Readme
+
+		settings:
+			disabled_events: []
 
         steps:
             - uses: actions/checkout@v2.3.4
