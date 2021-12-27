@@ -75,7 +75,7 @@
     
 <!--RECENT_ACTIVITY:start-->
 
-1. 📔 Created new repository [Dadangdut33/java-cli-projects](https://github.com/Dadangdut33/java-cli-projects)
+1. ⭐ Starred [Azzamubaidillah/Chatkuy](https://github.com/Azzamubaidillah/Chatkuy)
 
 
 
