@@ -75,7 +75,7 @@
     
 <!--RECENT_ACTIVITY:start-->
 
-1. ✌️ Released [V1.8.4 Minor Update](https://github.com/Dadangdut33/Screen-Translate/releases/tag/V1.8.4) in [Dadangdut33/Screen-Translate](https://github.com/Dadangdut33/Screen-Translate)
+1. 📔 Created new repository [Dadangdut33/java-cli-projects](https://github.com/Dadangdut33/java-cli-projects)
 
 
 
