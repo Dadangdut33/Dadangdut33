@@ -75,7 +75,7 @@
     
 <!--RECENT_ACTIVITY:start-->
 
-1. ✔️ Closed issue [#1](https://github.com/Dadangdut33/minesweeper-randomwalk/issues/1) in [Dadangdut33/minesweeper-randomwalk](https://github.com/Dadangdut33/minesweeper-randomwalk)
+1. ✔️ Closed issue [#2](https://github.com/Dadangdut33/minesweeper-randomwalk/issues/2) in [Dadangdut33/minesweeper-randomwalk](https://github.com/Dadangdut33/minesweeper-randomwalk)
 
 
 
