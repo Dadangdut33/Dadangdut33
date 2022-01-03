@@ -7,7 +7,7 @@
 
 # 💬 About Me
 ### My name is ~~Dadangdut33~~ Fauzan, I'm currently an Informatics Engineering student at UIN Jakarta. I like to code on some side project on my free time.
-<a href='https://ko-fi.com/O4O47B5Q3' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi3.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+<a href='https://ko-fi.com/O4O47B5Q3' target='_blank'><img style='border:0px;height:50px;' src='https://cdn.ko-fi.com/cdn/kofi3.png?v=3' alt='Buy Me a Coffee at [ko-fi.com](https://ko-fi.com/O4O47B5Q3)' /></a>
 <br>
 
 <h1>🔧 Language/Tools</h1>
