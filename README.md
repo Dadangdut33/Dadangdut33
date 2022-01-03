@@ -74,6 +74,17 @@
     <summary>⚡ Recent GitHub Activity</summary>
     
 <!--RECENT_ACTIVITY:start-->
+1. ⭐ Starred [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+2. ✔️ Closed issue [#2](https://github.com/Dadangdut33/minesweeper-randomwalk/issues/2) in [Dadangdut33/minesweeper-randomwalk](https://github.com/Dadangdut33/minesweeper-randomwalk)
+3. ✔️ Closed issue [#1](https://github.com/Dadangdut33/minesweeper-randomwalk/issues/1) in [Dadangdut33/minesweeper-randomwalk](https://github.com/Dadangdut33/minesweeper-randomwalk)
+4. ⭐ Starred [ahmadabdolsaheb/mapgen](https://github.com/ahmadabdolsaheb/mapgen)
+5. ⭐ Starred [Azzamubaidillah/Chatkuy](https://github.com/Azzamubaidillah/Chatkuy)
+6. ⭐ Starred [Azzamubaidillah/Flutter-exploration](https://github.com/Azzamubaidillah/Flutter-exploration)
+7. ⭐ Starred [ammarsufyan/SkyApp](https://github.com/ammarsufyan/SkyApp)
+8. ⭐ Starred [ammarsufyan/Darimu](https://github.com/ammarsufyan/Darimu)
+9. 🔱 Forked [Dadangdut33/sehat.in](https://github.com/Dadangdut33/sehat.in) from [ammarsufyan/sehat.in](https://github.com/ammarsufyan/sehat.in)
+10. ⭐ Starred [ammarsufyan/sehat.in](https://github.com/ammarsufyan/sehat.in)
+<!--RECENT_ACTIVITY:end-->
 
 
 </details>
