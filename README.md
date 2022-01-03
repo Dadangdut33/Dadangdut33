@@ -60,8 +60,8 @@
 
 # <code>📊 Github Stats</code>
 <p align="center">
-    <img align="center" height="200" src="https://github-readme-stats.vercel.app/api?username=Dadangdut33&show_icons=true&count_private=true&theme=radical&line_height=27" alt="Dadangdut33's GitHub stats">
-    <img align="center" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dadangdut33&langs_count=8&theme=radical&hide=jupyter notebook" alt="Dadangdut33's Most Used Language">
+    <img align="center" height="210" src="https://github-readme-stats.vercel.app/api?username=Dadangdut33&show_icons=true&count_private=true&theme=radical&line_height=27" alt="Dadangdut33's GitHub stats">
+    <img align="center" height="210" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dadangdut33&langs_count=8&theme=radical&hide=jupyter notebook, shell, batchfile" alt="Dadangdut33's Most Used Language">
 </p>
 <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Dadangdut33&theme=radical" alt="Dadangdut33's Coding Activity"><br>
