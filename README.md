@@ -75,7 +75,7 @@
     
 <!--RECENT_ACTIVITY:start-->
 
-1. ✌️ Released [V1.8.4 Minor Update](https://github.com/Dadangdut33/Screen-Translate/releases/tag/V1.8.4) in [Dadangdut33/Screen-Translate](https://github.com/Dadangdut33/Screen-Translate)
+1. ✔️ Closed issue [#2](https://github.com/Dadangdut33/minesweeper-randomwalk/issues/2) in [Dadangdut33/minesweeper-randomwalk](https://github.com/Dadangdut33/minesweeper-randomwalk)
 
 
 
