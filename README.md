@@ -74,7 +74,7 @@
     <summary>⚡ Recent GitHub Activity</summary>
     
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+1. ✌️ Released [Osu Extractor V1.0 (GUI)](https://github.com/Dadangdut33/Osu-Extractor/releases/tag/V1.0_GUI) in [Dadangdut33/Osu-Extractor](https://github.com/Dadangdut33/Osu-Extractor)
 2. ✔️ Closed issue [#2](https://github.com/Dadangdut33/minesweeper-randomwalk/issues/2) in [Dadangdut33/minesweeper-randomwalk](https://github.com/Dadangdut33/minesweeper-randomwalk)
 3. ✔️ Closed issue [#1](https://github.com/Dadangdut33/minesweeper-randomwalk/issues/1) in [Dadangdut33/minesweeper-randomwalk](https://github.com/Dadangdut33/minesweeper-randomwalk)
 4. ⭐ Starred [ahmadabdolsaheb/mapgen](https://github.com/ahmadabdolsaheb/mapgen)
