@@ -75,8 +75,8 @@
     
 <!--RECENT_ACTIVITY:start-->
 1. ⭐ Starred [brc-dd/next-protected-routes](https://github.com/brc-dd/next-protected-routes)
-2. ✌️ Released [Osu Extractor V1.0 (GUI)](https://github.com/Dadangdut33/Osu-Extractor/releases/tag/V1.0_GUI) in [Dadangdut33/Osu-Extractor](https://github.com/Dadangdut33/Osu-Extractor)
-3. ✔️ Closed issue [#1](https://github.com/Dadangdut33/minesweeper-randomwalk/issues/1) in [Dadangdut33/minesweeper-randomwalk](https://github.com/Dadangdut33/minesweeper-randomwalk)
+2. ⭐ Starred [brc-dd/next-protected-routes](https://github.com/brc-dd/next-protected-routes)
+3. ✌️ Released [Osu Extractor V1.0 (GUI)](https://github.com/Dadangdut33/Osu-Extractor/releases/tag/V1.0_GUI) in [Dadangdut33/Osu-Extractor](https://github.com/Dadangdut33/Osu-Extractor)
 4. ⭐ Starred [ahmadabdolsaheb/mapgen](https://github.com/ahmadabdolsaheb/mapgen)
 5. ⭐ Starred [Azzamubaidillah/Chatkuy](https://github.com/Azzamubaidillah/Chatkuy)
 6. ⭐ Starred [Azzamubaidillah/Flutter-exploration](https://github.com/Azzamubaidillah/Flutter-exploration)
