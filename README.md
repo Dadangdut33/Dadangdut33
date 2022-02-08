@@ -74,11 +74,11 @@
     <summary>⚡ Recent GitHub Activity</summary>
     
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [giscus/giscus](https://github.com/giscus/giscus)
-2. ⭐ Starred [brc-dd/next-protected-routes](https://github.com/brc-dd/next-protected-routes)
+1. ⭐ Starred [AgentRev/WindowsAppsUnfukker](https://github.com/AgentRev/WindowsAppsUnfukker)
+2. ⭐ Starred [giscus/giscus](https://github.com/giscus/giscus)
 3. ⭐ Starred [brc-dd/next-protected-routes](https://github.com/brc-dd/next-protected-routes)
-4. ✌️ Released [Osu Extractor V1.0 (GUI)](https://github.com/Dadangdut33/Osu-Extractor/releases/tag/V1.0_GUI) in [Dadangdut33/Osu-Extractor](https://github.com/Dadangdut33/Osu-Extractor)
-5. ⭐ Starred [Azzamubaidillah/Chatkuy](https://github.com/Azzamubaidillah/Chatkuy)
+4. ⭐ Starred [brc-dd/next-protected-routes](https://github.com/brc-dd/next-protected-routes)
+5. ✌️ Released [Osu Extractor V1.0 (GUI)](https://github.com/Dadangdut33/Osu-Extractor/releases/tag/V1.0_GUI) in [Dadangdut33/Osu-Extractor](https://github.com/Dadangdut33/Osu-Extractor)
 6. ⭐ Starred [Azzamubaidillah/Flutter-exploration](https://github.com/Azzamubaidillah/Flutter-exploration)
 7. ⭐ Starred [ammarsufyan/SkyApp](https://github.com/ammarsufyan/SkyApp)
 8. ⭐ Starred [ammarsufyan/Darimu](https://github.com/ammarsufyan/Darimu)
