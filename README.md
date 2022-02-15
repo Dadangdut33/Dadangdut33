@@ -54,7 +54,7 @@
         src="https://content.linkedin.com/content/dam/me/brand/en-us/brand-home/logos/In-Blue-Logo.png.original.png" /></code></a>
     <a href="https://steamcommunity.com/id/dadangdut33/"><code><img alt="Dadangdut33 | Steam" width="30px"
         src="https://raw.githubusercontent.com/github/explore/84354664714c333c785c6f2cb9b77d2514014ef8/topics/steam/steam.png" /></code></a>
-    <a href="https://ko-fi.com/dadangdut33/"><code><img alt="Dadangdut33 | Steam" width="30px"
+    <a href="https://ko-fi.com/dadangdut33/"><code><img alt="Dadangdut33 | Ko-Fi" width="30px"
         src="https://avatars.githubusercontent.com/u/58597177?s=200&v=4" /></code></a>
 </div>
 
