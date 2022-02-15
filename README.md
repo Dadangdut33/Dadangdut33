@@ -7,7 +7,7 @@
 
 # 💬 About Me
 ### My name is ~~Dadangdut33~~ Fauzan, I'm currently an Informatics Engineering student at UIN Jakarta. I like to code on some side project on my free time.
-<a href='https://ko-fi.com/O4O47B5Q3' target='_blank'><img style='border:0px;height:50px;' src='https://cdn.ko-fi.com/cdn/kofi3.png?v=3' alt='Buy Me a Coffee at [ko-fi.com](https://ko-fi.com/O4O47B5Q3)' /></a>
+
 <br>
 
 <h1>🔧 Language/Tools</h1>
@@ -20,6 +20,8 @@
         src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /></code>
     <code><img align="center" alt="Node.js" width="30px"
         src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /></code>
+    <code><img align="center" alt="Reactjs" width="30px"
+        src="https://camo.githubusercontent.com/92ec9eb7eeab7db4f5919e3205918918c42e6772562afb4112a2909c1aaaa875/68747470733a2f2f6173736574732e76657263656c2e636f6d2f696d6167652f75706c6f61642f76313630373535343338352f7265706f7369746f726965732f6e6578742d6a732f6e6578742d6c6f676f2e706e67" /></code>
     <code><img align="center" alt="Reactjs" width="30px"
         src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /></code>
     <code><img align="center" alt="Django" width="30px"
@@ -52,6 +54,8 @@
         src="https://content.linkedin.com/content/dam/me/brand/en-us/brand-home/logos/In-Blue-Logo.png.original.png" /></code></a>
     <a href="https://steamcommunity.com/id/dadangdut33/"><code><img alt="Dadangdut33 | Steam" width="30px"
         src="https://raw.githubusercontent.com/github/explore/84354664714c333c785c6f2cb9b77d2514014ef8/topics/steam/steam.png" /></code></a>
+    <a href="https://ko-fi.com/dadangdut33/"><code><img alt="Dadangdut33 | Steam" width="30px"
+        src="https://avatars.githubusercontent.com/u/58597177?s=200&v=4" /></code></a>
 </div>
 
 
