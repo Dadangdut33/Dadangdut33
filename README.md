@@ -78,12 +78,12 @@
     <summary>⚡ Recent GitHub Activity</summary>
     
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [xupefei/Locale-Emulator](https://github.com/xupefei/Locale-Emulator)
-2. ⭐ Starred [AgentRev/WindowsAppsUnfukker](https://github.com/AgentRev/WindowsAppsUnfukker)
-3. ⭐ Starred [giscus/giscus](https://github.com/giscus/giscus)
-4. ⭐ Starred [brc-dd/next-protected-routes](https://github.com/brc-dd/next-protected-routes)
+1. 📔 Created new repository [Dadangdut33/Video-Seek-Forward-Backward-3-Seconds](https://github.com/Dadangdut33/Video-Seek-Forward-Backward-3-Seconds)
+2. ⭐ Starred [xupefei/Locale-Emulator](https://github.com/xupefei/Locale-Emulator)
+3. ⭐ Starred [AgentRev/WindowsAppsUnfukker](https://github.com/AgentRev/WindowsAppsUnfukker)
+4. ⭐ Starred [giscus/giscus](https://github.com/giscus/giscus)
 5. ⭐ Starred [brc-dd/next-protected-routes](https://github.com/brc-dd/next-protected-routes)
-6. ✌️ Released [Osu Extractor V1.0 (GUI)](https://github.com/Dadangdut33/Osu-Extractor/releases/tag/V1.0_GUI) in [Dadangdut33/Osu-Extractor](https://github.com/Dadangdut33/Osu-Extractor)
+6. ⭐ Starred [brc-dd/next-protected-routes](https://github.com/brc-dd/next-protected-routes)
 7. ⭐ Starred [ammarsufyan/SkyApp](https://github.com/ammarsufyan/SkyApp)
 8. ⭐ Starred [ammarsufyan/Darimu](https://github.com/ammarsufyan/Darimu)
 9. 🔱 Forked [Dadangdut33/sehat.in](https://github.com/Dadangdut33/sehat.in) from [ammarsufyan/sehat.in](https://github.com/ammarsufyan/sehat.in)
