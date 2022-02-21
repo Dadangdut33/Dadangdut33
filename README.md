@@ -78,8 +78,8 @@
     <summary>⚡ Recent GitHub Activity</summary>
     
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [Dadangdut33/simple-wallpaper-changer-electron](https://github.com/Dadangdut33/simple-wallpaper-changer-electron)
-2. 📔 Created new repository [Dadangdut33/Video-Seek-Forward-Backward-3-Seconds](https://github.com/Dadangdut33/Video-Seek-Forward-Backward-3-Seconds)
+1. ⭐ Starred [TakosThings/Fluent-Discord](https://github.com/TakosThings/Fluent-Discord)
+2. 📔 Created new repository [Dadangdut33/simple-wallpaper-changer-electron](https://github.com/Dadangdut33/simple-wallpaper-changer-electron)
 3. ⭐ Starred [xupefei/Locale-Emulator](https://github.com/xupefei/Locale-Emulator)
 4. ⭐ Starred [AgentRev/WindowsAppsUnfukker](https://github.com/AgentRev/WindowsAppsUnfukker)
 5. ⭐ Starred [giscus/giscus](https://github.com/giscus/giscus)
