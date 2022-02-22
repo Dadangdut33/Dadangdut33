@@ -78,9 +78,9 @@
     <summary>⚡ Recent GitHub Activity</summary>
     
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [TakosThings/Fluent-Discord](https://github.com/TakosThings/Fluent-Discord)
-2. 📔 Created new repository [Dadangdut33/simple-wallpaper-changer-electron](https://github.com/Dadangdut33/simple-wallpaper-changer-electron)
-3. ⭐ Starred [xupefei/Locale-Emulator](https://github.com/xupefei/Locale-Emulator)
+1. ✌️ Released [1.0.0 - First Release](https://github.com/Dadangdut33/simple-wallpaper-changer/releases/tag/1.0.0) in [Dadangdut33/simple-wallpaper-changer](https://github.com/Dadangdut33/simple-wallpaper-changer)
+2. ⭐ Starred [TakosThings/Fluent-Discord](https://github.com/TakosThings/Fluent-Discord)
+3. 📔 Created new repository [Dadangdut33/simple-wallpaper-changer-electron](https://github.com/Dadangdut33/simple-wallpaper-changer-electron)
 4. ⭐ Starred [AgentRev/WindowsAppsUnfukker](https://github.com/AgentRev/WindowsAppsUnfukker)
 5. ⭐ Starred [giscus/giscus](https://github.com/giscus/giscus)
 6. ⭐ Starred [brc-dd/next-protected-routes](https://github.com/brc-dd/next-protected-routes)
