@@ -78,10 +78,10 @@
     <summary>⚡ Recent GitHub Activity</summary>
     
 <!--RECENT_ACTIVITY:start-->
-1. ✌️ Released [1.0.0 - First Release](https://github.com/Dadangdut33/simple-wallpaper-changer/releases/tag/1.0.0) in [Dadangdut33/simple-wallpaper-changer](https://github.com/Dadangdut33/simple-wallpaper-changer)
-2. ⭐ Starred [TakosThings/Fluent-Discord](https://github.com/TakosThings/Fluent-Discord)
-3. 📔 Created new repository [Dadangdut33/simple-wallpaper-changer-electron](https://github.com/Dadangdut33/simple-wallpaper-changer-electron)
-4. ⭐ Starred [AgentRev/WindowsAppsUnfukker](https://github.com/AgentRev/WindowsAppsUnfukker)
+1. ✌️ Released [1.0.1 - Bug fix and new stuff (WIndows x64 x32)](https://github.com/Dadangdut33/simple-wallpaper-changer/releases/tag/1.0.1) in [Dadangdut33/simple-wallpaper-changer](https://github.com/Dadangdut33/simple-wallpaper-changer)
+2. ✌️ Released [1.0.0 - First Release](https://github.com/Dadangdut33/simple-wallpaper-changer/releases/tag/1.0.0) in [Dadangdut33/simple-wallpaper-changer](https://github.com/Dadangdut33/simple-wallpaper-changer)
+3. ⭐ Starred [TakosThings/Fluent-Discord](https://github.com/TakosThings/Fluent-Discord)
+4. 📔 Created new repository [Dadangdut33/simple-wallpaper-changer-electron](https://github.com/Dadangdut33/simple-wallpaper-changer-electron)
 5. ⭐ Starred [giscus/giscus](https://github.com/giscus/giscus)
 6. ⭐ Starred [brc-dd/next-protected-routes](https://github.com/brc-dd/next-protected-routes)
 7. ⭐ Starred [brc-dd/next-protected-routes](https://github.com/brc-dd/next-protected-routes)
