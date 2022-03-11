@@ -78,13 +78,13 @@
     <summary>⚡ Recent GitHub Activity</summary>
     
 <!--RECENT_ACTIVITY:start-->
-1. ✌️ Released [1.1.1 - Bug fix](https://github.com/Dadangdut33/simple-wallpaper-changer/releases/tag/1.1.1) in [Dadangdut33/simple-wallpaper-changer](https://github.com/Dadangdut33/simple-wallpaper-changer)
-2. ✌️ Released [1.1.0 - Multi-monitor support](https://github.com/Dadangdut33/simple-wallpaper-changer/releases/tag/1.1.0) in [Dadangdut33/simple-wallpaper-changer](https://github.com/Dadangdut33/simple-wallpaper-changer)
-3. ✌️ Released [1.0.2 - Linux build and bug fix](https://github.com/Dadangdut33/simple-wallpaper-changer/releases/tag/1.0.2) in [Dadangdut33/simple-wallpaper-changer](https://github.com/Dadangdut33/simple-wallpaper-changer)
-4. ✌️ Released [1.0.1 - Bug fix and new stuff (WIndows x64 x32)](https://github.com/Dadangdut33/simple-wallpaper-changer/releases/tag/1.0.1) in [Dadangdut33/simple-wallpaper-changer](https://github.com/Dadangdut33/simple-wallpaper-changer)
-5. ✌️ Released [1.0.0 - First Release](https://github.com/Dadangdut33/simple-wallpaper-changer/releases/tag/1.0.0) in [Dadangdut33/simple-wallpaper-changer](https://github.com/Dadangdut33/simple-wallpaper-changer)
-6. ⭐ Starred [TakosThings/Fluent-Discord](https://github.com/TakosThings/Fluent-Discord)
-7. ⭐ Starred [brc-dd/next-protected-routes](https://github.com/brc-dd/next-protected-routes)
+1. 📔 Created new repository [Dadangdut33/python-cli-projects](https://github.com/Dadangdut33/python-cli-projects)
+2. ✌️ Released [1.1.1 - Bug fix](https://github.com/Dadangdut33/simple-wallpaper-changer/releases/tag/1.1.1) in [Dadangdut33/simple-wallpaper-changer](https://github.com/Dadangdut33/simple-wallpaper-changer)
+3. ✌️ Released [1.1.0 - Multi-monitor support](https://github.com/Dadangdut33/simple-wallpaper-changer/releases/tag/1.1.0) in [Dadangdut33/simple-wallpaper-changer](https://github.com/Dadangdut33/simple-wallpaper-changer)
+4. ✌️ Released [1.0.2 - Linux build and bug fix](https://github.com/Dadangdut33/simple-wallpaper-changer/releases/tag/1.0.2) in [Dadangdut33/simple-wallpaper-changer](https://github.com/Dadangdut33/simple-wallpaper-changer)
+5. ✌️ Released [1.0.1 - Bug fix and new stuff (WIndows x64 x32)](https://github.com/Dadangdut33/simple-wallpaper-changer/releases/tag/1.0.1) in [Dadangdut33/simple-wallpaper-changer](https://github.com/Dadangdut33/simple-wallpaper-changer)
+6. ✌️ Released [1.0.0 - First Release](https://github.com/Dadangdut33/simple-wallpaper-changer/releases/tag/1.0.0) in [Dadangdut33/simple-wallpaper-changer](https://github.com/Dadangdut33/simple-wallpaper-changer)
+7. ⭐ Starred [TakosThings/Fluent-Discord](https://github.com/TakosThings/Fluent-Discord)
 8. ⭐ Starred [ammarsufyan/Darimu](https://github.com/ammarsufyan/Darimu)
 9. 🔱 Forked [Dadangdut33/sehat.in](https://github.com/Dadangdut33/sehat.in) from [ammarsufyan/sehat.in](https://github.com/ammarsufyan/sehat.in)
 10. ⭐ Starred [ammarsufyan/sehat.in](https://github.com/ammarsufyan/sehat.in)
