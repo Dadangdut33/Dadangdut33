@@ -80,7 +80,7 @@
     <summary>⚡ Recent GitHub Activity</summary>
     
 <!--RECENT_ACTIVITY:start-->
-1. ✌️ Released [1.1.4 - Performance and other improvement](https://github.com/Dadangdut33/simple-wallpaper-changer/releases/tag/1.1.4) in [Dadangdut33/simple-wallpaper-changer](https://github.com/Dadangdut33/simple-wallpaper-changer)
+1. ✌️ Released [V1.8.5 Resizable setting window](https://github.com/Dadangdut33/Screen-Translate/releases/tag/V1.8.5) in [Dadangdut33/Screen-Translate](https://github.com/Dadangdut33/Screen-Translate)
 2. ⭐ Starred [fregante/intrinsic-scale](https://github.com/fregante/intrinsic-scale)
 3. ✌️ Released [1.1.3 - Update and some bug fixes](https://github.com/Dadangdut33/simple-wallpaper-changer/releases/tag/1.1.3) in [Dadangdut33/simple-wallpaper-changer](https://github.com/Dadangdut33/simple-wallpaper-changer)
 4. ✌️ Released [1.1.2 - Bug fix](https://github.com/Dadangdut33/simple-wallpaper-changer/releases/tag/1.1.2) in [Dadangdut33/simple-wallpaper-changer](https://github.com/Dadangdut33/simple-wallpaper-changer)
