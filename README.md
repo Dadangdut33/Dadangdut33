@@ -18,6 +18,8 @@
         src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" /></code>
     <code><img align="center" alt="JavaScript" width="30px"
         src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /></code>
+    <code><img align="center" alt="Typescript" width="30px"
+        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" /></code>
     <code><img align="center" alt="Node.js" width="30px"
         src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /></code>
     <code><img align="center" alt="Reactjs" width="30px"
@@ -64,8 +66,8 @@
 
 # <code>📊 Github Stats</code>
 <p align="center">
-    <img align="center" height="220" src="https://github-readme-stats.vercel.app/api?username=Dadangdut33&show_icons=true&count_private=true&theme=radical&line_height=27" alt="Dadangdut33's GitHub stats">
-    <img align="center" height="220" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dadangdut33&langs_count=8&theme=radical&hide=jupyter notebook, shell, batchfile" alt="Dadangdut33's Most Used Language">
+    <img align="center" width="500" src="https://github-readme-stats.vercel.app/api?username=Dadangdut33&show_icons=true&count_private=true&theme=radical&line_height=27" alt="Dadangdut33's GitHub stats">
+    <img align="center" width="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dadangdut33&langs_count=8&theme=radical&hide=jupyter notebook, shell, batchfile, html" alt="Dadangdut33's Most Used Language">
 </p>
 <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Dadangdut33&theme=radical" alt="Dadangdut33's Coding Activity"><br>
@@ -78,16 +80,16 @@
     <summary>⚡ Recent GitHub Activity</summary>
     
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#7](https://github.com/zuzumi-f/Discord-11/issues/7) in [zuzumi-f/Discord-11](https://github.com/zuzumi-f/Discord-11)
-2. 📔 Created new repository [Dadangdut33/Misaka-10032-ts](https://github.com/Dadangdut33/Misaka-10032-ts)
-3. ✌️ Released [1.1.4 - Performance and other improvement](https://github.com/Dadangdut33/simple-wallpaper-changer/releases/tag/1.1.4) in [Dadangdut33/simple-wallpaper-changer](https://github.com/Dadangdut33/simple-wallpaper-changer)
-4. ⭐ Starred [fregante/intrinsic-scale](https://github.com/fregante/intrinsic-scale)
-5. ✌️ Released [1.1.3 - Update and some bug fixes](https://github.com/Dadangdut33/simple-wallpaper-changer/releases/tag/1.1.3) in [Dadangdut33/simple-wallpaper-changer](https://github.com/Dadangdut33/simple-wallpaper-changer)
-6. ✌️ Released [1.1.2 - Bug fix](https://github.com/Dadangdut33/simple-wallpaper-changer/releases/tag/1.1.2) in [Dadangdut33/simple-wallpaper-changer](https://github.com/Dadangdut33/simple-wallpaper-changer)
-7. 📔 Created new repository [Dadangdut33/python-cli-projects](https://github.com/Dadangdut33/python-cli-projects)
-8. ✌️ Released [1.1.1 - Bug fix](https://github.com/Dadangdut33/simple-wallpaper-changer/releases/tag/1.1.1) in [Dadangdut33/simple-wallpaper-changer](https://github.com/Dadangdut33/simple-wallpaper-changer)
-9. ✌️ Released [1.1.0 - Multi-monitor support](https://github.com/Dadangdut33/simple-wallpaper-changer/releases/tag/1.1.0) in [Dadangdut33/simple-wallpaper-changer](https://github.com/Dadangdut33/simple-wallpaper-changer)
-10. ✌️ Released [1.0.2 - Linux build and bug fix](https://github.com/Dadangdut33/simple-wallpaper-changer/releases/tag/1.0.2) in [Dadangdut33/simple-wallpaper-changer](https://github.com/Dadangdut33/simple-wallpaper-changer)
+1. ✌️ Released [1.1.4 - Performance and other improvement](https://github.com/Dadangdut33/simple-wallpaper-changer/releases/tag/1.1.4) in [Dadangdut33/simple-wallpaper-changer](https://github.com/Dadangdut33/simple-wallpaper-changer)
+2. ⭐ Starred [fregante/intrinsic-scale](https://github.com/fregante/intrinsic-scale)
+3. ✌️ Released [1.1.3 - Update and some bug fixes](https://github.com/Dadangdut33/simple-wallpaper-changer/releases/tag/1.1.3) in [Dadangdut33/simple-wallpaper-changer](https://github.com/Dadangdut33/simple-wallpaper-changer)
+4. ✌️ Released [1.1.2 - Bug fix](https://github.com/Dadangdut33/simple-wallpaper-changer/releases/tag/1.1.2) in [Dadangdut33/simple-wallpaper-changer](https://github.com/Dadangdut33/simple-wallpaper-changer)
+5. 📔 Created new repository [Dadangdut33/python-cli-projects](https://github.com/Dadangdut33/python-cli-projects)
+6. ✌️ Released [1.1.1 - Bug fix](https://github.com/Dadangdut33/simple-wallpaper-changer/releases/tag/1.1.1) in [Dadangdut33/simple-wallpaper-changer](https://github.com/Dadangdut33/simple-wallpaper-changer)
+7. ✌️ Released [1.1.0 - Multi-monitor support](https://github.com/Dadangdut33/simple-wallpaper-changer/releases/tag/1.1.0) in [Dadangdut33/simple-wallpaper-changer](https://github.com/Dadangdut33/simple-wallpaper-changer)
+8. ✌️ Released [1.0.2 - Linux build and bug fix](https://github.com/Dadangdut33/simple-wallpaper-changer/releases/tag/1.0.2) in [Dadangdut33/simple-wallpaper-changer](https://github.com/Dadangdut33/simple-wallpaper-changer)
+9. ✌️ Released [1.0.1 - Bug fix and new stuff (WIndows x64 x32)](https://github.com/Dadangdut33/simple-wallpaper-changer/releases/tag/1.0.1) in [Dadangdut33/simple-wallpaper-changer](https://github.com/Dadangdut33/simple-wallpaper-changer)
+10. ✌️ Released [1.0.0 - First Release](https://github.com/Dadangdut33/simple-wallpaper-changer/releases/tag/1.0.0) in [Dadangdut33/simple-wallpaper-changer](https://github.com/Dadangdut33/simple-wallpaper-changer)
 <!--RECENT_ACTIVITY:end-->
 
 
