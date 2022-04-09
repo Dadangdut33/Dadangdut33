@@ -80,8 +80,8 @@
     <summary>⚡ Recent GitHub Activity</summary>
     
 <!--RECENT_ACTIVITY:start-->
-1. ✌️ Released [V1.8.5 Resizable setting window](https://github.com/Dadangdut33/Screen-Translate/releases/tag/V1.8.5) in [Dadangdut33/Screen-Translate](https://github.com/Dadangdut33/Screen-Translate)
-2. ⭐ Starred [fregante/intrinsic-scale](https://github.com/fregante/intrinsic-scale)
+1. 🔱 Forked [Dadangdut33/electron-react-boilerplate](https://github.com/Dadangdut33/electron-react-boilerplate) from [electron-react-boilerplate/electron-react-boilerplate](https://github.com/electron-react-boilerplate/electron-react-boilerplate)
+2. ✌️ Released [V1.8.5 Resizable setting window](https://github.com/Dadangdut33/Screen-Translate/releases/tag/V1.8.5) in [Dadangdut33/Screen-Translate](https://github.com/Dadangdut33/Screen-Translate)
 3. ✌️ Released [1.1.3 - Update and some bug fixes](https://github.com/Dadangdut33/simple-wallpaper-changer/releases/tag/1.1.3) in [Dadangdut33/simple-wallpaper-changer](https://github.com/Dadangdut33/simple-wallpaper-changer)
 4. ✌️ Released [1.1.2 - Bug fix](https://github.com/Dadangdut33/simple-wallpaper-changer/releases/tag/1.1.2) in [Dadangdut33/simple-wallpaper-changer](https://github.com/Dadangdut33/simple-wallpaper-changer)
 5. 📔 Created new repository [Dadangdut33/python-cli-projects](https://github.com/Dadangdut33/python-cli-projects)
