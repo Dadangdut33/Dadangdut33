@@ -80,12 +80,12 @@
     <summary>⚡ Recent GitHub Activity</summary>
     
 <!--RECENT_ACTIVITY:start-->
-1. ✔️ Closed issue [#1](https://github.com/Dadangdut33/simple-prayertime-reminder/issues/1) in [Dadangdut33/simple-prayertime-reminder](https://github.com/Dadangdut33/simple-prayertime-reminder)
-2. ✔️ Closed issue [#2](https://github.com/Dadangdut33/simple-prayertime-reminder/issues/2) in [Dadangdut33/simple-prayertime-reminder](https://github.com/Dadangdut33/simple-prayertime-reminder)
-3. ❗️ Opened issue [#9](https://github.com/Dadangdut33/simple-prayertime-reminder/issues/9) in [Dadangdut33/simple-prayertime-reminder](https://github.com/Dadangdut33/simple-prayertime-reminder)
-4. 🔱 Forked [Dadangdut33/electron-react-boilerplate](https://github.com/Dadangdut33/electron-react-boilerplate) from [electron-react-boilerplate/electron-react-boilerplate](https://github.com/electron-react-boilerplate/electron-react-boilerplate)
-5. ✌️ Released [V1.8.5 Resizable setting window](https://github.com/Dadangdut33/Screen-Translate/releases/tag/V1.8.5) in [Dadangdut33/Screen-Translate](https://github.com/Dadangdut33/Screen-Translate)
-6. ✌️ Released [1.1.1 - Bug fix](https://github.com/Dadangdut33/simple-wallpaper-changer/releases/tag/1.1.1) in [Dadangdut33/simple-wallpaper-changer](https://github.com/Dadangdut33/simple-wallpaper-changer)
+1. ✔️ Closed issue [#4](https://github.com/Dadangdut33/simple-prayertime-reminder/issues/4) in [Dadangdut33/simple-prayertime-reminder](https://github.com/Dadangdut33/simple-prayertime-reminder)
+2. ✔️ Closed issue [#1](https://github.com/Dadangdut33/simple-prayertime-reminder/issues/1) in [Dadangdut33/simple-prayertime-reminder](https://github.com/Dadangdut33/simple-prayertime-reminder)
+3. ✔️ Closed issue [#2](https://github.com/Dadangdut33/simple-prayertime-reminder/issues/2) in [Dadangdut33/simple-prayertime-reminder](https://github.com/Dadangdut33/simple-prayertime-reminder)
+4. ❗️ Opened issue [#9](https://github.com/Dadangdut33/simple-prayertime-reminder/issues/9) in [Dadangdut33/simple-prayertime-reminder](https://github.com/Dadangdut33/simple-prayertime-reminder)
+5. 🔱 Forked [Dadangdut33/electron-react-boilerplate](https://github.com/Dadangdut33/electron-react-boilerplate) from [electron-react-boilerplate/electron-react-boilerplate](https://github.com/electron-react-boilerplate/electron-react-boilerplate)
+6. ✌️ Released [V1.8.5 Resizable setting window](https://github.com/Dadangdut33/Screen-Translate/releases/tag/V1.8.5) in [Dadangdut33/Screen-Translate](https://github.com/Dadangdut33/Screen-Translate)
 7. ✌️ Released [1.1.0 - Multi-monitor support](https://github.com/Dadangdut33/simple-wallpaper-changer/releases/tag/1.1.0) in [Dadangdut33/simple-wallpaper-changer](https://github.com/Dadangdut33/simple-wallpaper-changer)
 8. ✌️ Released [1.0.2 - Linux build and bug fix](https://github.com/Dadangdut33/simple-wallpaper-changer/releases/tag/1.0.2) in [Dadangdut33/simple-wallpaper-changer](https://github.com/Dadangdut33/simple-wallpaper-changer)
 9. ✌️ Released [1.0.1 - Bug fix and new stuff (WIndows x64 x32)](https://github.com/Dadangdut33/simple-wallpaper-changer/releases/tag/1.0.1) in [Dadangdut33/simple-wallpaper-changer](https://github.com/Dadangdut33/simple-wallpaper-changer)
