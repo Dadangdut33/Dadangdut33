@@ -80,16 +80,16 @@
     <summary>⚡ Recent GitHub Activity</summary>
     
 <!--RECENT_ACTIVITY:start-->
-1. ✔️ Closed issue [#6](https://github.com/Dadangdut33/simple-prayertime-reminder/issues/6) in [Dadangdut33/simple-prayertime-reminder](https://github.com/Dadangdut33/simple-prayertime-reminder)
-2. ✔️ Closed issue [#8](https://github.com/Dadangdut33/simple-prayertime-reminder/issues/8) in [Dadangdut33/simple-prayertime-reminder](https://github.com/Dadangdut33/simple-prayertime-reminder)
-3. 📖 Created new wiki page [Home](https://github.com/Dadangdut33/simple-prayertime-reminder/wiki/Home) in [Dadangdut33/simple-prayertime-reminder](https://github.com/Dadangdut33/simple-prayertime-reminder)
-4. ✔️ Closed issue [#7](https://github.com/Dadangdut33/simple-prayertime-reminder/issues/7) in [Dadangdut33/simple-prayertime-reminder](https://github.com/Dadangdut33/simple-prayertime-reminder)
-5. ✔️ Closed issue [#4](https://github.com/Dadangdut33/simple-prayertime-reminder/issues/4) in [Dadangdut33/simple-prayertime-reminder](https://github.com/Dadangdut33/simple-prayertime-reminder)
-6. ✔️ Closed issue [#1](https://github.com/Dadangdut33/simple-prayertime-reminder/issues/1) in [Dadangdut33/simple-prayertime-reminder](https://github.com/Dadangdut33/simple-prayertime-reminder)
-7. ✔️ Closed issue [#2](https://github.com/Dadangdut33/simple-prayertime-reminder/issues/2) in [Dadangdut33/simple-prayertime-reminder](https://github.com/Dadangdut33/simple-prayertime-reminder)
-8. ❗️ Opened issue [#9](https://github.com/Dadangdut33/simple-prayertime-reminder/issues/9) in [Dadangdut33/simple-prayertime-reminder](https://github.com/Dadangdut33/simple-prayertime-reminder)
-9. 🔱 Forked [Dadangdut33/electron-react-boilerplate](https://github.com/Dadangdut33/electron-react-boilerplate) from [electron-react-boilerplate/electron-react-boilerplate](https://github.com/electron-react-boilerplate/electron-react-boilerplate)
-10. ✌️ Released [V1.8.5 Resizable setting window](https://github.com/Dadangdut33/Screen-Translate/releases/tag/V1.8.5) in [Dadangdut33/Screen-Translate](https://github.com/Dadangdut33/Screen-Translate)
+1. ❗️ Opened issue [#10](https://github.com/Dadangdut33/simple-prayertime-reminder/issues/10) in [Dadangdut33/simple-prayertime-reminder](https://github.com/Dadangdut33/simple-prayertime-reminder)
+2. ✔️ Closed issue [#6](https://github.com/Dadangdut33/simple-prayertime-reminder/issues/6) in [Dadangdut33/simple-prayertime-reminder](https://github.com/Dadangdut33/simple-prayertime-reminder)
+3. ✔️ Closed issue [#8](https://github.com/Dadangdut33/simple-prayertime-reminder/issues/8) in [Dadangdut33/simple-prayertime-reminder](https://github.com/Dadangdut33/simple-prayertime-reminder)
+4. 📖 Created new wiki page [Home](https://github.com/Dadangdut33/simple-prayertime-reminder/wiki/Home) in [Dadangdut33/simple-prayertime-reminder](https://github.com/Dadangdut33/simple-prayertime-reminder)
+5. ✔️ Closed issue [#7](https://github.com/Dadangdut33/simple-prayertime-reminder/issues/7) in [Dadangdut33/simple-prayertime-reminder](https://github.com/Dadangdut33/simple-prayertime-reminder)
+6. ✔️ Closed issue [#4](https://github.com/Dadangdut33/simple-prayertime-reminder/issues/4) in [Dadangdut33/simple-prayertime-reminder](https://github.com/Dadangdut33/simple-prayertime-reminder)
+7. ✔️ Closed issue [#1](https://github.com/Dadangdut33/simple-prayertime-reminder/issues/1) in [Dadangdut33/simple-prayertime-reminder](https://github.com/Dadangdut33/simple-prayertime-reminder)
+8. ✔️ Closed issue [#2](https://github.com/Dadangdut33/simple-prayertime-reminder/issues/2) in [Dadangdut33/simple-prayertime-reminder](https://github.com/Dadangdut33/simple-prayertime-reminder)
+9. ❗️ Opened issue [#9](https://github.com/Dadangdut33/simple-prayertime-reminder/issues/9) in [Dadangdut33/simple-prayertime-reminder](https://github.com/Dadangdut33/simple-prayertime-reminder)
+10. 🔱 Forked [Dadangdut33/electron-react-boilerplate](https://github.com/Dadangdut33/electron-react-boilerplate) from [electron-react-boilerplate/electron-react-boilerplate](https://github.com/electron-react-boilerplate/electron-react-boilerplate)
 <!--RECENT_ACTIVITY:end-->
 
 
