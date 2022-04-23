@@ -80,16 +80,16 @@
     <summary>⚡ Recent GitHub Activity</summary>
     
 <!--RECENT_ACTIVITY:start-->
-1. 📖 Created new wiki page [Dev](https://github.com/Dadangdut33/simple-prayertime-reminder/wiki/Dev) in [Dadangdut33/simple-prayertime-reminder](https://github.com/Dadangdut33/simple-prayertime-reminder)
-2. 📖 Created new wiki page [Options](https://github.com/Dadangdut33/simple-prayertime-reminder/wiki/Options) in [Dadangdut33/simple-prayertime-reminder](https://github.com/Dadangdut33/simple-prayertime-reminder)
-3. ✔️ Closed issue [#10](https://github.com/Dadangdut33/simple-prayertime-reminder/issues/10) in [Dadangdut33/simple-prayertime-reminder](https://github.com/Dadangdut33/simple-prayertime-reminder)
-4. ✔️ Closed issue [#11](https://github.com/Dadangdut33/simple-prayertime-reminder/issues/11) in [Dadangdut33/simple-prayertime-reminder](https://github.com/Dadangdut33/simple-prayertime-reminder)
-5. ❗️ Opened issue [#11](https://github.com/Dadangdut33/simple-prayertime-reminder/issues/11) in [Dadangdut33/simple-prayertime-reminder](https://github.com/Dadangdut33/simple-prayertime-reminder)
-6. ✔️ Closed issue [#9](https://github.com/Dadangdut33/simple-prayertime-reminder/issues/9) in [Dadangdut33/simple-prayertime-reminder](https://github.com/Dadangdut33/simple-prayertime-reminder)
-7. ❗️ Opened issue [#10](https://github.com/Dadangdut33/simple-prayertime-reminder/issues/10) in [Dadangdut33/simple-prayertime-reminder](https://github.com/Dadangdut33/simple-prayertime-reminder)
-8. ✔️ Closed issue [#6](https://github.com/Dadangdut33/simple-prayertime-reminder/issues/6) in [Dadangdut33/simple-prayertime-reminder](https://github.com/Dadangdut33/simple-prayertime-reminder)
-9. ✔️ Closed issue [#8](https://github.com/Dadangdut33/simple-prayertime-reminder/issues/8) in [Dadangdut33/simple-prayertime-reminder](https://github.com/Dadangdut33/simple-prayertime-reminder)
-10. 📖 Created new wiki page [Home](https://github.com/Dadangdut33/simple-prayertime-reminder/wiki/Home) in [Dadangdut33/simple-prayertime-reminder](https://github.com/Dadangdut33/simple-prayertime-reminder)
+1. 📖 Created new wiki page [FAQ](https://github.com/Dadangdut33/simple-prayertime-reminder/wiki/FAQ) in [Dadangdut33/simple-prayertime-reminder](https://github.com/Dadangdut33/simple-prayertime-reminder)
+2. 📖 Created new wiki page [Dev](https://github.com/Dadangdut33/simple-prayertime-reminder/wiki/Dev) in [Dadangdut33/simple-prayertime-reminder](https://github.com/Dadangdut33/simple-prayertime-reminder)
+3. 📖 Created new wiki page [Options](https://github.com/Dadangdut33/simple-prayertime-reminder/wiki/Options) in [Dadangdut33/simple-prayertime-reminder](https://github.com/Dadangdut33/simple-prayertime-reminder)
+4. ✔️ Closed issue [#10](https://github.com/Dadangdut33/simple-prayertime-reminder/issues/10) in [Dadangdut33/simple-prayertime-reminder](https://github.com/Dadangdut33/simple-prayertime-reminder)
+5. ✔️ Closed issue [#11](https://github.com/Dadangdut33/simple-prayertime-reminder/issues/11) in [Dadangdut33/simple-prayertime-reminder](https://github.com/Dadangdut33/simple-prayertime-reminder)
+6. ❗️ Opened issue [#11](https://github.com/Dadangdut33/simple-prayertime-reminder/issues/11) in [Dadangdut33/simple-prayertime-reminder](https://github.com/Dadangdut33/simple-prayertime-reminder)
+7. ✔️ Closed issue [#9](https://github.com/Dadangdut33/simple-prayertime-reminder/issues/9) in [Dadangdut33/simple-prayertime-reminder](https://github.com/Dadangdut33/simple-prayertime-reminder)
+8. ❗️ Opened issue [#10](https://github.com/Dadangdut33/simple-prayertime-reminder/issues/10) in [Dadangdut33/simple-prayertime-reminder](https://github.com/Dadangdut33/simple-prayertime-reminder)
+9. ✔️ Closed issue [#6](https://github.com/Dadangdut33/simple-prayertime-reminder/issues/6) in [Dadangdut33/simple-prayertime-reminder](https://github.com/Dadangdut33/simple-prayertime-reminder)
+10. ✔️ Closed issue [#8](https://github.com/Dadangdut33/simple-prayertime-reminder/issues/8) in [Dadangdut33/simple-prayertime-reminder](https://github.com/Dadangdut33/simple-prayertime-reminder)
 <!--RECENT_ACTIVITY:end-->
 
 
