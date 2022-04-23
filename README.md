@@ -80,16 +80,16 @@
     <summary>⚡ Recent GitHub Activity</summary>
     
 <!--RECENT_ACTIVITY:start-->
-1. ✔️ Closed issue [#11](https://github.com/Dadangdut33/simple-prayertime-reminder/issues/11) in [Dadangdut33/simple-prayertime-reminder](https://github.com/Dadangdut33/simple-prayertime-reminder)
-2. ❗️ Opened issue [#11](https://github.com/Dadangdut33/simple-prayertime-reminder/issues/11) in [Dadangdut33/simple-prayertime-reminder](https://github.com/Dadangdut33/simple-prayertime-reminder)
-3. ✔️ Closed issue [#9](https://github.com/Dadangdut33/simple-prayertime-reminder/issues/9) in [Dadangdut33/simple-prayertime-reminder](https://github.com/Dadangdut33/simple-prayertime-reminder)
-4. ❗️ Opened issue [#10](https://github.com/Dadangdut33/simple-prayertime-reminder/issues/10) in [Dadangdut33/simple-prayertime-reminder](https://github.com/Dadangdut33/simple-prayertime-reminder)
-5. ✔️ Closed issue [#6](https://github.com/Dadangdut33/simple-prayertime-reminder/issues/6) in [Dadangdut33/simple-prayertime-reminder](https://github.com/Dadangdut33/simple-prayertime-reminder)
-6. ✔️ Closed issue [#8](https://github.com/Dadangdut33/simple-prayertime-reminder/issues/8) in [Dadangdut33/simple-prayertime-reminder](https://github.com/Dadangdut33/simple-prayertime-reminder)
-7. 📖 Created new wiki page [Home](https://github.com/Dadangdut33/simple-prayertime-reminder/wiki/Home) in [Dadangdut33/simple-prayertime-reminder](https://github.com/Dadangdut33/simple-prayertime-reminder)
-8. ✔️ Closed issue [#7](https://github.com/Dadangdut33/simple-prayertime-reminder/issues/7) in [Dadangdut33/simple-prayertime-reminder](https://github.com/Dadangdut33/simple-prayertime-reminder)
-9. ✔️ Closed issue [#4](https://github.com/Dadangdut33/simple-prayertime-reminder/issues/4) in [Dadangdut33/simple-prayertime-reminder](https://github.com/Dadangdut33/simple-prayertime-reminder)
-10. ✔️ Closed issue [#1](https://github.com/Dadangdut33/simple-prayertime-reminder/issues/1) in [Dadangdut33/simple-prayertime-reminder](https://github.com/Dadangdut33/simple-prayertime-reminder)
+1. ✔️ Closed issue [#10](https://github.com/Dadangdut33/simple-prayertime-reminder/issues/10) in [Dadangdut33/simple-prayertime-reminder](https://github.com/Dadangdut33/simple-prayertime-reminder)
+2. ✔️ Closed issue [#11](https://github.com/Dadangdut33/simple-prayertime-reminder/issues/11) in [Dadangdut33/simple-prayertime-reminder](https://github.com/Dadangdut33/simple-prayertime-reminder)
+3. ❗️ Opened issue [#11](https://github.com/Dadangdut33/simple-prayertime-reminder/issues/11) in [Dadangdut33/simple-prayertime-reminder](https://github.com/Dadangdut33/simple-prayertime-reminder)
+4. ✔️ Closed issue [#9](https://github.com/Dadangdut33/simple-prayertime-reminder/issues/9) in [Dadangdut33/simple-prayertime-reminder](https://github.com/Dadangdut33/simple-prayertime-reminder)
+5. ❗️ Opened issue [#10](https://github.com/Dadangdut33/simple-prayertime-reminder/issues/10) in [Dadangdut33/simple-prayertime-reminder](https://github.com/Dadangdut33/simple-prayertime-reminder)
+6. ✔️ Closed issue [#6](https://github.com/Dadangdut33/simple-prayertime-reminder/issues/6) in [Dadangdut33/simple-prayertime-reminder](https://github.com/Dadangdut33/simple-prayertime-reminder)
+7. ✔️ Closed issue [#8](https://github.com/Dadangdut33/simple-prayertime-reminder/issues/8) in [Dadangdut33/simple-prayertime-reminder](https://github.com/Dadangdut33/simple-prayertime-reminder)
+8. 📖 Created new wiki page [Home](https://github.com/Dadangdut33/simple-prayertime-reminder/wiki/Home) in [Dadangdut33/simple-prayertime-reminder](https://github.com/Dadangdut33/simple-prayertime-reminder)
+9. ✔️ Closed issue [#7](https://github.com/Dadangdut33/simple-prayertime-reminder/issues/7) in [Dadangdut33/simple-prayertime-reminder](https://github.com/Dadangdut33/simple-prayertime-reminder)
+10. ✔️ Closed issue [#4](https://github.com/Dadangdut33/simple-prayertime-reminder/issues/4) in [Dadangdut33/simple-prayertime-reminder](https://github.com/Dadangdut33/simple-prayertime-reminder)
 <!--RECENT_ACTIVITY:end-->
 
 
