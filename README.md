@@ -80,16 +80,16 @@
     <summary>⚡ Recent GitHub Activity</summary>
     
 <!--RECENT_ACTIVITY:start-->
-1. ✌️ Released [1.1.5 - A little improvement and fix](https://github.com/Dadangdut33/simple-wallpaper-changer/releases/tag/1.1.5) in [Dadangdut33/simple-wallpaper-changer](https://github.com/Dadangdut33/simple-wallpaper-changer)
-2. ✌️ Released [1.0.3 - Bug fix](https://github.com/Dadangdut33/simple-prayertime-reminder/releases/tag/1.0.3) in [Dadangdut33/simple-prayertime-reminder](https://github.com/Dadangdut33/simple-prayertime-reminder)
-3. ✌️ Released [1.0.2](https://github.com/Dadangdut33/simple-prayertime-reminder/releases/tag/1.0.2) in [Dadangdut33/simple-prayertime-reminder](https://github.com/Dadangdut33/simple-prayertime-reminder)
-4. ✌️ Released [1.0.1 - Minor bug fix](https://github.com/Dadangdut33/simple-prayertime-reminder/releases/tag/1.0.1) in [Dadangdut33/simple-prayertime-reminder](https://github.com/Dadangdut33/simple-prayertime-reminder)
-5. ✌️ Released [1.0.0 - First release](https://github.com/Dadangdut33/simple-prayertime-reminder/releases/tag/1.0.0) in [Dadangdut33/simple-prayertime-reminder](https://github.com/Dadangdut33/simple-prayertime-reminder)
-6. 📖 Created new wiki page [FAQ](https://github.com/Dadangdut33/simple-prayertime-reminder/wiki/FAQ) in [Dadangdut33/simple-prayertime-reminder](https://github.com/Dadangdut33/simple-prayertime-reminder)
-7. 📖 Created new wiki page [Dev](https://github.com/Dadangdut33/simple-prayertime-reminder/wiki/Dev) in [Dadangdut33/simple-prayertime-reminder](https://github.com/Dadangdut33/simple-prayertime-reminder)
-8. 📖 Created new wiki page [Options](https://github.com/Dadangdut33/simple-prayertime-reminder/wiki/Options) in [Dadangdut33/simple-prayertime-reminder](https://github.com/Dadangdut33/simple-prayertime-reminder)
-9. ✔️ Closed issue [#10](https://github.com/Dadangdut33/simple-prayertime-reminder/issues/10) in [Dadangdut33/simple-prayertime-reminder](https://github.com/Dadangdut33/simple-prayertime-reminder)
-10. ✔️ Closed issue [#11](https://github.com/Dadangdut33/simple-prayertime-reminder/issues/11) in [Dadangdut33/simple-prayertime-reminder](https://github.com/Dadangdut33/simple-prayertime-reminder)
+1. 🎉 Merged PR [#2](https://github.com/Dadangdut33/blog-dadangdut33/pull/2) in [Dadangdut33/blog-dadangdut33](https://github.com/Dadangdut33/blog-dadangdut33)
+2. 💪 Opened PR [#2](https://github.com/Dadangdut33/blog-dadangdut33/pull/2) in [Dadangdut33/blog-dadangdut33](https://github.com/Dadangdut33/blog-dadangdut33)
+3. ✌️ Released [1.1.5 - A little improvement and fix](https://github.com/Dadangdut33/simple-wallpaper-changer/releases/tag/1.1.5) in [Dadangdut33/simple-wallpaper-changer](https://github.com/Dadangdut33/simple-wallpaper-changer)
+4. ✌️ Released [1.0.3 - Bug fix](https://github.com/Dadangdut33/simple-prayertime-reminder/releases/tag/1.0.3) in [Dadangdut33/simple-prayertime-reminder](https://github.com/Dadangdut33/simple-prayertime-reminder)
+5. ✌️ Released [1.0.2](https://github.com/Dadangdut33/simple-prayertime-reminder/releases/tag/1.0.2) in [Dadangdut33/simple-prayertime-reminder](https://github.com/Dadangdut33/simple-prayertime-reminder)
+6. ✌️ Released [1.0.1 - Minor bug fix](https://github.com/Dadangdut33/simple-prayertime-reminder/releases/tag/1.0.1) in [Dadangdut33/simple-prayertime-reminder](https://github.com/Dadangdut33/simple-prayertime-reminder)
+7. ✌️ Released [1.0.0 - First release](https://github.com/Dadangdut33/simple-prayertime-reminder/releases/tag/1.0.0) in [Dadangdut33/simple-prayertime-reminder](https://github.com/Dadangdut33/simple-prayertime-reminder)
+8. 📖 Created new wiki page [FAQ](https://github.com/Dadangdut33/simple-prayertime-reminder/wiki/FAQ) in [Dadangdut33/simple-prayertime-reminder](https://github.com/Dadangdut33/simple-prayertime-reminder)
+9. 📖 Created new wiki page [Dev](https://github.com/Dadangdut33/simple-prayertime-reminder/wiki/Dev) in [Dadangdut33/simple-prayertime-reminder](https://github.com/Dadangdut33/simple-prayertime-reminder)
+10. 📖 Created new wiki page [Options](https://github.com/Dadangdut33/simple-prayertime-reminder/wiki/Options) in [Dadangdut33/simple-prayertime-reminder](https://github.com/Dadangdut33/simple-prayertime-reminder)
 <!--RECENT_ACTIVITY:end-->
 
 
