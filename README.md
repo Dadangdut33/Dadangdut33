@@ -80,16 +80,16 @@
     <summary>⚡ Recent GitHub Activity</summary>
     
 <!--RECENT_ACTIVITY:start-->
-1. ✌️ Released [1.1.1 - Minor bug fix](https://github.com/Dadangdut33/simple-prayertime-reminder/releases/tag/1.1.1) in [Dadangdut33/simple-prayertime-reminder](https://github.com/Dadangdut33/simple-prayertime-reminder)
-2. ✌️ Released [1.1.0 - Play Adhan](https://github.com/Dadangdut33/simple-prayertime-reminder/releases/tag/1.1.0) in [Dadangdut33/simple-prayertime-reminder](https://github.com/Dadangdut33/simple-prayertime-reminder)
-3. ⭐ Starred [thangngoc89/react-howler](https://github.com/thangngoc89/react-howler)
-4. ✔️ Closed issue [#13](https://github.com/Dadangdut33/simple-prayertime-reminder/issues/13) in [Dadangdut33/simple-prayertime-reminder](https://github.com/Dadangdut33/simple-prayertime-reminder)
-5. ✔️ Closed issue [#12](https://github.com/Dadangdut33/simple-prayertime-reminder/issues/12) in [Dadangdut33/simple-prayertime-reminder](https://github.com/Dadangdut33/simple-prayertime-reminder)
-6. ❗️ Opened issue [#13](https://github.com/Dadangdut33/simple-prayertime-reminder/issues/13) in [Dadangdut33/simple-prayertime-reminder](https://github.com/Dadangdut33/simple-prayertime-reminder)
-7. ❗️ Opened issue [#12](https://github.com/Dadangdut33/simple-prayertime-reminder/issues/12) in [Dadangdut33/simple-prayertime-reminder](https://github.com/Dadangdut33/simple-prayertime-reminder)
-8. 🎉 Merged PR [#2](https://github.com/Dadangdut33/blog-dadangdut33/pull/2) in [Dadangdut33/blog-dadangdut33](https://github.com/Dadangdut33/blog-dadangdut33)
-9. 💪 Opened PR [#2](https://github.com/Dadangdut33/blog-dadangdut33/pull/2) in [Dadangdut33/blog-dadangdut33](https://github.com/Dadangdut33/blog-dadangdut33)
-10. ✌️ Released [1.1.5 - A little improvement and fix](https://github.com/Dadangdut33/simple-wallpaper-changer/releases/tag/1.1.5) in [Dadangdut33/simple-wallpaper-changer](https://github.com/Dadangdut33/simple-wallpaper-changer)
+1. ✌️ Released [1.1.2 - Bug Fix](https://github.com/Dadangdut33/simple-prayertime-reminder/releases/tag/1.1.2) in [Dadangdut33/simple-prayertime-reminder](https://github.com/Dadangdut33/simple-prayertime-reminder)
+2. ✌️ Released [1.1.1 - Minor bug fix](https://github.com/Dadangdut33/simple-prayertime-reminder/releases/tag/1.1.1) in [Dadangdut33/simple-prayertime-reminder](https://github.com/Dadangdut33/simple-prayertime-reminder)
+3. ✌️ Released [1.1.0 - Play Adhan](https://github.com/Dadangdut33/simple-prayertime-reminder/releases/tag/1.1.0) in [Dadangdut33/simple-prayertime-reminder](https://github.com/Dadangdut33/simple-prayertime-reminder)
+4. ⭐ Starred [thangngoc89/react-howler](https://github.com/thangngoc89/react-howler)
+5. ✔️ Closed issue [#13](https://github.com/Dadangdut33/simple-prayertime-reminder/issues/13) in [Dadangdut33/simple-prayertime-reminder](https://github.com/Dadangdut33/simple-prayertime-reminder)
+6. ✔️ Closed issue [#12](https://github.com/Dadangdut33/simple-prayertime-reminder/issues/12) in [Dadangdut33/simple-prayertime-reminder](https://github.com/Dadangdut33/simple-prayertime-reminder)
+7. ❗️ Opened issue [#13](https://github.com/Dadangdut33/simple-prayertime-reminder/issues/13) in [Dadangdut33/simple-prayertime-reminder](https://github.com/Dadangdut33/simple-prayertime-reminder)
+8. ❗️ Opened issue [#12](https://github.com/Dadangdut33/simple-prayertime-reminder/issues/12) in [Dadangdut33/simple-prayertime-reminder](https://github.com/Dadangdut33/simple-prayertime-reminder)
+9. 🎉 Merged PR [#2](https://github.com/Dadangdut33/blog-dadangdut33/pull/2) in [Dadangdut33/blog-dadangdut33](https://github.com/Dadangdut33/blog-dadangdut33)
+10. 💪 Opened PR [#2](https://github.com/Dadangdut33/blog-dadangdut33/pull/2) in [Dadangdut33/blog-dadangdut33](https://github.com/Dadangdut33/blog-dadangdut33)
 <!--RECENT_ACTIVITY:end-->
 
 
