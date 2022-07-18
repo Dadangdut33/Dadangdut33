@@ -80,16 +80,16 @@
     <summary>⚡ Recent GitHub Activity</summary>
     
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [cyplo/genpass](https://github.com/cyplo/genpass)
-2. 🎉 Merged PR [#9](https://github.com/Litbang-HIMTI/Backend-Website-Himti/pull/9) in [Litbang-HIMTI/Backend-Website-Himti](https://github.com/Litbang-HIMTI/Backend-Website-Himti)
-3. 💪 Opened PR [#9](https://github.com/Litbang-HIMTI/Backend-Website-Himti/pull/9) in [Litbang-HIMTI/Backend-Website-Himti](https://github.com/Litbang-HIMTI/Backend-Website-Himti)
-4. ✔️ Closed issue [#5](https://github.com/Litbang-HIMTI/Backend-Website-Himti/issues/5) in [Litbang-HIMTI/Backend-Website-Himti](https://github.com/Litbang-HIMTI/Backend-Website-Himti)
-5. ⭐ Starred [riverar/wsa-app-compatibility](https://github.com/riverar/wsa-app-compatibility)
-6. ⭐ Starred [LSPosed/MagiskOnWSA](https://github.com/LSPosed/MagiskOnWSA)
-7. ❗️ Opened issue [#7](https://github.com/Litbang-HIMTI/Backend-Website-Himti/issues/7) in [Litbang-HIMTI/Backend-Website-Himti](https://github.com/Litbang-HIMTI/Backend-Website-Himti)
-8. ⭐ Starred [mrpond/BlockTheSpot](https://github.com/mrpond/BlockTheSpot)
-9. 📔 Created new repository [Dadangdut33/HIMTIDEV-Web-](https://github.com/Dadangdut33/HIMTIDEV-Web-)
-10. 💪 Opened PR [#6](https://github.com/Litbang-HIMTI/Backend-Website-Himti/pull/6) in [Litbang-HIMTI/Backend-Website-Himti](https://github.com/Litbang-HIMTI/Backend-Website-Himti)
+1. ⭐ Starred [AntonioErdeljac/passport-tutorial](https://github.com/AntonioErdeljac/passport-tutorial)
+2. ⭐ Starred [cyplo/genpass](https://github.com/cyplo/genpass)
+3. 🎉 Merged PR [#9](https://github.com/Litbang-HIMTI/Backend-Website-Himti/pull/9) in [Litbang-HIMTI/Backend-Website-Himti](https://github.com/Litbang-HIMTI/Backend-Website-Himti)
+4. 💪 Opened PR [#9](https://github.com/Litbang-HIMTI/Backend-Website-Himti/pull/9) in [Litbang-HIMTI/Backend-Website-Himti](https://github.com/Litbang-HIMTI/Backend-Website-Himti)
+5. ✔️ Closed issue [#5](https://github.com/Litbang-HIMTI/Backend-Website-Himti/issues/5) in [Litbang-HIMTI/Backend-Website-Himti](https://github.com/Litbang-HIMTI/Backend-Website-Himti)
+6. ⭐ Starred [riverar/wsa-app-compatibility](https://github.com/riverar/wsa-app-compatibility)
+7. ⭐ Starred [LSPosed/MagiskOnWSA](https://github.com/LSPosed/MagiskOnWSA)
+8. ❗️ Opened issue [#7](https://github.com/Litbang-HIMTI/Backend-Website-Himti/issues/7) in [Litbang-HIMTI/Backend-Website-Himti](https://github.com/Litbang-HIMTI/Backend-Website-Himti)
+9. ⭐ Starred [mrpond/BlockTheSpot](https://github.com/mrpond/BlockTheSpot)
+10. 📔 Created new repository [Dadangdut33/HIMTIDEV-Web-](https://github.com/Dadangdut33/HIMTIDEV-Web-)
 <!--RECENT_ACTIVITY:end-->
 
 
