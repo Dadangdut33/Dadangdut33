@@ -80,16 +80,16 @@
     <summary>⚡ Recent GitHub Activity</summary>
     
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#11](https://github.com/Litbang-HIMTI/Backend-Website-Himti/issues/11) in [Litbang-HIMTI/Backend-Website-Himti](https://github.com/Litbang-HIMTI/Backend-Website-Himti)
-2. ✔️ Closed issue [#7](https://github.com/Litbang-HIMTI/Backend-Website-Himti/issues/7) in [Litbang-HIMTI/Backend-Website-Himti](https://github.com/Litbang-HIMTI/Backend-Website-Himti)
-3. 🎉 Merged PR [#10](https://github.com/Litbang-HIMTI/Backend-Website-Himti/pull/10) in [Litbang-HIMTI/Backend-Website-Himti](https://github.com/Litbang-HIMTI/Backend-Website-Himti)
-4. 💪 Opened PR [#10](https://github.com/Litbang-HIMTI/Backend-Website-Himti/pull/10) in [Litbang-HIMTI/Backend-Website-Himti](https://github.com/Litbang-HIMTI/Backend-Website-Himti)
-5. ⭐ Starred [AntonioErdeljac/passport-tutorial](https://github.com/AntonioErdeljac/passport-tutorial)
-6. ⭐ Starred [cyplo/genpass](https://github.com/cyplo/genpass)
-7. 🎉 Merged PR [#9](https://github.com/Litbang-HIMTI/Backend-Website-Himti/pull/9) in [Litbang-HIMTI/Backend-Website-Himti](https://github.com/Litbang-HIMTI/Backend-Website-Himti)
-8. 💪 Opened PR [#9](https://github.com/Litbang-HIMTI/Backend-Website-Himti/pull/9) in [Litbang-HIMTI/Backend-Website-Himti](https://github.com/Litbang-HIMTI/Backend-Website-Himti)
-9. ✔️ Closed issue [#5](https://github.com/Litbang-HIMTI/Backend-Website-Himti/issues/5) in [Litbang-HIMTI/Backend-Website-Himti](https://github.com/Litbang-HIMTI/Backend-Website-Himti)
-10. ⭐ Starred [riverar/wsa-app-compatibility](https://github.com/riverar/wsa-app-compatibility)
+1. ❗️ Opened issue [#13](https://github.com/Litbang-HIMTI/Backend-Website-Himti/issues/13) in [Litbang-HIMTI/Backend-Website-Himti](https://github.com/Litbang-HIMTI/Backend-Website-Himti)
+2. ✔️ Closed issue [#2](https://github.com/Litbang-HIMTI/Backend-Website-Himti/issues/2) in [Litbang-HIMTI/Backend-Website-Himti](https://github.com/Litbang-HIMTI/Backend-Website-Himti)
+3. ✔️ Closed issue [#11](https://github.com/Litbang-HIMTI/Backend-Website-Himti/issues/11) in [Litbang-HIMTI/Backend-Website-Himti](https://github.com/Litbang-HIMTI/Backend-Website-Himti)
+4. 🎉 Merged PR [#12](https://github.com/Litbang-HIMTI/Backend-Website-Himti/pull/12) in [Litbang-HIMTI/Backend-Website-Himti](https://github.com/Litbang-HIMTI/Backend-Website-Himti)
+5. 💪 Opened PR [#12](https://github.com/Litbang-HIMTI/Backend-Website-Himti/pull/12) in [Litbang-HIMTI/Backend-Website-Himti](https://github.com/Litbang-HIMTI/Backend-Website-Himti)
+6. ❗️ Opened issue [#11](https://github.com/Litbang-HIMTI/Backend-Website-Himti/issues/11) in [Litbang-HIMTI/Backend-Website-Himti](https://github.com/Litbang-HIMTI/Backend-Website-Himti)
+7. ✔️ Closed issue [#7](https://github.com/Litbang-HIMTI/Backend-Website-Himti/issues/7) in [Litbang-HIMTI/Backend-Website-Himti](https://github.com/Litbang-HIMTI/Backend-Website-Himti)
+8. 🎉 Merged PR [#10](https://github.com/Litbang-HIMTI/Backend-Website-Himti/pull/10) in [Litbang-HIMTI/Backend-Website-Himti](https://github.com/Litbang-HIMTI/Backend-Website-Himti)
+9. 💪 Opened PR [#10](https://github.com/Litbang-HIMTI/Backend-Website-Himti/pull/10) in [Litbang-HIMTI/Backend-Website-Himti](https://github.com/Litbang-HIMTI/Backend-Website-Himti)
+10. ⭐ Starred [AntonioErdeljac/passport-tutorial](https://github.com/AntonioErdeljac/passport-tutorial)
 <!--RECENT_ACTIVITY:end-->
 
 
