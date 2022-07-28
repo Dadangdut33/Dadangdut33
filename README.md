@@ -80,16 +80,16 @@
     <summary>⚡ Recent GitHub Activity</summary>
     
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#8](https://github.com/Dadangdut33/Misaka-10032-ts/pull/8) in [Dadangdut33/Misaka-10032-ts](https://github.com/Dadangdut33/Misaka-10032-ts)
-2. 💪 Opened PR [#8](https://github.com/Dadangdut33/Misaka-10032-ts/pull/8) in [Dadangdut33/Misaka-10032-ts](https://github.com/Dadangdut33/Misaka-10032-ts)
-3. 🎉 Merged PR [#18](https://github.com/Litbang-HIMTI/Backend-Website-Himti/pull/18) in [Litbang-HIMTI/Backend-Website-Himti](https://github.com/Litbang-HIMTI/Backend-Website-Himti)
-4. 💪 Opened PR [#18](https://github.com/Litbang-HIMTI/Backend-Website-Himti/pull/18) in [Litbang-HIMTI/Backend-Website-Himti](https://github.com/Litbang-HIMTI/Backend-Website-Himti)
-5. 📔 Created new repository [Litbang-HIMTI/Frontend-Website-Himti](https://github.com/Litbang-HIMTI/Frontend-Website-Himti)
-6. 🎉 Merged PR [#17](https://github.com/Litbang-HIMTI/Backend-Website-Himti/pull/17) in [Litbang-HIMTI/Backend-Website-Himti](https://github.com/Litbang-HIMTI/Backend-Website-Himti)
-7. 💪 Opened PR [#17](https://github.com/Litbang-HIMTI/Backend-Website-Himti/pull/17) in [Litbang-HIMTI/Backend-Website-Himti](https://github.com/Litbang-HIMTI/Backend-Website-Himti)
-8. ⭐ Starred [veler/DevToys](https://github.com/veler/DevToys)
-9. ✔️ Closed issue [#1](https://github.com/Litbang-HIMTI/Backend-Website-Himti/issues/1) in [Litbang-HIMTI/Backend-Website-Himti](https://github.com/Litbang-HIMTI/Backend-Website-Himti)
-10. ✔️ Closed issue [#13](https://github.com/Litbang-HIMTI/Backend-Website-Himti/issues/13) in [Litbang-HIMTI/Backend-Website-Himti](https://github.com/Litbang-HIMTI/Backend-Website-Himti)
+1. 🎉 Merged PR [#9](https://github.com/Dadangdut33/Misaka-10032-ts/pull/9) in [Dadangdut33/Misaka-10032-ts](https://github.com/Dadangdut33/Misaka-10032-ts)
+2. 💪 Opened PR [#9](https://github.com/Dadangdut33/Misaka-10032-ts/pull/9) in [Dadangdut33/Misaka-10032-ts](https://github.com/Dadangdut33/Misaka-10032-ts)
+3. 🎉 Merged PR [#8](https://github.com/Dadangdut33/Misaka-10032-ts/pull/8) in [Dadangdut33/Misaka-10032-ts](https://github.com/Dadangdut33/Misaka-10032-ts)
+4. 💪 Opened PR [#8](https://github.com/Dadangdut33/Misaka-10032-ts/pull/8) in [Dadangdut33/Misaka-10032-ts](https://github.com/Dadangdut33/Misaka-10032-ts)
+5. 🎉 Merged PR [#18](https://github.com/Litbang-HIMTI/Backend-Website-Himti/pull/18) in [Litbang-HIMTI/Backend-Website-Himti](https://github.com/Litbang-HIMTI/Backend-Website-Himti)
+6. 💪 Opened PR [#18](https://github.com/Litbang-HIMTI/Backend-Website-Himti/pull/18) in [Litbang-HIMTI/Backend-Website-Himti](https://github.com/Litbang-HIMTI/Backend-Website-Himti)
+7. 📔 Created new repository [Litbang-HIMTI/Frontend-Website-Himti](https://github.com/Litbang-HIMTI/Frontend-Website-Himti)
+8. 🎉 Merged PR [#17](https://github.com/Litbang-HIMTI/Backend-Website-Himti/pull/17) in [Litbang-HIMTI/Backend-Website-Himti](https://github.com/Litbang-HIMTI/Backend-Website-Himti)
+9. 💪 Opened PR [#17](https://github.com/Litbang-HIMTI/Backend-Website-Himti/pull/17) in [Litbang-HIMTI/Backend-Website-Himti](https://github.com/Litbang-HIMTI/Backend-Website-Himti)
+10. ⭐ Starred [veler/DevToys](https://github.com/veler/DevToys)
 <!--RECENT_ACTIVITY:end-->
 
 
