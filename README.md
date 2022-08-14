@@ -80,16 +80,16 @@
     <summary>⚡ Recent GitHub Activity</summary>
     
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [mantinedev/mantine](https://github.com/mantinedev/mantine)
-2. ⭐ Starred [mantinedev/ui.mantine.dev](https://github.com/mantinedev/ui.mantine.dev)
-3. ✔️ Closed issue [#3](https://github.com/Litbang-HIMTI/Frontend-Website-Himti/issues/3) in [Litbang-HIMTI/Frontend-Website-Himti](https://github.com/Litbang-HIMTI/Frontend-Website-Himti)
-4. ❗️ Opened issue [#3](https://github.com/Litbang-HIMTI/Frontend-Website-Himti/issues/3) in [Litbang-HIMTI/Frontend-Website-Himti](https://github.com/Litbang-HIMTI/Frontend-Website-Himti)
-5. ✔️ Closed issue [#2](https://github.com/Litbang-HIMTI/Frontend-Website-Himti/issues/2) in [Litbang-HIMTI/Frontend-Website-Himti](https://github.com/Litbang-HIMTI/Frontend-Website-Himti)
-6. 🔱 Forked [Dadangdut33/Frontend-Website-Himti](https://github.com/Dadangdut33/Frontend-Website-Himti) from [Litbang-HIMTI/Frontend-Website-Himti](https://github.com/Litbang-HIMTI/Frontend-Website-Himti)
-7. ❗️ Opened issue [#2](https://github.com/Litbang-HIMTI/Frontend-Website-Himti/issues/2) in [Litbang-HIMTI/Frontend-Website-Himti](https://github.com/Litbang-HIMTI/Frontend-Website-Himti)
-8. ✔️ Closed issue [#21](https://github.com/Litbang-HIMTI/Backend-Website-Himti/issues/21) in [Litbang-HIMTI/Backend-Website-Himti](https://github.com/Litbang-HIMTI/Backend-Website-Himti)
-9. ❗️ Opened issue [#21](https://github.com/Litbang-HIMTI/Backend-Website-Himti/issues/21) in [Litbang-HIMTI/Backend-Website-Himti](https://github.com/Litbang-HIMTI/Backend-Website-Himti)
-10. ✔️ Closed issue [#20](https://github.com/Litbang-HIMTI/Backend-Website-Himti/issues/20) in [Litbang-HIMTI/Backend-Website-Himti](https://github.com/Litbang-HIMTI/Backend-Website-Himti)
+1. ❗️ Opened issue [#4](https://github.com/Litbang-HIMTI/Frontend-Website-Himti/issues/4) in [Litbang-HIMTI/Frontend-Website-Himti](https://github.com/Litbang-HIMTI/Frontend-Website-Himti)
+2. ⭐ Starred [mantinedev/mantine](https://github.com/mantinedev/mantine)
+3. ⭐ Starred [mantinedev/ui.mantine.dev](https://github.com/mantinedev/ui.mantine.dev)
+4. ✔️ Closed issue [#3](https://github.com/Litbang-HIMTI/Frontend-Website-Himti/issues/3) in [Litbang-HIMTI/Frontend-Website-Himti](https://github.com/Litbang-HIMTI/Frontend-Website-Himti)
+5. ❗️ Opened issue [#3](https://github.com/Litbang-HIMTI/Frontend-Website-Himti/issues/3) in [Litbang-HIMTI/Frontend-Website-Himti](https://github.com/Litbang-HIMTI/Frontend-Website-Himti)
+6. ✔️ Closed issue [#2](https://github.com/Litbang-HIMTI/Frontend-Website-Himti/issues/2) in [Litbang-HIMTI/Frontend-Website-Himti](https://github.com/Litbang-HIMTI/Frontend-Website-Himti)
+7. 🔱 Forked [Dadangdut33/Frontend-Website-Himti](https://github.com/Dadangdut33/Frontend-Website-Himti) from [Litbang-HIMTI/Frontend-Website-Himti](https://github.com/Litbang-HIMTI/Frontend-Website-Himti)
+8. ❗️ Opened issue [#2](https://github.com/Litbang-HIMTI/Frontend-Website-Himti/issues/2) in [Litbang-HIMTI/Frontend-Website-Himti](https://github.com/Litbang-HIMTI/Frontend-Website-Himti)
+9. ✔️ Closed issue [#21](https://github.com/Litbang-HIMTI/Backend-Website-Himti/issues/21) in [Litbang-HIMTI/Backend-Website-Himti](https://github.com/Litbang-HIMTI/Backend-Website-Himti)
+10. ❗️ Opened issue [#21](https://github.com/Litbang-HIMTI/Backend-Website-Himti/issues/21) in [Litbang-HIMTI/Backend-Website-Himti](https://github.com/Litbang-HIMTI/Backend-Website-Himti)
 <!--RECENT_ACTIVITY:end-->
 
 
