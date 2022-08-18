@@ -80,16 +80,16 @@
     <summary>⚡ Recent GitHub Activity</summary>
     
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#8](https://github.com/Litbang-HIMTI/Frontend-Website-Himti/issues/8) in [Litbang-HIMTI/Frontend-Website-Himti](https://github.com/Litbang-HIMTI/Frontend-Website-Himti)
-2. ✔️ Closed issue [#6](https://github.com/Litbang-HIMTI/Frontend-Website-Himti/issues/6) in [Litbang-HIMTI/Frontend-Website-Himti](https://github.com/Litbang-HIMTI/Frontend-Website-Himti)
-3. ❗️ Opened issue [#23](https://github.com/Litbang-HIMTI/Backend-Website-Himti/issues/23) in [Litbang-HIMTI/Backend-Website-Himti](https://github.com/Litbang-HIMTI/Backend-Website-Himti)
-4. ✔️ Closed issue [#5](https://github.com/Litbang-HIMTI/Frontend-Website-Himti/issues/5) in [Litbang-HIMTI/Frontend-Website-Himti](https://github.com/Litbang-HIMTI/Frontend-Website-Himti)
-5. ✔️ Closed issue [#7](https://github.com/Litbang-HIMTI/Frontend-Website-Himti/issues/7) in [Litbang-HIMTI/Frontend-Website-Himti](https://github.com/Litbang-HIMTI/Frontend-Website-Himti)
-6. ❗️ Opened issue [#7](https://github.com/Litbang-HIMTI/Frontend-Website-Himti/issues/7) in [Litbang-HIMTI/Frontend-Website-Himti](https://github.com/Litbang-HIMTI/Frontend-Website-Himti)
-7. ❗️ Opened issue [#22](https://github.com/Litbang-HIMTI/Backend-Website-Himti/issues/22) in [Litbang-HIMTI/Backend-Website-Himti](https://github.com/Litbang-HIMTI/Backend-Website-Himti)
-8. ❗️ Opened issue [#6](https://github.com/Litbang-HIMTI/Frontend-Website-Himti/issues/6) in [Litbang-HIMTI/Frontend-Website-Himti](https://github.com/Litbang-HIMTI/Frontend-Website-Himti)
-9. ❗️ Opened issue [#5](https://github.com/Litbang-HIMTI/Frontend-Website-Himti/issues/5) in [Litbang-HIMTI/Frontend-Website-Himti](https://github.com/Litbang-HIMTI/Frontend-Website-Himti)
-10. ✔️ Closed issue [#4](https://github.com/Litbang-HIMTI/Frontend-Website-Himti/issues/4) in [Litbang-HIMTI/Frontend-Website-Himti](https://github.com/Litbang-HIMTI/Frontend-Website-Himti)
+1. ✔️ Closed issue [#8](https://github.com/Litbang-HIMTI/Frontend-Website-Himti/issues/8) in [Litbang-HIMTI/Frontend-Website-Himti](https://github.com/Litbang-HIMTI/Frontend-Website-Himti)
+2. ❗️ Opened issue [#8](https://github.com/Litbang-HIMTI/Frontend-Website-Himti/issues/8) in [Litbang-HIMTI/Frontend-Website-Himti](https://github.com/Litbang-HIMTI/Frontend-Website-Himti)
+3. ✔️ Closed issue [#6](https://github.com/Litbang-HIMTI/Frontend-Website-Himti/issues/6) in [Litbang-HIMTI/Frontend-Website-Himti](https://github.com/Litbang-HIMTI/Frontend-Website-Himti)
+4. ❗️ Opened issue [#23](https://github.com/Litbang-HIMTI/Backend-Website-Himti/issues/23) in [Litbang-HIMTI/Backend-Website-Himti](https://github.com/Litbang-HIMTI/Backend-Website-Himti)
+5. ✔️ Closed issue [#5](https://github.com/Litbang-HIMTI/Frontend-Website-Himti/issues/5) in [Litbang-HIMTI/Frontend-Website-Himti](https://github.com/Litbang-HIMTI/Frontend-Website-Himti)
+6. ✔️ Closed issue [#7](https://github.com/Litbang-HIMTI/Frontend-Website-Himti/issues/7) in [Litbang-HIMTI/Frontend-Website-Himti](https://github.com/Litbang-HIMTI/Frontend-Website-Himti)
+7. ❗️ Opened issue [#7](https://github.com/Litbang-HIMTI/Frontend-Website-Himti/issues/7) in [Litbang-HIMTI/Frontend-Website-Himti](https://github.com/Litbang-HIMTI/Frontend-Website-Himti)
+8. ❗️ Opened issue [#22](https://github.com/Litbang-HIMTI/Backend-Website-Himti/issues/22) in [Litbang-HIMTI/Backend-Website-Himti](https://github.com/Litbang-HIMTI/Backend-Website-Himti)
+9. ❗️ Opened issue [#6](https://github.com/Litbang-HIMTI/Frontend-Website-Himti/issues/6) in [Litbang-HIMTI/Frontend-Website-Himti](https://github.com/Litbang-HIMTI/Frontend-Website-Himti)
+10. ❗️ Opened issue [#5](https://github.com/Litbang-HIMTI/Frontend-Website-Himti/issues/5) in [Litbang-HIMTI/Frontend-Website-Himti](https://github.com/Litbang-HIMTI/Frontend-Website-Himti)
 <!--RECENT_ACTIVITY:end-->
 
 
