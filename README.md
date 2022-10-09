@@ -80,16 +80,16 @@
     <summary>⚡ Recent GitHub Activity</summary>
     
 <!--RECENT_ACTIVITY:start-->
-1. ✌️ Released [1.0.1 - Improvement](https://github.com/Dadangdut33/Electron-Steganography/releases/tag/1.0.1) in [Dadangdut33/Electron-Steganography](https://github.com/Dadangdut33/Electron-Steganography)
-2. ✌️ Released [1.0.0 - Stable](https://github.com/Dadangdut33/Electron-Steganography/releases/tag/1.0.0) in [Dadangdut33/Electron-Steganography](https://github.com/Dadangdut33/Electron-Steganography)
-3. ⭐ Starred [zeruniverse/CryptoStego](https://github.com/zeruniverse/CryptoStego)
-4. 🤝 Became collaborator on [Dadangdut33/Electron-Steganography](https://github.com/Dadangdut33/Electron-Steganography)
-5. 📔 Created new repository [Dadangdut33/Electron-Steganography](https://github.com/Dadangdut33/Electron-Steganography)
-6. ✔️ Closed issue [#11](https://github.com/Dadangdut33/Misaka-10032-ts/issues/11) in [Dadangdut33/Misaka-10032-ts](https://github.com/Dadangdut33/Misaka-10032-ts)
-7. ✔️ Closed issue [#12](https://github.com/Dadangdut33/Misaka-10032-ts/issues/12) in [Dadangdut33/Misaka-10032-ts](https://github.com/Dadangdut33/Misaka-10032-ts)
-8. ⭐ Starred [ixartz/Next-js-Boilerplate](https://github.com/ixartz/Next-js-Boilerplate)
-9. ⭐ Starred [openai/whisper](https://github.com/openai/whisper)
-10. ⭐ Starred [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
+1. ⭐ Starred [mallorbc/whisper_mic](https://github.com/mallorbc/whisper_mic)
+2. ✌️ Released [1.0.1 - Improvement](https://github.com/Dadangdut33/Electron-Steganography/releases/tag/1.0.1) in [Dadangdut33/Electron-Steganography](https://github.com/Dadangdut33/Electron-Steganography)
+3. ✌️ Released [1.0.0 - Stable](https://github.com/Dadangdut33/Electron-Steganography/releases/tag/1.0.0) in [Dadangdut33/Electron-Steganography](https://github.com/Dadangdut33/Electron-Steganography)
+4. ⭐ Starred [zeruniverse/CryptoStego](https://github.com/zeruniverse/CryptoStego)
+5. 🤝 Became collaborator on [Dadangdut33/Electron-Steganography](https://github.com/Dadangdut33/Electron-Steganography)
+6. 📔 Created new repository [Dadangdut33/Electron-Steganography](https://github.com/Dadangdut33/Electron-Steganography)
+7. ✔️ Closed issue [#11](https://github.com/Dadangdut33/Misaka-10032-ts/issues/11) in [Dadangdut33/Misaka-10032-ts](https://github.com/Dadangdut33/Misaka-10032-ts)
+8. ✔️ Closed issue [#12](https://github.com/Dadangdut33/Misaka-10032-ts/issues/12) in [Dadangdut33/Misaka-10032-ts](https://github.com/Dadangdut33/Misaka-10032-ts)
+9. ⭐ Starred [ixartz/Next-js-Boilerplate](https://github.com/ixartz/Next-js-Boilerplate)
+10. ⭐ Starred [openai/whisper](https://github.com/openai/whisper)
 <!--RECENT_ACTIVITY:end-->
 
 
