@@ -80,16 +80,16 @@
     <summary>⚡ Recent GitHub Activity</summary>
     
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [zeruniverse/CryptoStego](https://github.com/zeruniverse/CryptoStego)
-2. 🤝 Became collaborator on [Dadangdut33/Electron-Steganography](https://github.com/Dadangdut33/Electron-Steganography)
-3. 📔 Created new repository [Dadangdut33/Electron-Steganography](https://github.com/Dadangdut33/Electron-Steganography)
-4. ✔️ Closed issue [#11](https://github.com/Dadangdut33/Misaka-10032-ts/issues/11) in [Dadangdut33/Misaka-10032-ts](https://github.com/Dadangdut33/Misaka-10032-ts)
-5. ✔️ Closed issue [#12](https://github.com/Dadangdut33/Misaka-10032-ts/issues/12) in [Dadangdut33/Misaka-10032-ts](https://github.com/Dadangdut33/Misaka-10032-ts)
-6. ⭐ Starred [ixartz/Next-js-Boilerplate](https://github.com/ixartz/Next-js-Boilerplate)
-7. ⭐ Starred [openai/whisper](https://github.com/openai/whisper)
-8. ⭐ Starred [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
-9. 🎉 Merged PR [#2](https://github.com/Dadangdut33/umami/pull/2) in [Dadangdut33/umami](https://github.com/Dadangdut33/umami)
-10. 🎉 Merged PR [#1](https://github.com/Dadangdut33/umami/pull/1) in [Dadangdut33/umami](https://github.com/Dadangdut33/umami)
+1. ✌️ Released [1.0.0 - Stable](https://github.com/Dadangdut33/Electron-Steganography/releases/tag/1.0.0) in [Dadangdut33/Electron-Steganography](https://github.com/Dadangdut33/Electron-Steganography)
+2. ⭐ Starred [zeruniverse/CryptoStego](https://github.com/zeruniverse/CryptoStego)
+3. 🤝 Became collaborator on [Dadangdut33/Electron-Steganography](https://github.com/Dadangdut33/Electron-Steganography)
+4. 📔 Created new repository [Dadangdut33/Electron-Steganography](https://github.com/Dadangdut33/Electron-Steganography)
+5. ✔️ Closed issue [#11](https://github.com/Dadangdut33/Misaka-10032-ts/issues/11) in [Dadangdut33/Misaka-10032-ts](https://github.com/Dadangdut33/Misaka-10032-ts)
+6. ✔️ Closed issue [#12](https://github.com/Dadangdut33/Misaka-10032-ts/issues/12) in [Dadangdut33/Misaka-10032-ts](https://github.com/Dadangdut33/Misaka-10032-ts)
+7. ⭐ Starred [ixartz/Next-js-Boilerplate](https://github.com/ixartz/Next-js-Boilerplate)
+8. ⭐ Starred [openai/whisper](https://github.com/openai/whisper)
+9. ⭐ Starred [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
+10. 🎉 Merged PR [#2](https://github.com/Dadangdut33/umami/pull/2) in [Dadangdut33/umami](https://github.com/Dadangdut33/umami)
 <!--RECENT_ACTIVITY:end-->
 
 
