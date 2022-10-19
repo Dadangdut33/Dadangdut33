@@ -80,16 +80,16 @@
     <summary>⚡ Recent GitHub Activity</summary>
     
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [datguypiko/Firefox-Mod-Blur](https://github.com/datguypiko/Firefox-Mod-Blur)
-2. 📔 Created new repository [Dadangdut33/vanilla-startpage](https://github.com/Dadangdut33/vanilla-startpage)
-3. ⭐ Starred [mallorbc/whisper_mic](https://github.com/mallorbc/whisper_mic)
-4. ✌️ Released [1.0.1 - Improvement](https://github.com/Dadangdut33/Electron-Steganography/releases/tag/1.0.1) in [Dadangdut33/Electron-Steganography](https://github.com/Dadangdut33/Electron-Steganography)
-5. ✌️ Released [1.0.0 - Stable](https://github.com/Dadangdut33/Electron-Steganography/releases/tag/1.0.0) in [Dadangdut33/Electron-Steganography](https://github.com/Dadangdut33/Electron-Steganography)
-6. ⭐ Starred [zeruniverse/CryptoStego](https://github.com/zeruniverse/CryptoStego)
-7. 🤝 Became collaborator on [Dadangdut33/Electron-Steganography](https://github.com/Dadangdut33/Electron-Steganography)
-8. 📔 Created new repository [Dadangdut33/Electron-Steganography](https://github.com/Dadangdut33/Electron-Steganography)
-9. ✔️ Closed issue [#11](https://github.com/Dadangdut33/Misaka-10032-ts/issues/11) in [Dadangdut33/Misaka-10032-ts](https://github.com/Dadangdut33/Misaka-10032-ts)
-10. ✔️ Closed issue [#12](https://github.com/Dadangdut33/Misaka-10032-ts/issues/12) in [Dadangdut33/Misaka-10032-ts](https://github.com/Dadangdut33/Misaka-10032-ts)
+1. ⭐ Starred [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
+2. ⭐ Starred [datguypiko/Firefox-Mod-Blur](https://github.com/datguypiko/Firefox-Mod-Blur)
+3. 📔 Created new repository [Dadangdut33/vanilla-startpage](https://github.com/Dadangdut33/vanilla-startpage)
+4. ⭐ Starred [mallorbc/whisper_mic](https://github.com/mallorbc/whisper_mic)
+5. ✌️ Released [1.0.1 - Improvement](https://github.com/Dadangdut33/Electron-Steganography/releases/tag/1.0.1) in [Dadangdut33/Electron-Steganography](https://github.com/Dadangdut33/Electron-Steganography)
+6. ✌️ Released [1.0.0 - Stable](https://github.com/Dadangdut33/Electron-Steganography/releases/tag/1.0.0) in [Dadangdut33/Electron-Steganography](https://github.com/Dadangdut33/Electron-Steganography)
+7. ⭐ Starred [zeruniverse/CryptoStego](https://github.com/zeruniverse/CryptoStego)
+8. 🤝 Became collaborator on [Dadangdut33/Electron-Steganography](https://github.com/Dadangdut33/Electron-Steganography)
+9. 📔 Created new repository [Dadangdut33/Electron-Steganography](https://github.com/Dadangdut33/Electron-Steganography)
+10. ✔️ Closed issue [#11](https://github.com/Dadangdut33/Misaka-10032-ts/issues/11) in [Dadangdut33/Misaka-10032-ts](https://github.com/Dadangdut33/Misaka-10032-ts)
 <!--RECENT_ACTIVITY:end-->
 
 
