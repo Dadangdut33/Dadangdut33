@@ -80,16 +80,16 @@
     <summary>⚡ Recent GitHub Activity</summary>
     
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [amd64fox/Rollback-Spotify](https://github.com/amd64fox/Rollback-Spotify)
-2. ⭐ Starred [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
-3. ⭐ Starred [datguypiko/Firefox-Mod-Blur](https://github.com/datguypiko/Firefox-Mod-Blur)
-4. 📔 Created new repository [Dadangdut33/vanilla-startpage](https://github.com/Dadangdut33/vanilla-startpage)
-5. ⭐ Starred [mallorbc/whisper_mic](https://github.com/mallorbc/whisper_mic)
-6. ✌️ Released [1.0.1 - Improvement](https://github.com/Dadangdut33/Electron-Steganography/releases/tag/1.0.1) in [Dadangdut33/Electron-Steganography](https://github.com/Dadangdut33/Electron-Steganography)
-7. ✌️ Released [1.0.0 - Stable](https://github.com/Dadangdut33/Electron-Steganography/releases/tag/1.0.0) in [Dadangdut33/Electron-Steganography](https://github.com/Dadangdut33/Electron-Steganography)
-8. ⭐ Starred [zeruniverse/CryptoStego](https://github.com/zeruniverse/CryptoStego)
-9. 🤝 Became collaborator on [Dadangdut33/Electron-Steganography](https://github.com/Dadangdut33/Electron-Steganography)
-10. 📔 Created new repository [Dadangdut33/Electron-Steganography](https://github.com/Dadangdut33/Electron-Steganography)
+1. ⭐ Starred [coreybutler/fenix](https://github.com/coreybutler/fenix)
+2. ⭐ Starred [amd64fox/Rollback-Spotify](https://github.com/amd64fox/Rollback-Spotify)
+3. ⭐ Starred [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
+4. ⭐ Starred [datguypiko/Firefox-Mod-Blur](https://github.com/datguypiko/Firefox-Mod-Blur)
+5. 📔 Created new repository [Dadangdut33/vanilla-startpage](https://github.com/Dadangdut33/vanilla-startpage)
+6. ⭐ Starred [mallorbc/whisper_mic](https://github.com/mallorbc/whisper_mic)
+7. ✌️ Released [1.0.1 - Improvement](https://github.com/Dadangdut33/Electron-Steganography/releases/tag/1.0.1) in [Dadangdut33/Electron-Steganography](https://github.com/Dadangdut33/Electron-Steganography)
+8. ✌️ Released [1.0.0 - Stable](https://github.com/Dadangdut33/Electron-Steganography/releases/tag/1.0.0) in [Dadangdut33/Electron-Steganography](https://github.com/Dadangdut33/Electron-Steganography)
+9. ⭐ Starred [zeruniverse/CryptoStego](https://github.com/zeruniverse/CryptoStego)
+10. 🤝 Became collaborator on [Dadangdut33/Electron-Steganography](https://github.com/Dadangdut33/Electron-Steganography)
 <!--RECENT_ACTIVITY:end-->
 
 
