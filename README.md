@@ -80,16 +80,16 @@
     <summary>⚡ Recent GitHub Activity</summary>
     
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Jax-Core/YourFlyouts](https://github.com/Jax-Core/YourFlyouts)
-2. ⭐ Starred [s0d3s/PyAudioWPatch](https://github.com/s0d3s/PyAudioWPatch)
-3. ⭐ Starred [ms7m/notify-py](https://github.com/ms7m/notify-py)
-4. ⭐ Starred [martinet101/win32mica](https://github.com/martinet101/win32mica)
-5. ⭐ Starred [coreybutler/fenix](https://github.com/coreybutler/fenix)
-6. ⭐ Starred [amd64fox/Rollback-Spotify](https://github.com/amd64fox/Rollback-Spotify)
-7. ⭐ Starred [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
-8. ⭐ Starred [datguypiko/Firefox-Mod-Blur](https://github.com/datguypiko/Firefox-Mod-Blur)
-9. 📔 Created new repository [Dadangdut33/vanilla-startpage](https://github.com/Dadangdut33/vanilla-startpage)
-10. ⭐ Starred [mallorbc/whisper_mic](https://github.com/mallorbc/whisper_mic)
+1. 📔 Created new repository [Dadangdut33/Forum-Warga](https://github.com/Dadangdut33/Forum-Warga)
+2. ⭐ Starred [Jax-Core/YourFlyouts](https://github.com/Jax-Core/YourFlyouts)
+3. ⭐ Starred [s0d3s/PyAudioWPatch](https://github.com/s0d3s/PyAudioWPatch)
+4. ⭐ Starred [ms7m/notify-py](https://github.com/ms7m/notify-py)
+5. ⭐ Starred [martinet101/win32mica](https://github.com/martinet101/win32mica)
+6. ⭐ Starred [coreybutler/fenix](https://github.com/coreybutler/fenix)
+7. ⭐ Starred [amd64fox/Rollback-Spotify](https://github.com/amd64fox/Rollback-Spotify)
+8. ⭐ Starred [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
+9. ⭐ Starred [datguypiko/Firefox-Mod-Blur](https://github.com/datguypiko/Firefox-Mod-Blur)
+10. 📔 Created new repository [Dadangdut33/vanilla-startpage](https://github.com/Dadangdut33/vanilla-startpage)
 <!--RECENT_ACTIVITY:end-->
 
 
