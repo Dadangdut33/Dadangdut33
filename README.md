@@ -80,16 +80,16 @@
     <summary>⚡ Recent GitHub Activity</summary>
     
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [denBot/yasb](https://github.com/denBot/yasb)
-2. 📔 Created new repository [Dadangdut33/Forum-Warga](https://github.com/Dadangdut33/Forum-Warga)
-3. ⭐ Starred [Jax-Core/YourFlyouts](https://github.com/Jax-Core/YourFlyouts)
-4. ⭐ Starred [s0d3s/PyAudioWPatch](https://github.com/s0d3s/PyAudioWPatch)
-5. ⭐ Starred [ms7m/notify-py](https://github.com/ms7m/notify-py)
-6. ⭐ Starred [martinet101/win32mica](https://github.com/martinet101/win32mica)
-7. ⭐ Starred [coreybutler/fenix](https://github.com/coreybutler/fenix)
-8. ⭐ Starred [amd64fox/Rollback-Spotify](https://github.com/amd64fox/Rollback-Spotify)
-9. ⭐ Starred [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
-10. ⭐ Starred [datguypiko/Firefox-Mod-Blur](https://github.com/datguypiko/Firefox-Mod-Blur)
+1. 🤝 Became collaborator on [Dadangdut33/Forum-Warga](https://github.com/Dadangdut33/Forum-Warga)
+2. ⭐ Starred [denBot/yasb](https://github.com/denBot/yasb)
+3. 📔 Created new repository [Dadangdut33/Forum-Warga](https://github.com/Dadangdut33/Forum-Warga)
+4. ⭐ Starred [Jax-Core/YourFlyouts](https://github.com/Jax-Core/YourFlyouts)
+5. ⭐ Starred [s0d3s/PyAudioWPatch](https://github.com/s0d3s/PyAudioWPatch)
+6. ⭐ Starred [ms7m/notify-py](https://github.com/ms7m/notify-py)
+7. ⭐ Starred [martinet101/win32mica](https://github.com/martinet101/win32mica)
+8. ⭐ Starred [coreybutler/fenix](https://github.com/coreybutler/fenix)
+9. ⭐ Starred [amd64fox/Rollback-Spotify](https://github.com/amd64fox/Rollback-Spotify)
+10. ⭐ Starred [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin)
 <!--RECENT_ACTIVITY:end-->
 
 
