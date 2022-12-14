@@ -80,16 +80,16 @@
     <summary>⚡ Recent GitHub Activity</summary>
     
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#1](https://github.com/Dadangdut33/Speech-Translate/issues/1) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
-2. ✌️ Released [1.0.0 - First Release](https://github.com/Dadangdut33/Speech-Translate/releases/tag/1.0.0) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
-3. 🤝 Became collaborator on [Dadangdut33/Forum-Warga](https://github.com/Dadangdut33/Forum-Warga)
-4. ⭐ Starred [denBot/yasb](https://github.com/denBot/yasb)
-5. 📔 Created new repository [Dadangdut33/Forum-Warga](https://github.com/Dadangdut33/Forum-Warga)
-6. ⭐ Starred [Jax-Core/YourFlyouts](https://github.com/Jax-Core/YourFlyouts)
-7. ⭐ Starred [s0d3s/PyAudioWPatch](https://github.com/s0d3s/PyAudioWPatch)
-8. ⭐ Starred [ms7m/notify-py](https://github.com/ms7m/notify-py)
-9. ⭐ Starred [martinet101/win32mica](https://github.com/martinet101/win32mica)
-10. ⭐ Starred [coreybutler/fenix](https://github.com/coreybutler/fenix)
+1. ❗️ Opened issue [#2](https://github.com/Dadangdut33/Speech-Translate/issues/2) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
+2. ❗️ Opened issue [#1](https://github.com/Dadangdut33/Speech-Translate/issues/1) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
+3. ✌️ Released [1.0.0 - First Release](https://github.com/Dadangdut33/Speech-Translate/releases/tag/1.0.0) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
+4. 🤝 Became collaborator on [Dadangdut33/Forum-Warga](https://github.com/Dadangdut33/Forum-Warga)
+5. ⭐ Starred [denBot/yasb](https://github.com/denBot/yasb)
+6. 📔 Created new repository [Dadangdut33/Forum-Warga](https://github.com/Dadangdut33/Forum-Warga)
+7. ⭐ Starred [Jax-Core/YourFlyouts](https://github.com/Jax-Core/YourFlyouts)
+8. ⭐ Starred [s0d3s/PyAudioWPatch](https://github.com/s0d3s/PyAudioWPatch)
+9. ⭐ Starred [ms7m/notify-py](https://github.com/ms7m/notify-py)
+10. ⭐ Starred [martinet101/win32mica](https://github.com/martinet101/win32mica)
 <!--RECENT_ACTIVITY:end-->
 
 
