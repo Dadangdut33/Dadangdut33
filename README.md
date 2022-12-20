@@ -80,16 +80,16 @@
     <summary>⚡ Recent GitHub Activity</summary>
     
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#1](https://github.com/Dadangdut33/Forum-Warga/pull/1) in [Dadangdut33/Forum-Warga](https://github.com/Dadangdut33/Forum-Warga)
-2. ❗️ Opened issue [#2](https://github.com/Dadangdut33/Speech-Translate/issues/2) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
-3. ❗️ Opened issue [#1](https://github.com/Dadangdut33/Speech-Translate/issues/1) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
-4. ✌️ Released [1.0.0 - First Release](https://github.com/Dadangdut33/Speech-Translate/releases/tag/1.0.0) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
-5. 🤝 Became collaborator on [Dadangdut33/Forum-Warga](https://github.com/Dadangdut33/Forum-Warga)
-6. ⭐ Starred [denBot/yasb](https://github.com/denBot/yasb)
-7. 📔 Created new repository [Dadangdut33/Forum-Warga](https://github.com/Dadangdut33/Forum-Warga)
-8. ⭐ Starred [Jax-Core/YourFlyouts](https://github.com/Jax-Core/YourFlyouts)
-9. ⭐ Starred [s0d3s/PyAudioWPatch](https://github.com/s0d3s/PyAudioWPatch)
-10. ⭐ Starred [ms7m/notify-py](https://github.com/ms7m/notify-py)
+1. ✔️ Closed issue [#3](https://github.com/Dadangdut33/Speech-Translate/issues/3) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
+2. 🎉 Merged PR [#1](https://github.com/Dadangdut33/Forum-Warga/pull/1) in [Dadangdut33/Forum-Warga](https://github.com/Dadangdut33/Forum-Warga)
+3. ❗️ Opened issue [#2](https://github.com/Dadangdut33/Speech-Translate/issues/2) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
+4. ❗️ Opened issue [#1](https://github.com/Dadangdut33/Speech-Translate/issues/1) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
+5. ✌️ Released [1.0.0 - First Release](https://github.com/Dadangdut33/Speech-Translate/releases/tag/1.0.0) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
+6. 🤝 Became collaborator on [Dadangdut33/Forum-Warga](https://github.com/Dadangdut33/Forum-Warga)
+7. ⭐ Starred [denBot/yasb](https://github.com/denBot/yasb)
+8. 📔 Created new repository [Dadangdut33/Forum-Warga](https://github.com/Dadangdut33/Forum-Warga)
+9. ⭐ Starred [Jax-Core/YourFlyouts](https://github.com/Jax-Core/YourFlyouts)
+10. ⭐ Starred [s0d3s/PyAudioWPatch](https://github.com/s0d3s/PyAudioWPatch)
 <!--RECENT_ACTIVITY:end-->
 
 
