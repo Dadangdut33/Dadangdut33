@@ -80,16 +80,16 @@
     <summary>⚡ Recent GitHub Activity</summary>
     
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Artikash/Textractor](https://github.com/Artikash/Textractor)
-2. ❗️ Opened issue [#5](https://github.com/Dadangdut33/Speech-Translate/issues/5) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
-3. ✔️ Closed issue [#1](https://github.com/Dadangdut33/Speech-Translate/issues/1) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
-4. ✔️ Closed issue [#3](https://github.com/Dadangdut33/Speech-Translate/issues/3) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
-5. 🎉 Merged PR [#1](https://github.com/Dadangdut33/Forum-Warga/pull/1) in [Dadangdut33/Forum-Warga](https://github.com/Dadangdut33/Forum-Warga)
-6. ❗️ Opened issue [#2](https://github.com/Dadangdut33/Speech-Translate/issues/2) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
-7. ❗️ Opened issue [#1](https://github.com/Dadangdut33/Speech-Translate/issues/1) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
-8. ✌️ Released [1.0.0 - First Release](https://github.com/Dadangdut33/Speech-Translate/releases/tag/1.0.0) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
-9. 🤝 Became collaborator on [Dadangdut33/Forum-Warga](https://github.com/Dadangdut33/Forum-Warga)
-10. ⭐ Starred [denBot/yasb](https://github.com/denBot/yasb)
+1. ✔️ Closed issue [#5](https://github.com/Dadangdut33/Speech-Translate/issues/5) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
+2. ⭐ Starred [Artikash/Textractor](https://github.com/Artikash/Textractor)
+3. ❗️ Opened issue [#5](https://github.com/Dadangdut33/Speech-Translate/issues/5) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
+4. ✔️ Closed issue [#1](https://github.com/Dadangdut33/Speech-Translate/issues/1) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
+5. ✔️ Closed issue [#3](https://github.com/Dadangdut33/Speech-Translate/issues/3) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
+6. 🎉 Merged PR [#1](https://github.com/Dadangdut33/Forum-Warga/pull/1) in [Dadangdut33/Forum-Warga](https://github.com/Dadangdut33/Forum-Warga)
+7. ❗️ Opened issue [#2](https://github.com/Dadangdut33/Speech-Translate/issues/2) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
+8. ❗️ Opened issue [#1](https://github.com/Dadangdut33/Speech-Translate/issues/1) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
+9. ✌️ Released [1.0.0 - First Release](https://github.com/Dadangdut33/Speech-Translate/releases/tag/1.0.0) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
+10. 🤝 Became collaborator on [Dadangdut33/Forum-Warga](https://github.com/Dadangdut33/Forum-Warga)
 <!--RECENT_ACTIVITY:end-->
 
 
