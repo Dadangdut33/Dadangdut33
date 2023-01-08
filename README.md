@@ -80,16 +80,16 @@
     <summary>⚡ Recent GitHub Activity</summary>
     
 <!--RECENT_ACTIVITY:start-->
-1. ✔️ Closed issue [#6](https://github.com/Dadangdut33/Speech-Translate/issues/6) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
-2. ✔️ Closed issue [#4](https://github.com/Dadangdut33/Speech-Translate/issues/4) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
-3. ✔️ Closed issue [#2](https://github.com/Dadangdut33/Speech-Translate/issues/2) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
-4. ✔️ Closed issue [#5](https://github.com/Dadangdut33/Speech-Translate/issues/5) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
-5. ⭐ Starred [Artikash/Textractor](https://github.com/Artikash/Textractor)
-6. ❗️ Opened issue [#5](https://github.com/Dadangdut33/Speech-Translate/issues/5) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
-7. ✔️ Closed issue [#1](https://github.com/Dadangdut33/Speech-Translate/issues/1) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
-8. ✔️ Closed issue [#3](https://github.com/Dadangdut33/Speech-Translate/issues/3) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
-9. 🎉 Merged PR [#1](https://github.com/Dadangdut33/Forum-Warga/pull/1) in [Dadangdut33/Forum-Warga](https://github.com/Dadangdut33/Forum-Warga)
-10. ❗️ Opened issue [#2](https://github.com/Dadangdut33/Speech-Translate/issues/2) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
+1. ⭐ Starred [fisharebest/webtrees](https://github.com/fisharebest/webtrees)
+2. ✔️ Closed issue [#6](https://github.com/Dadangdut33/Speech-Translate/issues/6) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
+3. ✔️ Closed issue [#4](https://github.com/Dadangdut33/Speech-Translate/issues/4) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
+4. ✔️ Closed issue [#2](https://github.com/Dadangdut33/Speech-Translate/issues/2) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
+5. ✔️ Closed issue [#5](https://github.com/Dadangdut33/Speech-Translate/issues/5) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
+6. ⭐ Starred [Artikash/Textractor](https://github.com/Artikash/Textractor)
+7. ❗️ Opened issue [#5](https://github.com/Dadangdut33/Speech-Translate/issues/5) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
+8. ✔️ Closed issue [#1](https://github.com/Dadangdut33/Speech-Translate/issues/1) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
+9. ✔️ Closed issue [#3](https://github.com/Dadangdut33/Speech-Translate/issues/3) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
+10. 🎉 Merged PR [#1](https://github.com/Dadangdut33/Forum-Warga/pull/1) in [Dadangdut33/Forum-Warga](https://github.com/Dadangdut33/Forum-Warga)
 <!--RECENT_ACTIVITY:end-->
 
 
