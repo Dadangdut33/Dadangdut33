@@ -80,16 +80,16 @@
     <summary>⚡ Recent GitHub Activity</summary>
     
 <!--RECENT_ACTIVITY:start-->
-1. ✌️ Released [1.1.0 - Real time](https://github.com/Dadangdut33/Speech-Translate/releases/tag/1.1.0) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
-2. ⭐ Starred [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX)
-3. ❗️ Opened issue [#14](https://github.com/Dadangdut33/Screen-Translate/issues/14) in [Dadangdut33/Screen-Translate](https://github.com/Dadangdut33/Screen-Translate)
-4. ⭐ Starred [fisharebest/webtrees](https://github.com/fisharebest/webtrees)
-5. ✔️ Closed issue [#6](https://github.com/Dadangdut33/Speech-Translate/issues/6) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
-6. ✔️ Closed issue [#4](https://github.com/Dadangdut33/Speech-Translate/issues/4) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
-7. ✔️ Closed issue [#2](https://github.com/Dadangdut33/Speech-Translate/issues/2) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
-8. ✔️ Closed issue [#5](https://github.com/Dadangdut33/Speech-Translate/issues/5) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
-9. ⭐ Starred [Artikash/Textractor](https://github.com/Artikash/Textractor)
-10. ❗️ Opened issue [#5](https://github.com/Dadangdut33/Speech-Translate/issues/5) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
+1. ⭐ Starred [purogamer/Fluent-for-Steam](https://github.com/purogamer/Fluent-for-Steam)
+2. ✌️ Released [1.1.0 - Real time](https://github.com/Dadangdut33/Speech-Translate/releases/tag/1.1.0) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
+3. ⭐ Starred [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX)
+4. ❗️ Opened issue [#14](https://github.com/Dadangdut33/Screen-Translate/issues/14) in [Dadangdut33/Screen-Translate](https://github.com/Dadangdut33/Screen-Translate)
+5. ⭐ Starred [fisharebest/webtrees](https://github.com/fisharebest/webtrees)
+6. ✔️ Closed issue [#6](https://github.com/Dadangdut33/Speech-Translate/issues/6) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
+7. ✔️ Closed issue [#4](https://github.com/Dadangdut33/Speech-Translate/issues/4) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
+8. ✔️ Closed issue [#2](https://github.com/Dadangdut33/Speech-Translate/issues/2) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
+9. ✔️ Closed issue [#5](https://github.com/Dadangdut33/Speech-Translate/issues/5) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
+10. ⭐ Starred [Artikash/Textractor](https://github.com/Artikash/Textractor)
 <!--RECENT_ACTIVITY:end-->
 
 
