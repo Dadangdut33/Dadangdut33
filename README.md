@@ -65,11 +65,11 @@ Hello There ヾ(￣ ▽ ￣)
 </p>
 
 <p align="center">
-    <img  src="https://github-readme-stats-ruby-one.vercel.app/api?username=Dadangdut33&show_icons=true&count_private=true&theme=transparent&line_height=27" alt="Dadangdut33's GitHub stats">
+    <img  src="https://github-readme-stats-ruby-one.vercel.app/api?username=Dadangdut33&show_icons=true&count_private=true&theme=transparent&line_height=27&hide_border=true" alt="Dadangdut33's GitHub stats">
 </p>
 
 <p align="center">
-    <img  src="https://github-readme-stats.vercel.app/api/wakatime?username=Dadangdut33&theme=transparent" alt="Dadangdut33's Coding Activity"><br />
+    <img  src="https://github-readme-stats.vercel.app/api/wakatime?username=Dadangdut33&theme=transparent&hide_border=true" alt="Dadangdut33's Coding Activity"><br />
     <a href="https://wakatime.com/@2c62c33c-4952-4ba2-98b9-e2451599b83a"><img src="https://wakatime.com/badge/user/2c62c33c-4952-4ba2-98b9-e2451599b83a.svg" alt="Wakatime" /></a>
 </p>
 
