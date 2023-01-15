@@ -6,13 +6,18 @@
 
 <br>
 
-# 💬 About Me
+<img align="right" height="250" width="375" alt="Dani Akash" src="https://github.com/Dadangdut33/Dadangdut33/blob/main/github-metrics.svg?raw=true"/>
+
+<h1>💬 About Me </h1>
 
 - Hi, my name is ~~Dadangdut33~~ Fauzan
 - I'm currently studying as an Informatics Engineering student at UIN Jakarta
 - I like to code on my free time
 - Feel free to checkout my projects and contribute if you want
 
+<br>
+<br>
+<br>
 <br>
 
 <h1>🔧 Language/Tools</h1>
@@ -58,11 +63,11 @@
 # <code>📊 Github Stats</code>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dadangdut33&langs_count=8&theme=tokyonight&layout=compact&hide=jupyter notebook, shell, batchfile, html" alt="Dadangdut33's Most Used Language">
+    <img src="https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=Dadangdut33&langs_count=8&theme=tokyonight&layout=compact&hide=jupyter notebook, shell, batchfile, html" alt="Dadangdut33's Most Used Language">
 </p>
 
 <p align="center">
-    <img  src="https://github-readme-stats.vercel.app/api?username=Dadangdut33&show_icons=true&count_private=true&theme=tokyonight&line_height=27" alt="Dadangdut33's GitHub stats">
+    <img  src="https://github-readme-stats-ruby-one.vercel.app/api?username=Dadangdut33&show_icons=true&count_private=true&theme=tokyonight&line_height=27" alt="Dadangdut33's GitHub stats">
 </p>
 
 <p align="center">
