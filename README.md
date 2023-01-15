@@ -1,76 +1,72 @@
-# Hello There ヾ(￣▽￣)
+# Hello There ヾ(￣ ▽ ￣)
+
 <div align="center">
-    <img align="center" src="https://github.com/Dadangdut33/Dadangdut33/blob/main/sorayori.gif?raw=true" alt="welcome-gif">
+    <img align="center"  src="https://github.com/Dadangdut33/Dadangdut33/blob/main/assets/sorayori.gif?raw=true" width="1000" alt="welcome-gif">
 </div>
 
 <br>
 
 # 💬 About Me
-### My name is ~~Dadangdut33~~ Fauzan, I'm currently an Informatics Engineering student at UIN Jakarta. I like to code on some side project on my free time.
+
+- Hi, my name is ~~Dadangdut33~~ Fauzan
+- I'm currently studying as an Informatics Engineering student at UIN Jakarta
+- I like to code on my free time
+- Feel free to checkout my projects and contribute if you want
 
 <br>
 
 <h1>🔧 Language/Tools</h1>
-<div align="center">
-    <code><a href="https://code.visualstudio.com/"><img align="center" alt="Vscode" width="30px"
-        src="https://code.visualstudio.com/assets/images/code-stable.png" /></a></code>
-    <code><img align="center" alt="Python" width="30px"
-        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" /></code>
-    <code><img align="center" alt="JavaScript" width="30px"
-        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /></code>
-    <code><img align="center" alt="Typescript" width="30px"
-        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" /></code>
-    <code><img align="center" alt="Node.js" width="30px"
-        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /></code>
-    <code><img align="center" alt="Reactjs" width="30px"
-        src="https://camo.githubusercontent.com/92ec9eb7eeab7db4f5919e3205918918c42e6772562afb4112a2909c1aaaa875/68747470733a2f2f6173736574732e76657263656c2e636f6d2f696d6167652f75706c6f61642f76313630373535343338352f7265706f7369746f726965732f6e6578742d6a732f6e6578742d6c6f676f2e706e67" /></code>
-    <code><img align="center" alt="Reactjs" width="30px"
-        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /></code>
-    <code><img align="center" alt="Django" width="30px"
-        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" /></code>
-    <code><img align="center" alt="Java" width="30px"
-        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" /></code>
-    <code><img align="center" alt="C" height="30px"
-        src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" /></code>
-    <code><img align="center" alt="PHP" width="30px"
-        src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" /></code>
-    <code><img align="center" alt="JQuery" width="30px"
-        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png" /></code>
-    <code><img align="center" alt="HTML5" width="30px"
-        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></code>
-    <code><img align="center" alt="CSS3" width="30px"
-        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></code>
-    <code><img align="center" alt="SQLite" width="30px"
-        src="https://raw.githubusercontent.com/github/explore/2d218e3aa252dc90eef269b34eeec1fbd15dc07e/topics/sqlite/sqlite.png" /></code>
-    <code><img align="center" alt="SQL" width="30px"
-        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" /></code>
-    <code><img align="center" alt="MongoDB" width="30px"
-        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" /></code>
-</div>
+
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
+![Prettier](https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white)
+![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=flat-square&logo=Firefox-Browser&logoColor=white)
+![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=flat-square&logo=GoogleChrome&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![nodejs](https://img.shields.io/badge/nodejs-339933?style=flat-square&logo=node.js&logoColor=white)
+![javascript](https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white)
+![expressjs](https://img.shields.io/badge/expressjs-000000?style=flat-square&logo=express&logoColor=white)
+![django](https://img.shields.io/badge/django-092E20?style=flat-square&logo=django&logoColor=white)
+![Electron.js](https://img.shields.io/badge/Electron-191970?style=flat-square&logo=Electron&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white)
+![mysql](https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white)
+![mongodb](https://img.shields.io/badge/mongodb-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white)
+![php](https://img.shields.io/badge/php-777BB4?style=flat-square&logo=php&logoColor=white)
 
 <br>
 
 <h1>📡 Find me on</h1>
-<div align="center">
-    <a href="https://www.linkedin.com/in/fauzan-farhan-antoro/"><code><img alt="Fauzan Farhan Antoro | LinkedIn" width="30px"
-        src="https://content.linkedin.com/content/dam/me/brand/en-us/brand-home/logos/In-Blue-Logo.png.original.png" /></code></a>
-    <a href="https://steamcommunity.com/id/dadangdut33/"><code><img alt="Dadangdut33 | Steam" width="30px"
-        src="https://raw.githubusercontent.com/github/explore/84354664714c333c785c6f2cb9b77d2514014ef8/topics/steam/steam.png" /></code></a>
-    <a href="https://ko-fi.com/dadangdut33/"><code><img alt="Dadangdut33 | Ko-Fi" width="30px"
-        src="https://avatars.githubusercontent.com/u/58597177?s=200&v=4" /></code></a>
-</div>
 
+<a href="https://www.linkedin.com/in/fauzan-farhan-antoro/"><code><img alt="Fauzan Farhan Antoro | LinkedIn" 
+    src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" /></code></a>
+<a href="https://steamcommunity.com/id/dadangdut33/"><code><img alt="Dadangdut33 | Steam" 
+    src="https://img.shields.io/badge/steam-%23000000.svg?style=flat-square&logo=steam&logoColor=white" /></code></a>
+<a href="https://ko-fi.com/dadangdut33/"><code><img alt="Dadangdut33 | Ko-Fi" 
+    src="https://img.shields.io/badge/Ko--fi-F16061?style=flat-square&logo=ko-fi&logoColor=white" /></code></a>
 
 <br>
 <br>
 
 # <code>📊 Github Stats</code>
+
 <p align="center">
-    <img align="center" width="500" src="https://github-readme-stats.vercel.app/api?username=Dadangdut33&show_icons=true&count_private=true&theme=radical&line_height=27" alt="Dadangdut33's GitHub stats">
-    <img align="center" width="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dadangdut33&langs_count=8&theme=radical&hide=jupyter notebook, shell, batchfile, html" alt="Dadangdut33's Most Used Language">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dadangdut33&langs_count=8&theme=tokyonight&layout=compact&hide=jupyter notebook, shell, batchfile, html" alt="Dadangdut33's Most Used Language">
 </p>
+
 <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Dadangdut33&theme=radical" alt="Dadangdut33's Coding Activity"><br>
+    <img  src="https://github-readme-stats.vercel.app/api?username=Dadangdut33&show_icons=true&count_private=true&theme=tokyonight&line_height=27" alt="Dadangdut33's GitHub stats">
+</p>
+
+<p align="center">
+    <img  src="https://github-readme-stats.vercel.app/api/wakatime?username=Dadangdut33&theme=tokyonight" alt="Dadangdut33's Coding Activity"><br>
     <a href="https://wakatime.com/@2c62c33c-4952-4ba2-98b9-e2451599b83a"><img src="https://wakatime.com/badge/user/2c62c33c-4952-4ba2-98b9-e2451599b83a.svg" alt="Wakatime" /></a>
 </p>
 
@@ -91,6 +87,5 @@
 9. ✔️ Closed issue [#2](https://github.com/Dadangdut33/Speech-Translate/issues/2) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
 10. ✔️ Closed issue [#5](https://github.com/Dadangdut33/Speech-Translate/issues/5) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
 <!--RECENT_ACTIVITY:end-->
-
 
 </details>
