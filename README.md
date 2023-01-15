@@ -1,26 +1,39 @@
-# Hello There ヾ(￣ ▽ ￣)
+<h1 align="center">
+Hello There ヾ(￣ ▽ ￣)
+</h1>
 
 <div align="center">
     <img align="center"  src="https://github.com/Dadangdut33/Dadangdut33/blob/main/assets/sorayori.gif?raw=true" width="1000px" alt="welcome-gif">
 </div>
 
-<br>
+<br />
 
-<img align="right" height="250" width="375" alt="Dani Akash" src="https://github.com/Dadangdut33/Dadangdut33/blob/main/github-metrics.svg?raw=true"/>
+<img align="right" height="250" width="375" alt="Github metrics" src="https://github.com/Dadangdut33/Dadangdut33/blob/main/github-metrics.svg?raw=true"/>
 
-<h1>💬 About Me </h1>
+## 💬 About Me
 
-- Hi, my name is ~~Dadangdut33~~ Fauzan
-- I'm currently studying as an Informatics Engineering student at UIN Jakarta
+- Hi 👋🏻, my name is ~~Dadangdut33~~ Fauzan
+- I'm currently studying ✍🏻 as an Informatics Engineering student at UIN Jakarta
 - I like to code on my free time
-- Feel free to checkout my projects and contribute if you want
+- Feel free to checkout my projects and contribute if you want to ^^
 
-<br>
-<br>
-<br>
-<br>
+<br />
+<br />
+<br />
+<br />
 
-<h1>🔧 Language/Tools</h1>
+## 📡 Find Me On
+
+<a href="https://www.linkedin.com/in/fauzan-farhan-antoro/"><code><img alt="Fauzan Farhan Antoro | LinkedIn" 
+    src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" /></code></a>
+<a href="https://steamcommunity.com/id/dadangdut33/"><code><img alt="Dadangdut33 | Steam" 
+    src="https://img.shields.io/badge/steam-%23000000.svg?style=flat-square&logo=steam&logoColor=white" /></code></a>
+<a href="https://ko-fi.com/dadangdut33/"><code><img alt="Dadangdut33 | Ko-Fi" 
+    src="https://img.shields.io/badge/Ko--fi-F16061?style=flat-square&logo=ko-fi&logoColor=white" /></code></a>
+
+<br />
+
+## 🔧 Tools / Language
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
@@ -46,19 +59,7 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white)
 ![php](https://img.shields.io/badge/php-777BB4?style=flat-square&logo=php&logoColor=white)
 
-<br>
-
-<h1>📡 Find me on</h1>
-
-<a href="https://www.linkedin.com/in/fauzan-farhan-antoro/"><code><img alt="Fauzan Farhan Antoro | LinkedIn" 
-    src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" /></code></a>
-<a href="https://steamcommunity.com/id/dadangdut33/"><code><img alt="Dadangdut33 | Steam" 
-    src="https://img.shields.io/badge/steam-%23000000.svg?style=flat-square&logo=steam&logoColor=white" /></code></a>
-<a href="https://ko-fi.com/dadangdut33/"><code><img alt="Dadangdut33 | Ko-Fi" 
-    src="https://img.shields.io/badge/Ko--fi-F16061?style=flat-square&logo=ko-fi&logoColor=white" /></code></a>
-
-<br>
-<br>
+<br />
 
 # <code>📊 Github Stats</code>
 
@@ -71,7 +72,7 @@
 </p>
 
 <p align="center">
-    <img  src="https://github-readme-stats.vercel.app/api/wakatime?username=Dadangdut33&theme=tokyonight" alt="Dadangdut33's Coding Activity"><br>
+    <img  src="https://github-readme-stats.vercel.app/api/wakatime?username=Dadangdut33&theme=tokyonight" alt="Dadangdut33's Coding Activity"><br />
     <a href="https://wakatime.com/@2c62c33c-4952-4ba2-98b9-e2451599b83a"><img src="https://wakatime.com/badge/user/2c62c33c-4952-4ba2-98b9-e2451599b83a.svg" alt="Wakatime" /></a>
 </p>
 
