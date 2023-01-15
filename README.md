@@ -8,14 +8,15 @@ Hello There ヾ(￣ ▽ ￣)
 
 <br />
 
-<img align="right" height="275" width="375" alt="Github metrics" src="https://github.com/Dadangdut33/Dadangdut33/blob/main/github-metrics.svg?raw=true"/>
+<img align="right" height="300" width="375" alt="Github metrics" src="https://github.com/Dadangdut33/Dadangdut33/blob/main/github-metrics.svg?raw=true"/>
 
 ### 💬 About Me
 
 - Hi 👋🏻, my name is ~~Dadangdut33~~ Fauzan
 - I'm currently studying ✍🏻 as an Informatics Engineering student at UIN Jakarta
-- I like to code on my free time
+- I like to code 💻 on my free time
 - Feel free to checkout my projects and contribute if you want to ^^
+- Check 👉🏻[this](https://github.com/users/Dadangdut33/projects/3) out to see what i'm currently working on
 
 <br />
 <br />
