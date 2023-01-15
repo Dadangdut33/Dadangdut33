@@ -1,7 +1,7 @@
 # Hello There ヾ(￣ ▽ ￣)
 
 <div align="center">
-    <img align="center"  src="https://github.com/Dadangdut33/Dadangdut33/blob/main/assets/sorayori.gif?raw=true" width="1000" alt="welcome-gif">
+    <img align="center"  src="https://github.com/Dadangdut33/Dadangdut33/blob/main/assets/sorayori.gif?raw=true" width="1000px" alt="welcome-gif">
 </div>
 
 <br>
