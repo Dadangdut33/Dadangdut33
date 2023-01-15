@@ -8,9 +8,9 @@ Hello There ヾ(￣ ▽ ￣)
 
 <br />
 
-<img align="right" height="250" width="375" alt="Github metrics" src="https://github.com/Dadangdut33/Dadangdut33/blob/main/github-metrics.svg?raw=true"/>
+<img align="right" height="275" width="375" alt="Github metrics" src="https://github.com/Dadangdut33/Dadangdut33/blob/main/github-metrics.svg?raw=true"/>
 
-## 💬 About Me
+### 💬 About Me
 
 - Hi 👋🏻, my name is ~~Dadangdut33~~ Fauzan
 - I'm currently studying ✍🏻 as an Informatics Engineering student at UIN Jakarta
@@ -19,10 +19,8 @@ Hello There ヾ(￣ ▽ ￣)
 
 <br />
 <br />
-<br />
-<br />
 
-## 📡 Find Me On
+### 📡 Find Me On
 
 <a href="https://www.linkedin.com/in/fauzan-farhan-antoro/"><code><img alt="Fauzan Farhan Antoro | LinkedIn" 
     src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" /></code></a>
@@ -31,9 +29,7 @@ Hello There ヾ(￣ ▽ ￣)
 <a href="https://ko-fi.com/dadangdut33/"><code><img alt="Dadangdut33 | Ko-Fi" 
     src="https://img.shields.io/badge/Ko--fi-F16061?style=flat-square&logo=ko-fi&logoColor=white" /></code></a>
 
-<br />
-
-## 🔧 Tools / Language
+### 🔧 Tools / Language
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
