@@ -60,7 +60,7 @@ Hello There ヾ(￣ ▽ ￣)
 # <code>📊 Github Stats</code>
 
 <p align="center">
-    <img src="https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=Dadangdut33&langs_count=8&theme=tokyonight&layout=compact&hide=jupyter notebook, shell, batchfile, html" alt="Dadangdut33's Most Used Language">
+    <img src="https://github.com/Dadangdut33/Dadangdut33/blob/main/metrics.plugin.languages.details.svg?raw=true" alt="Dadangdut33's Most Used Language">
 </p>
 
 <p align="center">
