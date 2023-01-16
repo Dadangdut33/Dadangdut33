@@ -79,16 +79,16 @@ Hello There ヾ(￣ ▽ ￣)
     <summary>⚡ Recent GitHub Activity</summary>
     
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [cat-milk/Anime-Girls-Holding-Programming-Books](https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books)
-2. ⭐ Starred [purogamer/Fluent-for-Steam](https://github.com/purogamer/Fluent-for-Steam)
-3. ✌️ Released [1.1.0 - Real time](https://github.com/Dadangdut33/Speech-Translate/releases/tag/1.1.0) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
-4. ⭐ Starred [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX)
-5. ❗️ Opened issue [#14](https://github.com/Dadangdut33/Screen-Translate/issues/14) in [Dadangdut33/Screen-Translate](https://github.com/Dadangdut33/Screen-Translate)
-6. ⭐ Starred [fisharebest/webtrees](https://github.com/fisharebest/webtrees)
-7. ✔️ Closed issue [#6](https://github.com/Dadangdut33/Speech-Translate/issues/6) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
-8. ✔️ Closed issue [#4](https://github.com/Dadangdut33/Speech-Translate/issues/4) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
-9. ✔️ Closed issue [#2](https://github.com/Dadangdut33/Speech-Translate/issues/2) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
-10. ✔️ Closed issue [#5](https://github.com/Dadangdut33/Speech-Translate/issues/5) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
+1. ❗️ Opened issue [#10](https://github.com/Dadangdut33/Speech-Translate/issues/10) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
+2. ❗️ Opened issue [#9](https://github.com/Dadangdut33/Speech-Translate/issues/9) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
+3. ⭐ Starred [cat-milk/Anime-Girls-Holding-Programming-Books](https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books)
+4. ⭐ Starred [purogamer/Fluent-for-Steam](https://github.com/purogamer/Fluent-for-Steam)
+5. ✌️ Released [1.1.0 - Real time](https://github.com/Dadangdut33/Speech-Translate/releases/tag/1.1.0) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
+6. ⭐ Starred [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX)
+7. ❗️ Opened issue [#14](https://github.com/Dadangdut33/Screen-Translate/issues/14) in [Dadangdut33/Screen-Translate](https://github.com/Dadangdut33/Screen-Translate)
+8. ⭐ Starred [fisharebest/webtrees](https://github.com/fisharebest/webtrees)
+9. ✔️ Closed issue [#6](https://github.com/Dadangdut33/Speech-Translate/issues/6) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
+10. ✔️ Closed issue [#4](https://github.com/Dadangdut33/Speech-Translate/issues/4) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
