@@ -79,16 +79,16 @@ Hello There ヾ(￣ ▽ ￣)
     <summary>⚡ Recent GitHub Activity</summary>
     
 <!--RECENT_ACTIVITY:start-->
-1. ✔️ Closed issue [#14](https://github.com/Dadangdut33/Screen-Translate/issues/14) in [Dadangdut33/Screen-Translate](https://github.com/Dadangdut33/Screen-Translate)
-2. 🎉 Merged PR [#15](https://github.com/Dadangdut33/Screen-Translate/pull/15) in [Dadangdut33/Screen-Translate](https://github.com/Dadangdut33/Screen-Translate)
-3. 💪 Opened PR [#15](https://github.com/Dadangdut33/Screen-Translate/pull/15) in [Dadangdut33/Screen-Translate](https://github.com/Dadangdut33/Screen-Translate)
-4. ⭐ Starred [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
-5. ❗️ Opened issue [#10](https://github.com/Dadangdut33/Speech-Translate/issues/10) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
-6. ❗️ Opened issue [#9](https://github.com/Dadangdut33/Speech-Translate/issues/9) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
-7. ⭐ Starred [cat-milk/Anime-Girls-Holding-Programming-Books](https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books)
-8. ⭐ Starred [purogamer/Fluent-for-Steam](https://github.com/purogamer/Fluent-for-Steam)
-9. ✌️ Released [1.1.0 - Real time](https://github.com/Dadangdut33/Speech-Translate/releases/tag/1.1.0) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
-10. ⭐ Starred [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX)
+1. ⭐ Starred [TomSchimansky/CustomTkinter](https://github.com/TomSchimansky/CustomTkinter)
+2. ✌️ Released [2.0.0 - Tray app, UX improvement, & bug fixes](https://github.com/Dadangdut33/Screen-Translate/releases/tag/2.0.0) in [Dadangdut33/Screen-Translate](https://github.com/Dadangdut33/Screen-Translate)
+3. ❗️ Opened issue [#1771](https://github.com/marcelotduarte/cx_Freeze/issues/1771) in [marcelotduarte/cx_Freeze](https://github.com/marcelotduarte/cx_Freeze)
+4. ✔️ Closed issue [#14](https://github.com/Dadangdut33/Screen-Translate/issues/14) in [Dadangdut33/Screen-Translate](https://github.com/Dadangdut33/Screen-Translate)
+5. 🎉 Merged PR [#15](https://github.com/Dadangdut33/Screen-Translate/pull/15) in [Dadangdut33/Screen-Translate](https://github.com/Dadangdut33/Screen-Translate)
+6. 💪 Opened PR [#15](https://github.com/Dadangdut33/Screen-Translate/pull/15) in [Dadangdut33/Screen-Translate](https://github.com/Dadangdut33/Screen-Translate)
+7. ⭐ Starred [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
+8. ❗️ Opened issue [#10](https://github.com/Dadangdut33/Speech-Translate/issues/10) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
+9. ❗️ Opened issue [#9](https://github.com/Dadangdut33/Speech-Translate/issues/9) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
+10. ⭐ Starred [cat-milk/Anime-Girls-Holding-Programming-Books](https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
