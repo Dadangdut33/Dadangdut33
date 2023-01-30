@@ -79,16 +79,16 @@ Hello There ヾ(￣ ▽ ￣)
     <summary>⚡ Recent GitHub Activity</summary>
     
 <!--RECENT_ACTIVITY:start-->
-1. ✌️ Released [2.0.1 Minor bug fix and update](https://github.com/Dadangdut33/Screen-Translate/releases/tag/2.0.1) in [Dadangdut33/Screen-Translate](https://github.com/Dadangdut33/Screen-Translate)
-2. ⭐ Starred [TomSchimansky/CustomTkinter](https://github.com/TomSchimansky/CustomTkinter)
-3. ✌️ Released [2.0.0 - Tray app, UX improvement, & bug fixes](https://github.com/Dadangdut33/Screen-Translate/releases/tag/2.0.0) in [Dadangdut33/Screen-Translate](https://github.com/Dadangdut33/Screen-Translate)
-4. ❗️ Opened issue [#1771](https://github.com/marcelotduarte/cx_Freeze/issues/1771) in [marcelotduarte/cx_Freeze](https://github.com/marcelotduarte/cx_Freeze)
-5. ✔️ Closed issue [#14](https://github.com/Dadangdut33/Screen-Translate/issues/14) in [Dadangdut33/Screen-Translate](https://github.com/Dadangdut33/Screen-Translate)
-6. 🎉 Merged PR [#15](https://github.com/Dadangdut33/Screen-Translate/pull/15) in [Dadangdut33/Screen-Translate](https://github.com/Dadangdut33/Screen-Translate)
-7. 💪 Opened PR [#15](https://github.com/Dadangdut33/Screen-Translate/pull/15) in [Dadangdut33/Screen-Translate](https://github.com/Dadangdut33/Screen-Translate)
-8. ⭐ Starred [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
-9. ❗️ Opened issue [#10](https://github.com/Dadangdut33/Speech-Translate/issues/10) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
-10. ❗️ Opened issue [#9](https://github.com/Dadangdut33/Speech-Translate/issues/9) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
+1. ❗️ Opened issue [#17](https://github.com/Dadangdut33/Screen-Translate/issues/17) in [Dadangdut33/Screen-Translate](https://github.com/Dadangdut33/Screen-Translate)
+2. ⭐ Starred [rdbende/Sun-Valley-ttk-theme](https://github.com/rdbende/Sun-Valley-ttk-theme)
+3. ✌️ Released [2.0.1 Minor bug fix and update](https://github.com/Dadangdut33/Screen-Translate/releases/tag/2.0.1) in [Dadangdut33/Screen-Translate](https://github.com/Dadangdut33/Screen-Translate)
+4. ⭐ Starred [TomSchimansky/CustomTkinter](https://github.com/TomSchimansky/CustomTkinter)
+5. ✌️ Released [2.0.0 - Tray app, UX improvement, & bug fixes](https://github.com/Dadangdut33/Screen-Translate/releases/tag/2.0.0) in [Dadangdut33/Screen-Translate](https://github.com/Dadangdut33/Screen-Translate)
+6. ❗️ Opened issue [#1771](https://github.com/marcelotduarte/cx_Freeze/issues/1771) in [marcelotduarte/cx_Freeze](https://github.com/marcelotduarte/cx_Freeze)
+7. ✔️ Closed issue [#14](https://github.com/Dadangdut33/Screen-Translate/issues/14) in [Dadangdut33/Screen-Translate](https://github.com/Dadangdut33/Screen-Translate)
+8. 🎉 Merged PR [#15](https://github.com/Dadangdut33/Screen-Translate/pull/15) in [Dadangdut33/Screen-Translate](https://github.com/Dadangdut33/Screen-Translate)
+9. 💪 Opened PR [#15](https://github.com/Dadangdut33/Screen-Translate/pull/15) in [Dadangdut33/Screen-Translate](https://github.com/Dadangdut33/Screen-Translate)
+10. ⭐ Starred [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
