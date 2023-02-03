@@ -14,9 +14,9 @@ Hello There ヾ(￣ ▽ ￣)
 
 - Hi 👋🏻, my name is ~~Dadangdut33~~ Fauzan
 - I'm currently studying ✍🏻 as an Informatics Engineering student at UIN Jakarta
-- I like to code 💻 on my free time
+- I like games, anime, and stuff but I also like to code 💻 sometimes on my free time
 - Feel free to checkout my projects and contribute if you want to ^^
-- Check 👉🏻[this](https://github.com/users/Dadangdut33/projects/3) out to see what i'm currently working on
+- Check 👉🏻[this](https://github.com/users/Dadangdut33/projects/3) out to see what i'm currently working on (when i'm not busy with other stuff)
 
 <br />
 <br />
@@ -45,6 +45,7 @@ Hello There ヾ(￣ ▽ ￣)
 ![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white)
 ![expressjs](https://img.shields.io/badge/expressjs-000000?style=flat-square&logo=express&logoColor=white)
 ![django](https://img.shields.io/badge/django-092E20?style=flat-square&logo=django&logoColor=white)
+![Tk/Tcl](https://img.shields.io/badge/Tk/Tcl-3670A0?style=flat-square)
 ![Electron.js](https://img.shields.io/badge/Electron-191970?style=flat-square&logo=Electron&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white)
 ![mysql](https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white)
@@ -65,11 +66,10 @@ Hello There ヾ(￣ ▽ ￣)
 </p>
 
 <p align="center">
-    <img  src="https://github-readme-stats-ruby-one.vercel.app/api?username=Dadangdut33&show_icons=true&count_private=true&theme=transparent&line_height=27&hide_border=true" alt="Dadangdut33's GitHub stats">
+    <img  src="https://github-readme-stats.vercel.app/api?username=Dadangdut33&show_icons=true&count_private=true&theme=transparent&line_height=27&hide_border=true" alt="Dadangdut33's GitHub stats">
 </p>
 
 <p align="center">
-    <img  src="https://github-readme-stats.vercel.app/api/wakatime?username=Dadangdut33&theme=transparent&hide_border=true" alt="Dadangdut33's Coding Activity"><br />
     <a href="https://wakatime.com/@2c62c33c-4952-4ba2-98b9-e2451599b83a"><img src="https://wakatime.com/badge/user/2c62c33c-4952-4ba2-98b9-e2451599b83a.svg" alt="Wakatime" /></a>
 </p>
 
