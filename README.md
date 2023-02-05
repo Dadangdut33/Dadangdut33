@@ -79,16 +79,16 @@ Hello There ヾ(￣ ▽ ￣)
     <summary>⚡ Recent GitHub Activity</summary>
     
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges)
-2. ✔️ Closed issue [#17](https://github.com/Dadangdut33/Screen-Translate/issues/17) in [Dadangdut33/Screen-Translate](https://github.com/Dadangdut33/Screen-Translate)
-3. ❗️ Opened issue [#17](https://github.com/Dadangdut33/Screen-Translate/issues/17) in [Dadangdut33/Screen-Translate](https://github.com/Dadangdut33/Screen-Translate)
-4. ⭐ Starred [rdbende/Sun-Valley-ttk-theme](https://github.com/rdbende/Sun-Valley-ttk-theme)
-5. ✌️ Released [2.0.1 Minor bug fix and update](https://github.com/Dadangdut33/Screen-Translate/releases/tag/2.0.1) in [Dadangdut33/Screen-Translate](https://github.com/Dadangdut33/Screen-Translate)
-6. ⭐ Starred [TomSchimansky/CustomTkinter](https://github.com/TomSchimansky/CustomTkinter)
-7. ✌️ Released [2.0.0 - Tray app, UX improvement, & bug fixes](https://github.com/Dadangdut33/Screen-Translate/releases/tag/2.0.0) in [Dadangdut33/Screen-Translate](https://github.com/Dadangdut33/Screen-Translate)
-8. ❗️ Opened issue [#1771](https://github.com/marcelotduarte/cx_Freeze/issues/1771) in [marcelotduarte/cx_Freeze](https://github.com/marcelotduarte/cx_Freeze)
-9. ✔️ Closed issue [#14](https://github.com/Dadangdut33/Screen-Translate/issues/14) in [Dadangdut33/Screen-Translate](https://github.com/Dadangdut33/Screen-Translate)
-10. 🎉 Merged PR [#15](https://github.com/Dadangdut33/Screen-Translate/pull/15) in [Dadangdut33/Screen-Translate](https://github.com/Dadangdut33/Screen-Translate)
+1. ✌️ Released [2.1.0 UI improvement and Dark theme](https://github.com/Dadangdut33/Screen-Translate/releases/tag/2.1.0) in [Dadangdut33/Screen-Translate](https://github.com/Dadangdut33/Screen-Translate)
+2. ⭐ Starred [Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges)
+3. ✔️ Closed issue [#17](https://github.com/Dadangdut33/Screen-Translate/issues/17) in [Dadangdut33/Screen-Translate](https://github.com/Dadangdut33/Screen-Translate)
+4. ❗️ Opened issue [#17](https://github.com/Dadangdut33/Screen-Translate/issues/17) in [Dadangdut33/Screen-Translate](https://github.com/Dadangdut33/Screen-Translate)
+5. ⭐ Starred [rdbende/Sun-Valley-ttk-theme](https://github.com/rdbende/Sun-Valley-ttk-theme)
+6. ✌️ Released [2.0.1 Minor bug fix and update](https://github.com/Dadangdut33/Screen-Translate/releases/tag/2.0.1) in [Dadangdut33/Screen-Translate](https://github.com/Dadangdut33/Screen-Translate)
+7. ⭐ Starred [TomSchimansky/CustomTkinter](https://github.com/TomSchimansky/CustomTkinter)
+8. ✌️ Released [2.0.0 - Tray app, UX improvement, & bug fixes](https://github.com/Dadangdut33/Screen-Translate/releases/tag/2.0.0) in [Dadangdut33/Screen-Translate](https://github.com/Dadangdut33/Screen-Translate)
+9. ❗️ Opened issue [#1771](https://github.com/marcelotduarte/cx_Freeze/issues/1771) in [marcelotduarte/cx_Freeze](https://github.com/marcelotduarte/cx_Freeze)
+10. ✔️ Closed issue [#14](https://github.com/Dadangdut33/Screen-Translate/issues/14) in [Dadangdut33/Screen-Translate](https://github.com/Dadangdut33/Screen-Translate)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
