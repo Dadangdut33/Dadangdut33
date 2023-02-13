@@ -79,16 +79,16 @@ Hello There ヾ(￣ ▽ ￣)
     <summary>⚡ Recent GitHub Activity</summary>
     
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [nakkag/CLCL](https://github.com/nakkag/CLCL)
-2. ✌️ Released [2.1.1 - Ability to customize tesseract config and language key](https://github.com/Dadangdut33/Screen-Translate/releases/tag/2.1.1) in [Dadangdut33/Screen-Translate](https://github.com/Dadangdut33/Screen-Translate)
-3. ✌️ Released [2.1.0 UI improvement and Dark theme](https://github.com/Dadangdut33/Screen-Translate/releases/tag/2.1.0) in [Dadangdut33/Screen-Translate](https://github.com/Dadangdut33/Screen-Translate)
-4. ⭐ Starred [Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges)
-5. ✔️ Closed issue [#17](https://github.com/Dadangdut33/Screen-Translate/issues/17) in [Dadangdut33/Screen-Translate](https://github.com/Dadangdut33/Screen-Translate)
-6. ❗️ Opened issue [#17](https://github.com/Dadangdut33/Screen-Translate/issues/17) in [Dadangdut33/Screen-Translate](https://github.com/Dadangdut33/Screen-Translate)
-7. ⭐ Starred [rdbende/Sun-Valley-ttk-theme](https://github.com/rdbende/Sun-Valley-ttk-theme)
-8. ✌️ Released [2.0.1 Minor bug fix and update](https://github.com/Dadangdut33/Screen-Translate/releases/tag/2.0.1) in [Dadangdut33/Screen-Translate](https://github.com/Dadangdut33/Screen-Translate)
-9. ⭐ Starred [TomSchimansky/CustomTkinter](https://github.com/TomSchimansky/CustomTkinter)
-10. ✌️ Released [2.0.0 - Tray app, UX improvement, & bug fixes](https://github.com/Dadangdut33/Screen-Translate/releases/tag/2.0.0) in [Dadangdut33/Screen-Translate](https://github.com/Dadangdut33/Screen-Translate)
+1. ⭐ Starred [aminomancer/uc.css.js](https://github.com/aminomancer/uc.css.js)
+2. ⭐ Starred [nakkag/CLCL](https://github.com/nakkag/CLCL)
+3. ✌️ Released [2.1.1 - Ability to customize tesseract config and language key](https://github.com/Dadangdut33/Screen-Translate/releases/tag/2.1.1) in [Dadangdut33/Screen-Translate](https://github.com/Dadangdut33/Screen-Translate)
+4. ✌️ Released [2.1.0 UI improvement and Dark theme](https://github.com/Dadangdut33/Screen-Translate/releases/tag/2.1.0) in [Dadangdut33/Screen-Translate](https://github.com/Dadangdut33/Screen-Translate)
+5. ⭐ Starred [Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges)
+6. ✔️ Closed issue [#17](https://github.com/Dadangdut33/Screen-Translate/issues/17) in [Dadangdut33/Screen-Translate](https://github.com/Dadangdut33/Screen-Translate)
+7. ❗️ Opened issue [#17](https://github.com/Dadangdut33/Screen-Translate/issues/17) in [Dadangdut33/Screen-Translate](https://github.com/Dadangdut33/Screen-Translate)
+8. ⭐ Starred [rdbende/Sun-Valley-ttk-theme](https://github.com/rdbende/Sun-Valley-ttk-theme)
+9. ✌️ Released [2.0.1 Minor bug fix and update](https://github.com/Dadangdut33/Screen-Translate/releases/tag/2.0.1) in [Dadangdut33/Screen-Translate](https://github.com/Dadangdut33/Screen-Translate)
+10. ⭐ Starred [TomSchimansky/CustomTkinter](https://github.com/TomSchimansky/CustomTkinter)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
