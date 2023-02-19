@@ -79,16 +79,16 @@ Hello There ヾ(￣ ▽ ￣)
     <summary>⚡ Recent GitHub Activity</summary>
     
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [aminomancer/uc.css.js](https://github.com/aminomancer/uc.css.js)
-2. ⭐ Starred [nakkag/CLCL](https://github.com/nakkag/CLCL)
-3. ✌️ Released [2.1.1 - Ability to customize tesseract config and language key](https://github.com/Dadangdut33/Screen-Translate/releases/tag/2.1.1) in [Dadangdut33/Screen-Translate](https://github.com/Dadangdut33/Screen-Translate)
-4. ✌️ Released [2.1.0 UI improvement and Dark theme](https://github.com/Dadangdut33/Screen-Translate/releases/tag/2.1.0) in [Dadangdut33/Screen-Translate](https://github.com/Dadangdut33/Screen-Translate)
-5. ⭐ Starred [Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges)
-6. ✔️ Closed issue [#17](https://github.com/Dadangdut33/Screen-Translate/issues/17) in [Dadangdut33/Screen-Translate](https://github.com/Dadangdut33/Screen-Translate)
-7. ❗️ Opened issue [#17](https://github.com/Dadangdut33/Screen-Translate/issues/17) in [Dadangdut33/Screen-Translate](https://github.com/Dadangdut33/Screen-Translate)
-8. ⭐ Starred [rdbende/Sun-Valley-ttk-theme](https://github.com/rdbende/Sun-Valley-ttk-theme)
-9. ✌️ Released [2.0.1 Minor bug fix and update](https://github.com/Dadangdut33/Screen-Translate/releases/tag/2.0.1) in [Dadangdut33/Screen-Translate](https://github.com/Dadangdut33/Screen-Translate)
-10. ⭐ Starred [TomSchimansky/CustomTkinter](https://github.com/TomSchimansky/CustomTkinter)
+1. ⭐ Starred [israel-dryer/ttkbootstrap](https://github.com/israel-dryer/ttkbootstrap)
+2. ✔️ Closed issue [#12](https://github.com/Dadangdut33/Speech-Translate/issues/12) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
+3. ✔️ Closed issue [#9](https://github.com/Dadangdut33/Speech-Translate/issues/9) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
+4. ⭐ Starred [aminomancer/uc.css.js](https://github.com/aminomancer/uc.css.js)
+5. ⭐ Starred [nakkag/CLCL](https://github.com/nakkag/CLCL)
+6. ✌️ Released [2.1.1 - Ability to customize tesseract config and language key](https://github.com/Dadangdut33/Screen-Translate/releases/tag/2.1.1) in [Dadangdut33/Screen-Translate](https://github.com/Dadangdut33/Screen-Translate)
+7. ✌️ Released [2.1.0 UI improvement and Dark theme](https://github.com/Dadangdut33/Screen-Translate/releases/tag/2.1.0) in [Dadangdut33/Screen-Translate](https://github.com/Dadangdut33/Screen-Translate)
+8. ⭐ Starred [Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges)
+9. ✔️ Closed issue [#17](https://github.com/Dadangdut33/Screen-Translate/issues/17) in [Dadangdut33/Screen-Translate](https://github.com/Dadangdut33/Screen-Translate)
+10. ❗️ Opened issue [#17](https://github.com/Dadangdut33/Screen-Translate/issues/17) in [Dadangdut33/Screen-Translate](https://github.com/Dadangdut33/Screen-Translate)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
