@@ -79,16 +79,16 @@ Hello There ヾ(￣ ▽ ￣)
     <summary>⚡ Recent GitHub Activity</summary>
     
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts)
-2. ✌️ Released [1.2.0 - More whisper settings and dark theme](https://github.com/Dadangdut33/Speech-Translate/releases/tag/1.2.0) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
-3. ⭐ Starred [israel-dryer/ttkbootstrap](https://github.com/israel-dryer/ttkbootstrap)
-4. ✔️ Closed issue [#12](https://github.com/Dadangdut33/Speech-Translate/issues/12) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
-5. ✔️ Closed issue [#9](https://github.com/Dadangdut33/Speech-Translate/issues/9) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
-6. ⭐ Starred [aminomancer/uc.css.js](https://github.com/aminomancer/uc.css.js)
-7. ⭐ Starred [nakkag/CLCL](https://github.com/nakkag/CLCL)
-8. ✌️ Released [2.1.1 - Ability to customize tesseract config and language key](https://github.com/Dadangdut33/Screen-Translate/releases/tag/2.1.1) in [Dadangdut33/Screen-Translate](https://github.com/Dadangdut33/Screen-Translate)
-9. ✌️ Released [2.1.0 UI improvement and Dark theme](https://github.com/Dadangdut33/Screen-Translate/releases/tag/2.1.0) in [Dadangdut33/Screen-Translate](https://github.com/Dadangdut33/Screen-Translate)
-10. ⭐ Starred [Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges)
+1. ⭐ Starred [fork-maintainers/iceraven-browser](https://github.com/fork-maintainers/iceraven-browser)
+2. ⭐ Starred [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts)
+3. ✌️ Released [1.2.0 - More whisper settings and dark theme](https://github.com/Dadangdut33/Speech-Translate/releases/tag/1.2.0) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
+4. ⭐ Starred [israel-dryer/ttkbootstrap](https://github.com/israel-dryer/ttkbootstrap)
+5. ✔️ Closed issue [#12](https://github.com/Dadangdut33/Speech-Translate/issues/12) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
+6. ✔️ Closed issue [#9](https://github.com/Dadangdut33/Speech-Translate/issues/9) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
+7. ⭐ Starred [aminomancer/uc.css.js](https://github.com/aminomancer/uc.css.js)
+8. ⭐ Starred [nakkag/CLCL](https://github.com/nakkag/CLCL)
+9. ✌️ Released [2.1.1 - Ability to customize tesseract config and language key](https://github.com/Dadangdut33/Screen-Translate/releases/tag/2.1.1) in [Dadangdut33/Screen-Translate](https://github.com/Dadangdut33/Screen-Translate)
+10. ✌️ Released [2.1.0 UI improvement and Dark theme](https://github.com/Dadangdut33/Screen-Translate/releases/tag/2.1.0) in [Dadangdut33/Screen-Translate](https://github.com/Dadangdut33/Screen-Translate)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
