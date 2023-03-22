@@ -79,16 +79,16 @@ Hello There ヾ(￣ ▽ ￣)
     <summary>⚡ Recent GitHub Activity</summary>
     
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#20](https://github.com/Dadangdut33/Speech-Translate/pull/20) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
-2. 📔 Created new repository [Dadangdut33/aplikasi-jaringan-git](https://github.com/Dadangdut33/aplikasi-jaringan-git)
-3. ⭐ Starred [Xenon257R/blue-archive-rainmeter](https://github.com/Xenon257R/blue-archive-rainmeter)
-4. ✔️ Closed issue [#18](https://github.com/Dadangdut33/Speech-Translate/issues/18) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
-5. 💪 Opened PR [#26831](https://github.com/google/it-cert-automation-practice/pull/26831) in [google/it-cert-automation-practice](https://github.com/google/it-cert-automation-practice)
-6. 🔱 Forked [Dadangdut33/it-cert-automation-practice](https://github.com/Dadangdut33/it-cert-automation-practice) from [google/it-cert-automation-practice](https://github.com/google/it-cert-automation-practice)
-7. ⭐ Starred [fork-maintainers/iceraven-browser](https://github.com/fork-maintainers/iceraven-browser)
-8. ⭐ Starred [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts)
-9. ✌️ Released [1.2.0 - More whisper settings and dark theme](https://github.com/Dadangdut33/Speech-Translate/releases/tag/1.2.0) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
-10. ⭐ Starred [israel-dryer/ttkbootstrap](https://github.com/israel-dryer/ttkbootstrap)
+1. ✌️ Released [1.2.1 - More whisper settings, download window, dark theme](https://github.com/Dadangdut33/Speech-Translate/releases/tag/1.2.1) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
+2. 🎉 Merged PR [#20](https://github.com/Dadangdut33/Speech-Translate/pull/20) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
+3. 📔 Created new repository [Dadangdut33/aplikasi-jaringan-git](https://github.com/Dadangdut33/aplikasi-jaringan-git)
+4. ⭐ Starred [Xenon257R/blue-archive-rainmeter](https://github.com/Xenon257R/blue-archive-rainmeter)
+5. ✔️ Closed issue [#18](https://github.com/Dadangdut33/Speech-Translate/issues/18) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
+6. 💪 Opened PR [#26831](https://github.com/google/it-cert-automation-practice/pull/26831) in [google/it-cert-automation-practice](https://github.com/google/it-cert-automation-practice)
+7. 🔱 Forked [Dadangdut33/it-cert-automation-practice](https://github.com/Dadangdut33/it-cert-automation-practice) from [google/it-cert-automation-practice](https://github.com/google/it-cert-automation-practice)
+8. ⭐ Starred [fork-maintainers/iceraven-browser](https://github.com/fork-maintainers/iceraven-browser)
+9. ⭐ Starred [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts)
+10. ✌️ Released [1.2.0 - More whisper settings and dark theme](https://github.com/Dadangdut33/Speech-Translate/releases/tag/1.2.0) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
