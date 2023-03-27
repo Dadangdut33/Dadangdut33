@@ -79,16 +79,16 @@ Hello There ヾ(￣ ▽ ￣)
     <summary>⚡ Recent GitHub Activity</summary>
     
 <!--RECENT_ACTIVITY:start-->
-1. ✔️ Closed issue [#17](https://github.com/Dadangdut33/Speech-Translate/issues/17) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
-2. ✔️ Closed issue [#21](https://github.com/Dadangdut33/Speech-Translate/issues/21) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
-3. ✌️ Released [1.2.1 - More whisper settings, download window, dark theme](https://github.com/Dadangdut33/Speech-Translate/releases/tag/1.2.1) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
-4. 🎉 Merged PR [#20](https://github.com/Dadangdut33/Speech-Translate/pull/20) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
-5. 📔 Created new repository [Dadangdut33/aplikasi-jaringan-git](https://github.com/Dadangdut33/aplikasi-jaringan-git)
-6. ⭐ Starred [Xenon257R/blue-archive-rainmeter](https://github.com/Xenon257R/blue-archive-rainmeter)
-7. ✔️ Closed issue [#18](https://github.com/Dadangdut33/Speech-Translate/issues/18) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
-8. 💪 Opened PR [#26831](https://github.com/google/it-cert-automation-practice/pull/26831) in [google/it-cert-automation-practice](https://github.com/google/it-cert-automation-practice)
-9. 🔱 Forked [Dadangdut33/it-cert-automation-practice](https://github.com/Dadangdut33/it-cert-automation-practice) from [google/it-cert-automation-practice](https://github.com/google/it-cert-automation-practice)
-10. ⭐ Starred [fork-maintainers/iceraven-browser](https://github.com/fork-maintainers/iceraven-browser)
+1. 📔 Created new repository [CrescentSoft/.github](https://github.com/CrescentSoft/.github)
+2. ✔️ Closed issue [#23](https://github.com/Dadangdut33/Speech-Translate/issues/23) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
+3. ✔️ Closed issue [#17](https://github.com/Dadangdut33/Speech-Translate/issues/17) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
+4. ✔️ Closed issue [#21](https://github.com/Dadangdut33/Speech-Translate/issues/21) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
+5. ✌️ Released [1.2.1 - More whisper settings, download window, dark theme](https://github.com/Dadangdut33/Speech-Translate/releases/tag/1.2.1) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
+6. 🎉 Merged PR [#20](https://github.com/Dadangdut33/Speech-Translate/pull/20) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
+7. 📔 Created new repository [Dadangdut33/aplikasi-jaringan-git](https://github.com/Dadangdut33/aplikasi-jaringan-git)
+8. ⭐ Starred [Xenon257R/blue-archive-rainmeter](https://github.com/Xenon257R/blue-archive-rainmeter)
+9. ✔️ Closed issue [#18](https://github.com/Dadangdut33/Speech-Translate/issues/18) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
+10. 💪 Opened PR [#26831](https://github.com/google/it-cert-automation-practice/pull/26831) in [google/it-cert-automation-practice](https://github.com/google/it-cert-automation-practice)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
