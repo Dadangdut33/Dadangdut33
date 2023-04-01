@@ -79,16 +79,16 @@ Hello There ヾ(￣ ▽ ￣)
     <summary>⚡ Recent GitHub Activity</summary>
     
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [cawa-93/vite-electron-builder](https://github.com/cawa-93/vite-electron-builder)
-2. ✔️ Closed issue [#22](https://github.com/Dadangdut33/Speech-Translate/issues/22) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
-3. 🎉 Merged PR [#26](https://github.com/Dadangdut33/Speech-Translate/pull/26) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
-4. ❌ Closed PR [#26](https://github.com/Dadangdut33/Speech-Translate/pull/26) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
-5. 📔 Created new repository [CrescentSoft/.github](https://github.com/CrescentSoft/.github)
-6. ✔️ Closed issue [#23](https://github.com/Dadangdut33/Speech-Translate/issues/23) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
-7. ✔️ Closed issue [#17](https://github.com/Dadangdut33/Speech-Translate/issues/17) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
-8. ✔️ Closed issue [#21](https://github.com/Dadangdut33/Speech-Translate/issues/21) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
-9. ✌️ Released [1.2.1 - More whisper settings, download window, dark theme](https://github.com/Dadangdut33/Speech-Translate/releases/tag/1.2.1) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
-10. 🎉 Merged PR [#20](https://github.com/Dadangdut33/Speech-Translate/pull/20) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
+1. ✔️ Closed issue [#25](https://github.com/Dadangdut33/Speech-Translate/issues/25) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
+2. ⭐ Starred [oleksis/youtube-dl-gui](https://github.com/oleksis/youtube-dl-gui)
+3. ⭐ Starred [cawa-93/vite-electron-builder](https://github.com/cawa-93/vite-electron-builder)
+4. ✔️ Closed issue [#22](https://github.com/Dadangdut33/Speech-Translate/issues/22) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
+5. 🎉 Merged PR [#26](https://github.com/Dadangdut33/Speech-Translate/pull/26) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
+6. ❌ Closed PR [#26](https://github.com/Dadangdut33/Speech-Translate/pull/26) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
+7. 📔 Created new repository [CrescentSoft/.github](https://github.com/CrescentSoft/.github)
+8. ✔️ Closed issue [#23](https://github.com/Dadangdut33/Speech-Translate/issues/23) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
+9. ✔️ Closed issue [#17](https://github.com/Dadangdut33/Speech-Translate/issues/17) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
+10. ✔️ Closed issue [#21](https://github.com/Dadangdut33/Speech-Translate/issues/21) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
