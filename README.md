@@ -79,16 +79,16 @@ Hello There ヾ(￣ ▽ ￣)
     <summary>⚡ Recent GitHub Activity</summary>
     
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [svc-develop-team/so-vits-svc](https://github.com/svc-develop-team/so-vits-svc)
-2. 📔 Created new repository [CrescentSoft/.github](https://github.com/CrescentSoft/.github)
-3. 📔 Created new repository [CrescentSoft/CrescentCMS](https://github.com/CrescentSoft/CrescentCMS)
-4. ❗️ Opened issue [#28](https://github.com/Dadangdut33/Speech-Translate/issues/28) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
-5. ⭐ Starred [lars-berger/GlazeWM](https://github.com/lars-berger/GlazeWM)
-6. ✔️ Closed issue [#25](https://github.com/Dadangdut33/Speech-Translate/issues/25) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
-7. ⭐ Starred [oleksis/youtube-dl-gui](https://github.com/oleksis/youtube-dl-gui)
-8. ⭐ Starred [cawa-93/vite-electron-builder](https://github.com/cawa-93/vite-electron-builder)
-9. ✔️ Closed issue [#22](https://github.com/Dadangdut33/Speech-Translate/issues/22) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
-10. 🎉 Merged PR [#26](https://github.com/Dadangdut33/Speech-Translate/pull/26) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
+1. ✔️ Closed issue [#29](https://github.com/Dadangdut33/Speech-Translate/issues/29) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
+2. ✌️ Released [1.2.2 - Progress indicator and bug fixes](https://github.com/Dadangdut33/Speech-Translate/releases/tag/1.2.2) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
+3. ✔️ Closed issue [#28](https://github.com/Dadangdut33/Speech-Translate/issues/28) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
+4. ⭐ Starred [svc-develop-team/so-vits-svc](https://github.com/svc-develop-team/so-vits-svc)
+5. 📔 Created new repository [CrescentSoft/.github](https://github.com/CrescentSoft/.github)
+6. 📔 Created new repository [CrescentSoft/CrescentCMS](https://github.com/CrescentSoft/CrescentCMS)
+7. ❗️ Opened issue [#28](https://github.com/Dadangdut33/Speech-Translate/issues/28) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
+8. ⭐ Starred [lars-berger/GlazeWM](https://github.com/lars-berger/GlazeWM)
+9. ✔️ Closed issue [#25](https://github.com/Dadangdut33/Speech-Translate/issues/25) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
+10. ⭐ Starred [oleksis/youtube-dl-gui](https://github.com/oleksis/youtube-dl-gui)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
