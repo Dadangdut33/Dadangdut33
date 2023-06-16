@@ -79,16 +79,16 @@ Hello There ヾ(￣ ▽ ￣)
     <summary>⚡ Recent GitHub Activity</summary>
     
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [EdjeElectronics/TensorFlow-Lite-Object-Detection-on-Android-and-Raspberry-Pi](https://github.com/EdjeElectronics/TensorFlow-Lite-Object-Detection-on-Android-and-Raspberry-Pi)
-2. ✔️ Closed issue [#30](https://github.com/Dadangdut33/Speech-Translate/issues/30) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
-3. ✌️ Released [1.2.3 - Bug Fix](https://github.com/Dadangdut33/Speech-Translate/releases/tag/1.2.3) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
-4. ✔️ Closed issue [#29](https://github.com/Dadangdut33/Speech-Translate/issues/29) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
-5. ✌️ Released [1.2.2 - Progress indicator and bug fixes](https://github.com/Dadangdut33/Speech-Translate/releases/tag/1.2.2) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
-6. ✔️ Closed issue [#28](https://github.com/Dadangdut33/Speech-Translate/issues/28) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
-7. ⭐ Starred [svc-develop-team/so-vits-svc](https://github.com/svc-develop-team/so-vits-svc)
-8. 📔 Created new repository [CrescentSoft/.github](https://github.com/CrescentSoft/.github)
-9. 📔 Created new repository [CrescentSoft/CrescentCMS](https://github.com/CrescentSoft/CrescentCMS)
-10. ❗️ Opened issue [#28](https://github.com/Dadangdut33/Speech-Translate/issues/28) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
+1. 🎉 Merged PR [#3](https://github.com/Patuli-Pahlawan-Tuli/Patuli-ML/pull/3) in [Patuli-Pahlawan-Tuli/Patuli-ML](https://github.com/Patuli-Pahlawan-Tuli/Patuli-ML)
+2. 💪 Opened PR [#3](https://github.com/Patuli-Pahlawan-Tuli/Patuli-ML/pull/3) in [Patuli-Pahlawan-Tuli/Patuli-ML](https://github.com/Patuli-Pahlawan-Tuli/Patuli-ML)
+3. ⭐ Starred [EdjeElectronics/TensorFlow-Lite-Object-Detection-on-Android-and-Raspberry-Pi](https://github.com/EdjeElectronics/TensorFlow-Lite-Object-Detection-on-Android-and-Raspberry-Pi)
+4. ✔️ Closed issue [#30](https://github.com/Dadangdut33/Speech-Translate/issues/30) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
+5. ✌️ Released [1.2.3 - Bug Fix](https://github.com/Dadangdut33/Speech-Translate/releases/tag/1.2.3) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
+6. ✔️ Closed issue [#29](https://github.com/Dadangdut33/Speech-Translate/issues/29) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
+7. ✌️ Released [1.2.2 - Progress indicator and bug fixes](https://github.com/Dadangdut33/Speech-Translate/releases/tag/1.2.2) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
+8. ✔️ Closed issue [#28](https://github.com/Dadangdut33/Speech-Translate/issues/28) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
+9. ⭐ Starred [svc-develop-team/so-vits-svc](https://github.com/svc-develop-team/so-vits-svc)
+10. 📔 Created new repository [CrescentSoft/.github](https://github.com/CrescentSoft/.github)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
