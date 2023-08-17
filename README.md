@@ -79,10 +79,10 @@ Hello There ヾ(￣ ▽ ￣)
     <summary>⚡ Recent GitHub Activity</summary>
     
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#3](https://github.com/Patuli-Pahlawan-Tuli/Patuli-ML/pull/3) in [Patuli-Pahlawan-Tuli/Patuli-ML](https://github.com/Patuli-Pahlawan-Tuli/Patuli-ML)
-2. 💪 Opened PR [#3](https://github.com/Patuli-Pahlawan-Tuli/Patuli-ML/pull/3) in [Patuli-Pahlawan-Tuli/Patuli-ML](https://github.com/Patuli-Pahlawan-Tuli/Patuli-ML)
-3. ⭐ Starred [EdjeElectronics/TensorFlow-Lite-Object-Detection-on-Android-and-Raspberry-Pi](https://github.com/EdjeElectronics/TensorFlow-Lite-Object-Detection-on-Android-and-Raspberry-Pi)
-4. ✔️ Closed issue [#30](https://github.com/Dadangdut33/Speech-Translate/issues/30) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
+1. ⭐ Starred [moudey/Shell](https://github.com/moudey/Shell)
+2. 🎉 Merged PR [#3](https://github.com/Patuli-Pahlawan-Tuli/Patuli-ML/pull/3) in [Patuli-Pahlawan-Tuli/Patuli-ML](https://github.com/Patuli-Pahlawan-Tuli/Patuli-ML)
+3. 💪 Opened PR [#3](https://github.com/Patuli-Pahlawan-Tuli/Patuli-ML/pull/3) in [Patuli-Pahlawan-Tuli/Patuli-ML](https://github.com/Patuli-Pahlawan-Tuli/Patuli-ML)
+4. ⭐ Starred [EdjeElectronics/TensorFlow-Lite-Object-Detection-on-Android-and-Raspberry-Pi](https://github.com/EdjeElectronics/TensorFlow-Lite-Object-Detection-on-Android-and-Raspberry-Pi)
 5. ✌️ Released [1.2.3 - Bug Fix](https://github.com/Dadangdut33/Speech-Translate/releases/tag/1.2.3) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
 6. ✔️ Closed issue [#29](https://github.com/Dadangdut33/Speech-Translate/issues/29) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
 7. ✌️ Released [1.2.2 - Progress indicator and bug fixes](https://github.com/Dadangdut33/Speech-Translate/releases/tag/1.2.2) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
