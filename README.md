@@ -79,12 +79,12 @@ Hello There ヾ(￣ ▽ ￣)
     <summary>⚡ Recent GitHub Activity</summary>
     
 <!--RECENT_ACTIVITY:start-->
-1. ✔️ Closed issue [#37](https://github.com/Dadangdut33/Speech-Translate/issues/37) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
-2. ✔️ Closed issue [#45](https://github.com/Dadangdut33/Speech-Translate/issues/45) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
-3. ⭐ Starred [moudey/Shell](https://github.com/moudey/Shell)
-4. 🎉 Merged PR [#3](https://github.com/Patuli-Pahlawan-Tuli/Patuli-ML/pull/3) in [Patuli-Pahlawan-Tuli/Patuli-ML](https://github.com/Patuli-Pahlawan-Tuli/Patuli-ML)
-5. 💪 Opened PR [#3](https://github.com/Patuli-Pahlawan-Tuli/Patuli-ML/pull/3) in [Patuli-Pahlawan-Tuli/Patuli-ML](https://github.com/Patuli-Pahlawan-Tuli/Patuli-ML)
-6. ✔️ Closed issue [#29](https://github.com/Dadangdut33/Speech-Translate/issues/29) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
+1. 📖 Created new wiki page [Home](https://github.com/Dadangdut33/Speech-Translate/wiki/Home) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
+2. ✔️ Closed issue [#37](https://github.com/Dadangdut33/Speech-Translate/issues/37) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
+3. ✔️ Closed issue [#45](https://github.com/Dadangdut33/Speech-Translate/issues/45) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
+4. ⭐ Starred [moudey/Shell](https://github.com/moudey/Shell)
+5. 🎉 Merged PR [#3](https://github.com/Patuli-Pahlawan-Tuli/Patuli-ML/pull/3) in [Patuli-Pahlawan-Tuli/Patuli-ML](https://github.com/Patuli-Pahlawan-Tuli/Patuli-ML)
+6. 💪 Opened PR [#3](https://github.com/Patuli-Pahlawan-Tuli/Patuli-ML/pull/3) in [Patuli-Pahlawan-Tuli/Patuli-ML](https://github.com/Patuli-Pahlawan-Tuli/Patuli-ML)
 7. ✌️ Released [1.2.2 - Progress indicator and bug fixes](https://github.com/Dadangdut33/Speech-Translate/releases/tag/1.2.2) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
 8. ✔️ Closed issue [#28](https://github.com/Dadangdut33/Speech-Translate/issues/28) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
 9. ⭐ Starred [svc-develop-team/so-vits-svc](https://github.com/svc-develop-team/so-vits-svc)
