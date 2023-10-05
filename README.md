@@ -79,16 +79,16 @@ Hello There ヾ(￣ ▽ ￣)
     <summary>⚡ Recent GitHub Activity</summary>
     
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [cleder/awesome-python-testing](https://github.com/cleder/awesome-python-testing)
-2. ⭐ Starred [life4/awesome-python-code-formatters](https://github.com/life4/awesome-python-code-formatters)
-3. ⭐ Starred [typeddjango/awesome-python-typing](https://github.com/typeddjango/awesome-python-typing)
-4. 📖 Created new wiki page [Home](https://github.com/Dadangdut33/Speech-Translate/wiki/Home) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
-5. ✔️ Closed issue [#37](https://github.com/Dadangdut33/Speech-Translate/issues/37) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
-6. ✔️ Closed issue [#45](https://github.com/Dadangdut33/Speech-Translate/issues/45) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
-7. ⭐ Starred [moudey/Shell](https://github.com/moudey/Shell)
-8. ✔️ Closed issue [#28](https://github.com/Dadangdut33/Speech-Translate/issues/28) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
-9. ⭐ Starred [svc-develop-team/so-vits-svc](https://github.com/svc-develop-team/so-vits-svc)
-10. 📔 Created new repository [CrescentSoft/.github](https://github.com/CrescentSoft/.github)
+1. ✌️ Released [Hush 1.0.1 - ability to hide the meter](https://github.com/Dadangdut33/Hush/releases/tag/1.0.1) in [Dadangdut33/Hush](https://github.com/Dadangdut33/Hush)
+2. ✌️ Released [Hush 1.0.0](https://github.com/Dadangdut33/Hush/releases/tag/1.0.0) in [Dadangdut33/Hush](https://github.com/Dadangdut33/Hush)
+3. 📔 Created new repository [Dadangdut33/Hush](https://github.com/Dadangdut33/Hush)
+4. ⭐ Starred [cleder/awesome-python-testing](https://github.com/cleder/awesome-python-testing)
+5. ⭐ Starred [life4/awesome-python-code-formatters](https://github.com/life4/awesome-python-code-formatters)
+6. ⭐ Starred [typeddjango/awesome-python-typing](https://github.com/typeddjango/awesome-python-typing)
+7. 📖 Created new wiki page [Home](https://github.com/Dadangdut33/Speech-Translate/wiki/Home) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
+8. ✔️ Closed issue [#37](https://github.com/Dadangdut33/Speech-Translate/issues/37) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
+9. ✔️ Closed issue [#45](https://github.com/Dadangdut33/Speech-Translate/issues/45) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
+10. ⭐ Starred [moudey/Shell](https://github.com/moudey/Shell)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
