@@ -79,16 +79,16 @@ Hello There ヾ(￣ ▽ ￣)
     <summary>⚡ Recent GitHub Activity</summary>
     
 <!--RECENT_ACTIVITY:start-->
-1. ✔️ Closed issue [#32](https://github.com/Dadangdut33/Speech-Translate/issues/32) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
-2. ✌️ Released [Hush 1.0.1 - ability to hide the meter](https://github.com/Dadangdut33/Hush/releases/tag/1.0.1) in [Dadangdut33/Hush](https://github.com/Dadangdut33/Hush)
-3. ✌️ Released [Hush 1.0.0](https://github.com/Dadangdut33/Hush/releases/tag/1.0.0) in [Dadangdut33/Hush](https://github.com/Dadangdut33/Hush)
-4. 📔 Created new repository [Dadangdut33/Hush](https://github.com/Dadangdut33/Hush)
-5. ⭐ Starred [cleder/awesome-python-testing](https://github.com/cleder/awesome-python-testing)
-6. ⭐ Starred [life4/awesome-python-code-formatters](https://github.com/life4/awesome-python-code-formatters)
-7. ⭐ Starred [typeddjango/awesome-python-typing](https://github.com/typeddjango/awesome-python-typing)
-8. 📖 Created new wiki page [Home](https://github.com/Dadangdut33/Speech-Translate/wiki/Home) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
-9. ✔️ Closed issue [#37](https://github.com/Dadangdut33/Speech-Translate/issues/37) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
-10. ✔️ Closed issue [#45](https://github.com/Dadangdut33/Speech-Translate/issues/45) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
+1. 💪 Opened PR [#47](https://github.com/Dadangdut33/Speech-Translate/pull/47) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
+2. ✔️ Closed issue [#32](https://github.com/Dadangdut33/Speech-Translate/issues/32) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
+3. ✌️ Released [Hush 1.0.1 - ability to hide the meter](https://github.com/Dadangdut33/Hush/releases/tag/1.0.1) in [Dadangdut33/Hush](https://github.com/Dadangdut33/Hush)
+4. ✌️ Released [Hush 1.0.0](https://github.com/Dadangdut33/Hush/releases/tag/1.0.0) in [Dadangdut33/Hush](https://github.com/Dadangdut33/Hush)
+5. 📔 Created new repository [Dadangdut33/Hush](https://github.com/Dadangdut33/Hush)
+6. ⭐ Starred [cleder/awesome-python-testing](https://github.com/cleder/awesome-python-testing)
+7. ⭐ Starred [life4/awesome-python-code-formatters](https://github.com/life4/awesome-python-code-formatters)
+8. ⭐ Starred [typeddjango/awesome-python-typing](https://github.com/typeddjango/awesome-python-typing)
+9. 📖 Created new wiki page [Home](https://github.com/Dadangdut33/Speech-Translate/wiki/Home) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
+10. ✔️ Closed issue [#37](https://github.com/Dadangdut33/Speech-Translate/issues/37) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
