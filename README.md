@@ -79,16 +79,16 @@ Hello There ヾ(￣ ▽ ￣)
     <summary>⚡ Recent GitHub Activity</summary>
     
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [jianfch/stable-ts](https://github.com/jianfch/stable-ts)
-2. 💪 Opened PR [#47](https://github.com/Dadangdut33/Speech-Translate/pull/47) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
-3. ✔️ Closed issue [#32](https://github.com/Dadangdut33/Speech-Translate/issues/32) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
-4. ✌️ Released [Hush 1.0.1 - ability to hide the meter](https://github.com/Dadangdut33/Hush/releases/tag/1.0.1) in [Dadangdut33/Hush](https://github.com/Dadangdut33/Hush)
-5. ✌️ Released [Hush 1.0.0](https://github.com/Dadangdut33/Hush/releases/tag/1.0.0) in [Dadangdut33/Hush](https://github.com/Dadangdut33/Hush)
-6. 📔 Created new repository [Dadangdut33/Hush](https://github.com/Dadangdut33/Hush)
-7. ⭐ Starred [cleder/awesome-python-testing](https://github.com/cleder/awesome-python-testing)
-8. ⭐ Starred [life4/awesome-python-code-formatters](https://github.com/life4/awesome-python-code-formatters)
-9. ⭐ Starred [typeddjango/awesome-python-typing](https://github.com/typeddjango/awesome-python-typing)
-10. 📖 Created new wiki page [Home](https://github.com/Dadangdut33/Speech-Translate/wiki/Home) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
+1. ⭐ Starred [JingheLee/KillThread](https://github.com/JingheLee/KillThread)
+2. ⭐ Starred [jianfch/stable-ts](https://github.com/jianfch/stable-ts)
+3. 💪 Opened PR [#47](https://github.com/Dadangdut33/Speech-Translate/pull/47) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
+4. ✔️ Closed issue [#32](https://github.com/Dadangdut33/Speech-Translate/issues/32) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
+5. ✌️ Released [Hush 1.0.1 - ability to hide the meter](https://github.com/Dadangdut33/Hush/releases/tag/1.0.1) in [Dadangdut33/Hush](https://github.com/Dadangdut33/Hush)
+6. ✌️ Released [Hush 1.0.0](https://github.com/Dadangdut33/Hush/releases/tag/1.0.0) in [Dadangdut33/Hush](https://github.com/Dadangdut33/Hush)
+7. 📔 Created new repository [Dadangdut33/Hush](https://github.com/Dadangdut33/Hush)
+8. ⭐ Starred [cleder/awesome-python-testing](https://github.com/cleder/awesome-python-testing)
+9. ⭐ Starred [life4/awesome-python-code-formatters](https://github.com/life4/awesome-python-code-formatters)
+10. ⭐ Starred [typeddjango/awesome-python-typing](https://github.com/typeddjango/awesome-python-typing)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
