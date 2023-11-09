@@ -79,16 +79,16 @@ Hello There ヾ(￣ ▽ ￣)
     <summary>⚡ Recent GitHub Activity</summary>
     
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#48](https://github.com/Dadangdut33/Speech-Translate/issues/48) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
-2. ✌️ Released [1.3.0 - UI Overhaul and New Backend](https://github.com/Dadangdut33/Speech-Translate/releases/tag/1.3.0) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
-3. ✔️ Closed issue [#27](https://github.com/Dadangdut33/Speech-Translate/issues/27) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
-4. ✔️ Closed issue [#36](https://github.com/Dadangdut33/Speech-Translate/issues/36) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
-5. ✔️ Closed issue [#34](https://github.com/Dadangdut33/Speech-Translate/issues/34) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
-6. ✔️ Closed issue [#39](https://github.com/Dadangdut33/Speech-Translate/issues/39) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
-7. ✔️ Closed issue [#40](https://github.com/Dadangdut33/Speech-Translate/issues/40) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
-8. ✔️ Closed issue [#10](https://github.com/Dadangdut33/Speech-Translate/issues/10) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
-9. ✔️ Closed issue [#31](https://github.com/Dadangdut33/Speech-Translate/issues/31) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
-10. ✔️ Closed issue [#33](https://github.com/Dadangdut33/Speech-Translate/issues/33) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
+1. ✔️ Closed issue [#49](https://github.com/Dadangdut33/Speech-Translate/issues/49) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
+2. ✔️ Closed issue [#50](https://github.com/Dadangdut33/Speech-Translate/issues/50) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
+3. ✌️ Released [1.3.1 - Bug Fixes & Large-v3](https://github.com/Dadangdut33/Speech-Translate/releases/tag/1.3.1) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
+4. ❗️ Opened issue [#50](https://github.com/Dadangdut33/Speech-Translate/issues/50) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
+5. ❗️ Opened issue [#49](https://github.com/Dadangdut33/Speech-Translate/issues/49) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
+6. 📖 Created new wiki page [_Footer](https://github.com/Dadangdut33/Speech-Translate/wiki/_Footer) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
+7. 📖 Created new wiki page [Setting-Up-&-Tips](https://github.com/Dadangdut33/Speech-Translate/wiki/Setting-Up-%26-Tips) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
+8. 📖 Created new wiki page [Tips](https://github.com/Dadangdut33/Speech-Translate/wiki/Tips) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
+9. ❗️ Opened issue [#48](https://github.com/Dadangdut33/Speech-Translate/issues/48) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
+10. ✌️ Released [1.3.0 - UI Overhaul and New Backend](https://github.com/Dadangdut33/Speech-Translate/releases/tag/1.3.0) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
