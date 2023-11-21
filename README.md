@@ -79,16 +79,16 @@ Hello There ヾ(￣ ▽ ￣)
     <summary>⚡ Recent GitHub Activity</summary>
     
 <!--RECENT_ACTIVITY:start-->
-1. ✌️ Released [1.3.4 - Large v3 for faster whisper](https://github.com/Dadangdut33/Speech-Translate/releases/tag/1.3.4) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
-2. ✔️ Closed issue [#48](https://github.com/Dadangdut33/Speech-Translate/issues/48) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
+1. ⭐ Starred [xinntao/Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN)
+2. ⭐ Starred [Sanster/lama-cleaner](https://github.com/Sanster/lama-cleaner)
 3. ✌️ Released [1.3.4 - Large v3 for faster whisper](https://github.com/Dadangdut33/Speech-Translate/releases/tag/1.3.4) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
-4. 📖 Created new wiki page [Options](https://github.com/Dadangdut33/Speech-Translate/wiki/Options) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
-5. ✔️ Closed issue [#52](https://github.com/Dadangdut33/Speech-Translate/issues/52) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
-6. ✔️ Closed issue [#53](https://github.com/Dadangdut33/Speech-Translate/issues/53) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
-7. ✌️ Released [1.3.3 - Bug Fix](https://github.com/Dadangdut33/Speech-Translate/releases/tag/1.3.3) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
-8. ❗️ Opened issue [#52](https://github.com/Dadangdut33/Speech-Translate/issues/52) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
-9. ⭐ Starred [wiseman/py-webrtcvad](https://github.com/wiseman/py-webrtcvad)
-10. ✔️ Closed issue [#51](https://github.com/Dadangdut33/Speech-Translate/issues/51) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
+4. ✔️ Closed issue [#48](https://github.com/Dadangdut33/Speech-Translate/issues/48) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
+5. ✌️ Released [1.3.4 - Large v3 for faster whisper](https://github.com/Dadangdut33/Speech-Translate/releases/tag/1.3.4) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
+6. 📖 Created new wiki page [Options](https://github.com/Dadangdut33/Speech-Translate/wiki/Options) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
+7. ✔️ Closed issue [#52](https://github.com/Dadangdut33/Speech-Translate/issues/52) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
+8. ✔️ Closed issue [#53](https://github.com/Dadangdut33/Speech-Translate/issues/53) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
+9. ✌️ Released [1.3.3 - Bug Fix](https://github.com/Dadangdut33/Speech-Translate/releases/tag/1.3.3) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
+10. ❗️ Opened issue [#52](https://github.com/Dadangdut33/Speech-Translate/issues/52) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
