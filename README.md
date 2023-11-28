@@ -25,8 +25,6 @@ Hello There ヾ(￣ ▽ ￣)
 
 <a href="https://www.linkedin.com/in/fauzan-farhan-antoro/"><code><img alt="Fauzan Farhan Antoro | LinkedIn" 
     src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" /></code></a>
-<a href="https://steamcommunity.com/id/dadangdut33/"><code><img alt="Dadangdut33 | Steam" 
-    src="https://img.shields.io/badge/steam-%23000000.svg?style=flat-square&logo=steam&logoColor=white" /></code></a>
 <a href="https://ko-fi.com/dadangdut33/"><code><img alt="Dadangdut33 | Ko-Fi" 
     src="https://img.shields.io/badge/Ko--fi-F16061?style=flat-square&logo=ko-fi&logoColor=white" /></code></a>
 
