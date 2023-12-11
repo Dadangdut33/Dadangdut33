@@ -77,16 +77,16 @@ Hello There ヾ(￣ ▽ ￣)
     <summary>⚡ Recent GitHub Activity</summary>
     
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [scalar/scalar](https://github.com/scalar/scalar)
-2. ✔️ Closed issue [#44](https://github.com/Dadangdut33/Speech-Translate/issues/44) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
-3. ✔️ Closed issue [#54](https://github.com/Dadangdut33/Speech-Translate/issues/54) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
-4. ✌️ Released [1.3.5 - Bug Fixes and Some Enhancement](https://github.com/Dadangdut33/Speech-Translate/releases/tag/1.3.5) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
-5. ⭐ Starred [safing/portmaster](https://github.com/safing/portmaster)
-6. ⭐ Starred [xinntao/Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN)
-7. ⭐ Starred [Sanster/lama-cleaner](https://github.com/Sanster/lama-cleaner)
-8. ✌️ Released [1.3.4 - Large v3 for faster whisper](https://github.com/Dadangdut33/Speech-Translate/releases/tag/1.3.4) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
-9. ✔️ Closed issue [#48](https://github.com/Dadangdut33/Speech-Translate/issues/48) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
-10. ✌️ Released [1.3.4 - Large v3 for faster whisper](https://github.com/Dadangdut33/Speech-Translate/releases/tag/1.3.4) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
+1. ⭐ Starred [snakers4/silero-vad](https://github.com/snakers4/silero-vad)
+2. ⭐ Starred [scalar/scalar](https://github.com/scalar/scalar)
+3. ✔️ Closed issue [#44](https://github.com/Dadangdut33/Speech-Translate/issues/44) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
+4. ✔️ Closed issue [#54](https://github.com/Dadangdut33/Speech-Translate/issues/54) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
+5. ✌️ Released [1.3.5 - Bug Fixes and Some Enhancement](https://github.com/Dadangdut33/Speech-Translate/releases/tag/1.3.5) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
+6. ⭐ Starred [safing/portmaster](https://github.com/safing/portmaster)
+7. ⭐ Starred [xinntao/Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN)
+8. ⭐ Starred [Sanster/lama-cleaner](https://github.com/Sanster/lama-cleaner)
+9. ✌️ Released [1.3.4 - Large v3 for faster whisper](https://github.com/Dadangdut33/Speech-Translate/releases/tag/1.3.4) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
+10. ✔️ Closed issue [#48](https://github.com/Dadangdut33/Speech-Translate/issues/48) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
