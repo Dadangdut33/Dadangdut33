@@ -77,16 +77,16 @@ Hello There ヾ(￣ ▽ ￣)
     <summary>⚡ Recent GitHub Activity</summary>
     
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [marticliment/WingetUI](https://github.com/marticliment/WingetUI)
-2. ⭐ Starred [emoacht/Monitorian](https://github.com/emoacht/Monitorian)
-3. ⭐ Starred [Flow-Launcher/Flow.Launcher](https://github.com/Flow-Launcher/Flow.Launcher)
-4. ⭐ Starred [0x7c13/Notepads](https://github.com/0x7c13/Notepads)
-5. ⭐ Starred [files-community/Files](https://github.com/files-community/Files)
-6. ✔️ Closed issue [#56](https://github.com/Dadangdut33/Speech-Translate/issues/56) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
-7. ✌️ Released [1.3.6 - Bug Fixes and Enhancement](https://github.com/Dadangdut33/Speech-Translate/releases/tag/1.3.6) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
-8. ❗️ Opened issue [#14](https://github.com/zackees/static_ffmpeg/issues/14) in [zackees/static_ffmpeg](https://github.com/zackees/static_ffmpeg)
-9. ⭐ Starred [zackees/static_ffmpeg](https://github.com/zackees/static_ffmpeg)
-10. ⭐ Starred [snakers4/silero-vad](https://github.com/snakers4/silero-vad)
+1. ✔️ Closed issue [#59](https://github.com/Dadangdut33/Speech-Translate/issues/59) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
+2. ✔️ Closed issue [#58](https://github.com/Dadangdut33/Speech-Translate/issues/58) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
+3. ⭐ Starred [marticliment/WingetUI](https://github.com/marticliment/WingetUI)
+4. ⭐ Starred [emoacht/Monitorian](https://github.com/emoacht/Monitorian)
+5. ⭐ Starred [Flow-Launcher/Flow.Launcher](https://github.com/Flow-Launcher/Flow.Launcher)
+6. ⭐ Starred [0x7c13/Notepads](https://github.com/0x7c13/Notepads)
+7. ⭐ Starred [files-community/Files](https://github.com/files-community/Files)
+8. ✔️ Closed issue [#56](https://github.com/Dadangdut33/Speech-Translate/issues/56) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
+9. ✌️ Released [1.3.6 - Bug Fixes and Enhancement](https://github.com/Dadangdut33/Speech-Translate/releases/tag/1.3.6) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
+10. ❗️ Opened issue [#14](https://github.com/zackees/static_ffmpeg/issues/14) in [zackees/static_ffmpeg](https://github.com/zackees/static_ffmpeg)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
