@@ -77,16 +77,16 @@ Hello There ヾ(￣ ▽ ￣)
     <summary>⚡ Recent GitHub Activity</summary>
     
 <!--RECENT_ACTIVITY:start-->
-1. ✔️ Closed issue [#57](https://github.com/Dadangdut33/Speech-Translate/issues/57) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
-2. ✌️ Released [1.3.7 - Some enhancement for record](https://github.com/Dadangdut33/Speech-Translate/releases/tag/1.3.7) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
-3. ✔️ Closed issue [#59](https://github.com/Dadangdut33/Speech-Translate/issues/59) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
-4. ✔️ Closed issue [#58](https://github.com/Dadangdut33/Speech-Translate/issues/58) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
-5. ⭐ Starred [marticliment/WingetUI](https://github.com/marticliment/WingetUI)
-6. ⭐ Starred [emoacht/Monitorian](https://github.com/emoacht/Monitorian)
-7. ⭐ Starred [Flow-Launcher/Flow.Launcher](https://github.com/Flow-Launcher/Flow.Launcher)
-8. ⭐ Starred [0x7c13/Notepads](https://github.com/0x7c13/Notepads)
-9. ⭐ Starred [files-community/Files](https://github.com/files-community/Files)
-10. ✔️ Closed issue [#56](https://github.com/Dadangdut33/Speech-Translate/issues/56) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
+1. ✔️ Closed issue [#60](https://github.com/Dadangdut33/Speech-Translate/issues/60) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
+2. ✔️ Closed issue [#57](https://github.com/Dadangdut33/Speech-Translate/issues/57) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
+3. ✌️ Released [1.3.7 - Some enhancement for record](https://github.com/Dadangdut33/Speech-Translate/releases/tag/1.3.7) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
+4. ✔️ Closed issue [#59](https://github.com/Dadangdut33/Speech-Translate/issues/59) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
+5. ✔️ Closed issue [#58](https://github.com/Dadangdut33/Speech-Translate/issues/58) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
+6. ⭐ Starred [marticliment/WingetUI](https://github.com/marticliment/WingetUI)
+7. ⭐ Starred [emoacht/Monitorian](https://github.com/emoacht/Monitorian)
+8. ⭐ Starred [Flow-Launcher/Flow.Launcher](https://github.com/Flow-Launcher/Flow.Launcher)
+9. ⭐ Starred [0x7c13/Notepads](https://github.com/0x7c13/Notepads)
+10. ⭐ Starred [files-community/Files](https://github.com/files-community/Files)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
