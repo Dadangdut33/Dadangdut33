@@ -77,16 +77,16 @@ Hello There ヾ(￣ ▽ ￣)
     <summary>⚡ Recent GitHub Activity</summary>
     
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#14280](https://github.com/files-community/Files/issues/14280) in [files-community/Files](https://github.com/files-community/Files)
-2. ⭐ Starred [linexjlin/GPTs](https://github.com/linexjlin/GPTs)
-3. ⭐ Starred [pypa/pipx](https://github.com/pypa/pipx)
-4. ✔️ Closed issue [#61](https://github.com/Dadangdut33/Speech-Translate/issues/61) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
-5. ✔️ Closed issue [#60](https://github.com/Dadangdut33/Speech-Translate/issues/60) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
-6. ✔️ Closed issue [#57](https://github.com/Dadangdut33/Speech-Translate/issues/57) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
-7. ✌️ Released [1.3.7 - Some enhancement for record](https://github.com/Dadangdut33/Speech-Translate/releases/tag/1.3.7) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
-8. ✔️ Closed issue [#59](https://github.com/Dadangdut33/Speech-Translate/issues/59) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
-9. ✔️ Closed issue [#58](https://github.com/Dadangdut33/Speech-Translate/issues/58) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
-10. ⭐ Starred [marticliment/WingetUI](https://github.com/marticliment/WingetUI)
+1. ✔️ Closed issue [#62](https://github.com/Dadangdut33/Speech-Translate/issues/62) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
+2. ✌️ Released [1.3.8 - Bug Fixes](https://github.com/Dadangdut33/Speech-Translate/releases/tag/1.3.8) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
+3. ❗️ Opened issue [#14280](https://github.com/files-community/Files/issues/14280) in [files-community/Files](https://github.com/files-community/Files)
+4. ⭐ Starred [linexjlin/GPTs](https://github.com/linexjlin/GPTs)
+5. ⭐ Starred [pypa/pipx](https://github.com/pypa/pipx)
+6. ✔️ Closed issue [#61](https://github.com/Dadangdut33/Speech-Translate/issues/61) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
+7. ✔️ Closed issue [#60](https://github.com/Dadangdut33/Speech-Translate/issues/60) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
+8. ✔️ Closed issue [#57](https://github.com/Dadangdut33/Speech-Translate/issues/57) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
+9. ✌️ Released [1.3.7 - Some enhancement for record](https://github.com/Dadangdut33/Speech-Translate/releases/tag/1.3.7) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
+10. ✔️ Closed issue [#59](https://github.com/Dadangdut33/Speech-Translate/issues/59) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
