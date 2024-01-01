@@ -77,16 +77,16 @@ Hello There ヾ(￣ ▽ ￣)
     <summary>⚡ Recent GitHub Activity</summary>
     
 <!--RECENT_ACTIVITY:start-->
-1. ✔️ Closed issue [#62](https://github.com/Dadangdut33/Speech-Translate/issues/62) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
-2. ✌️ Released [1.3.8 - Bug Fixes](https://github.com/Dadangdut33/Speech-Translate/releases/tag/1.3.8) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
-3. ❗️ Opened issue [#14280](https://github.com/files-community/Files/issues/14280) in [files-community/Files](https://github.com/files-community/Files)
-4. ⭐ Starred [linexjlin/GPTs](https://github.com/linexjlin/GPTs)
-5. ⭐ Starred [pypa/pipx](https://github.com/pypa/pipx)
-6. ✔️ Closed issue [#61](https://github.com/Dadangdut33/Speech-Translate/issues/61) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
-7. ✔️ Closed issue [#60](https://github.com/Dadangdut33/Speech-Translate/issues/60) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
-8. ✔️ Closed issue [#57](https://github.com/Dadangdut33/Speech-Translate/issues/57) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
-9. ✌️ Released [1.3.7 - Some enhancement for record](https://github.com/Dadangdut33/Speech-Translate/releases/tag/1.3.7) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
-10. ✔️ Closed issue [#59](https://github.com/Dadangdut33/Speech-Translate/issues/59) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
+1. ✔️ Closed issue [#63](https://github.com/Dadangdut33/Speech-Translate/issues/63) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
+2. ✌️ Released [1.3.8.1 - Fix model checking](https://github.com/Dadangdut33/Speech-Translate/releases/tag/1.3.8.1) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
+3. ⭐ Starred [Foundry376/Mailspring](https://github.com/Foundry376/Mailspring)
+4. ✔️ Closed issue [#62](https://github.com/Dadangdut33/Speech-Translate/issues/62) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
+5. ✌️ Released [1.3.8 - Bug Fixes](https://github.com/Dadangdut33/Speech-Translate/releases/tag/1.3.8) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
+6. ❗️ Opened issue [#14280](https://github.com/files-community/Files/issues/14280) in [files-community/Files](https://github.com/files-community/Files)
+7. ⭐ Starred [linexjlin/GPTs](https://github.com/linexjlin/GPTs)
+8. ⭐ Starred [pypa/pipx](https://github.com/pypa/pipx)
+9. ✔️ Closed issue [#61](https://github.com/Dadangdut33/Speech-Translate/issues/61) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
+10. ✔️ Closed issue [#60](https://github.com/Dadangdut33/Speech-Translate/issues/60) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
