@@ -77,16 +77,16 @@ Hello There ヾ(￣ ▽ ￣)
     <summary>⚡ Recent GitHub Activity</summary>
     
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [mzomparelli/zVirtualDesktop](https://github.com/mzomparelli/zVirtualDesktop)
-2. ✔️ Closed issue [#64](https://github.com/Dadangdut33/Speech-Translate/issues/64) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
-3. ✌️ Released [1.3.9 - Minor bug Fix](https://github.com/Dadangdut33/Speech-Translate/releases/tag/1.3.9) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
-4. ❗️ Opened issue [#14337](https://github.com/files-community/Files/issues/14337) in [files-community/Files](https://github.com/files-community/Files)
-5. ⭐ Starred [movie-web/movie-web](https://github.com/movie-web/movie-web)
-6. ✔️ Closed issue [#63](https://github.com/Dadangdut33/Speech-Translate/issues/63) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
-7. ✌️ Released [1.3.8.1 - Fix model checking](https://github.com/Dadangdut33/Speech-Translate/releases/tag/1.3.8.1) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
-8. ⭐ Starred [Foundry376/Mailspring](https://github.com/Foundry376/Mailspring)
-9. ✔️ Closed issue [#62](https://github.com/Dadangdut33/Speech-Translate/issues/62) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
-10. ✌️ Released [1.3.8 - Bug Fixes](https://github.com/Dadangdut33/Speech-Translate/releases/tag/1.3.8) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
+1. ⭐ Starred [UltimMC/Launcher](https://github.com/UltimMC/Launcher)
+2. ⭐ Starred [jimschubert/NewTab-Redirect](https://github.com/jimschubert/NewTab-Redirect)
+3. ⭐ Starred [shvedes/discord-gruvbox](https://github.com/shvedes/discord-gruvbox)
+4. ⭐ Starred [mzomparelli/zVirtualDesktop](https://github.com/mzomparelli/zVirtualDesktop)
+5. ✔️ Closed issue [#64](https://github.com/Dadangdut33/Speech-Translate/issues/64) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
+6. ✌️ Released [1.3.9 - Minor bug Fix](https://github.com/Dadangdut33/Speech-Translate/releases/tag/1.3.9) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
+7. ❗️ Opened issue [#14337](https://github.com/files-community/Files/issues/14337) in [files-community/Files](https://github.com/files-community/Files)
+8. ⭐ Starred [movie-web/movie-web](https://github.com/movie-web/movie-web)
+9. ✔️ Closed issue [#63](https://github.com/Dadangdut33/Speech-Translate/issues/63) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
+10. ✌️ Released [1.3.8.1 - Fix model checking](https://github.com/Dadangdut33/Speech-Translate/releases/tag/1.3.8.1) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
