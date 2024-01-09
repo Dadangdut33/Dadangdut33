@@ -77,16 +77,16 @@ Hello There ヾ(￣ ▽ ￣)
     <summary>⚡ Recent GitHub Activity</summary>
     
 <!--RECENT_ACTIVITY:start-->
-1. ✌️ Released [1.3.10 - Add option to not use .en model](https://github.com/Dadangdut33/Speech-Translate/releases/tag/1.3.10) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
-2. ⭐ Starred [makipom/BlueArchive-Cursors](https://github.com/makipom/BlueArchive-Cursors)
-3. ⭐ Starred [UltimMC/Launcher](https://github.com/UltimMC/Launcher)
-4. ⭐ Starred [jimschubert/NewTab-Redirect](https://github.com/jimschubert/NewTab-Redirect)
-5. ⭐ Starred [shvedes/discord-gruvbox](https://github.com/shvedes/discord-gruvbox)
-6. ⭐ Starred [mzomparelli/zVirtualDesktop](https://github.com/mzomparelli/zVirtualDesktop)
-7. ✔️ Closed issue [#64](https://github.com/Dadangdut33/Speech-Translate/issues/64) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
-8. ✌️ Released [1.3.9 - Minor bug Fix](https://github.com/Dadangdut33/Speech-Translate/releases/tag/1.3.9) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
-9. ❗️ Opened issue [#14337](https://github.com/files-community/Files/issues/14337) in [files-community/Files](https://github.com/files-community/Files)
-10. ⭐ Starred [movie-web/movie-web](https://github.com/movie-web/movie-web)
+1. ❗️ Opened issue [#1292](https://github.com/0x7c13/Notepads/issues/1292) in [0x7c13/Notepads](https://github.com/0x7c13/Notepads)
+2. ✌️ Released [1.3.10 - Add option to not use .en model](https://github.com/Dadangdut33/Speech-Translate/releases/tag/1.3.10) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
+3. ⭐ Starred [makipom/BlueArchive-Cursors](https://github.com/makipom/BlueArchive-Cursors)
+4. ⭐ Starred [UltimMC/Launcher](https://github.com/UltimMC/Launcher)
+5. ⭐ Starred [jimschubert/NewTab-Redirect](https://github.com/jimschubert/NewTab-Redirect)
+6. ⭐ Starred [shvedes/discord-gruvbox](https://github.com/shvedes/discord-gruvbox)
+7. ⭐ Starred [mzomparelli/zVirtualDesktop](https://github.com/mzomparelli/zVirtualDesktop)
+8. ✔️ Closed issue [#64](https://github.com/Dadangdut33/Speech-Translate/issues/64) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
+9. ✌️ Released [1.3.9 - Minor bug Fix](https://github.com/Dadangdut33/Speech-Translate/releases/tag/1.3.9) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
+10. ❗️ Opened issue [#14337](https://github.com/files-community/Files/issues/14337) in [files-community/Files](https://github.com/files-community/Files)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
