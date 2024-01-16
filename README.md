@@ -77,16 +77,16 @@ Hello There ヾ(￣ ▽ ￣)
     <summary>⚡ Recent GitHub Activity</summary>
     
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [mullvad/dns-blocklists](https://github.com/mullvad/dns-blocklists)
-2. 📖 Created new wiki page [Model-Benchmark-&-Recommended-Setting](https://github.com/Dadangdut33/Speech-Translate/wiki/Model-Benchmark-%26-Recommended-Setting) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
-3. ❗️ Opened issue [#1292](https://github.com/0x7c13/Notepads/issues/1292) in [0x7c13/Notepads](https://github.com/0x7c13/Notepads)
-4. ✌️ Released [1.3.10 - Add option to not use .en model](https://github.com/Dadangdut33/Speech-Translate/releases/tag/1.3.10) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
-5. ⭐ Starred [makipom/BlueArchive-Cursors](https://github.com/makipom/BlueArchive-Cursors)
-6. ⭐ Starred [UltimMC/Launcher](https://github.com/UltimMC/Launcher)
-7. ⭐ Starred [jimschubert/NewTab-Redirect](https://github.com/jimschubert/NewTab-Redirect)
-8. ⭐ Starred [shvedes/discord-gruvbox](https://github.com/shvedes/discord-gruvbox)
-9. ⭐ Starred [mzomparelli/zVirtualDesktop](https://github.com/mzomparelli/zVirtualDesktop)
-10. ✔️ Closed issue [#64](https://github.com/Dadangdut33/Speech-Translate/issues/64) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
+1. ⭐ Starred [beeware/briefcase](https://github.com/beeware/briefcase)
+2. ⭐ Starred [mullvad/dns-blocklists](https://github.com/mullvad/dns-blocklists)
+3. 📖 Created new wiki page [Model-Benchmark-&-Recommended-Setting](https://github.com/Dadangdut33/Speech-Translate/wiki/Model-Benchmark-%26-Recommended-Setting) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
+4. ❗️ Opened issue [#1292](https://github.com/0x7c13/Notepads/issues/1292) in [0x7c13/Notepads](https://github.com/0x7c13/Notepads)
+5. ✌️ Released [1.3.10 - Add option to not use .en model](https://github.com/Dadangdut33/Speech-Translate/releases/tag/1.3.10) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
+6. ⭐ Starred [makipom/BlueArchive-Cursors](https://github.com/makipom/BlueArchive-Cursors)
+7. ⭐ Starred [UltimMC/Launcher](https://github.com/UltimMC/Launcher)
+8. ⭐ Starred [jimschubert/NewTab-Redirect](https://github.com/jimschubert/NewTab-Redirect)
+9. ⭐ Starred [shvedes/discord-gruvbox](https://github.com/shvedes/discord-gruvbox)
+10. ⭐ Starred [mzomparelli/zVirtualDesktop](https://github.com/mzomparelli/zVirtualDesktop)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
