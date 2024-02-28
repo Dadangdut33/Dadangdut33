@@ -77,16 +77,16 @@ Hello There ヾ(￣ ▽ ￣)
     <summary>⚡ Recent GitHub Activity</summary>
     
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [red-prig/fpPS4](https://github.com/red-prig/fpPS4)
-2. ✔️ Closed issue [#67](https://github.com/Dadangdut33/Speech-Translate/issues/67) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
-3. ✔️ Closed issue [#71](https://github.com/Dadangdut33/Speech-Translate/issues/71) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
-4. ⭐ Starred [WindowsAddict/IDM-Activation-Script](https://github.com/WindowsAddict/IDM-Activation-Script)
-5. ⭐ Starred [beeware/briefcase](https://github.com/beeware/briefcase)
-6. ⭐ Starred [mullvad/dns-blocklists](https://github.com/mullvad/dns-blocklists)
-7. 📖 Created new wiki page [Model-Benchmark-&-Recommended-Setting](https://github.com/Dadangdut33/Speech-Translate/wiki/Model-Benchmark-%26-Recommended-Setting) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
-8. ❗️ Opened issue [#1292](https://github.com/0x7c13/Notepads/issues/1292) in [0x7c13/Notepads](https://github.com/0x7c13/Notepads)
-9. ✌️ Released [1.3.10 - Add option to not use .en model](https://github.com/Dadangdut33/Speech-Translate/releases/tag/1.3.10) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
-10. ⭐ Starred [makipom/BlueArchive-Cursors](https://github.com/makipom/BlueArchive-Cursors)
+1. ⭐ Starred [prisma/prisma](https://github.com/prisma/prisma)
+2. ⭐ Starred [lucia-auth/lucia](https://github.com/lucia-auth/lucia)
+3. ⭐ Starred [steven-tey/novel](https://github.com/steven-tey/novel)
+4. ⭐ Starred [nicoalbanese/kirimase](https://github.com/nicoalbanese/kirimase)
+5. ⭐ Starred [red-prig/fpPS4](https://github.com/red-prig/fpPS4)
+6. ✔️ Closed issue [#67](https://github.com/Dadangdut33/Speech-Translate/issues/67) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
+7. ✔️ Closed issue [#71](https://github.com/Dadangdut33/Speech-Translate/issues/71) in [Dadangdut33/Speech-Translate](https://github.com/Dadangdut33/Speech-Translate)
+8. ⭐ Starred [WindowsAddict/IDM-Activation-Script](https://github.com/WindowsAddict/IDM-Activation-Script)
+9. ⭐ Starred [beeware/briefcase](https://github.com/beeware/briefcase)
+10. ⭐ Starred [mullvad/dns-blocklists](https://github.com/mullvad/dns-blocklists)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
