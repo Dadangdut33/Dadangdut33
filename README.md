@@ -77,16 +77,16 @@ Hello There ヾ(￣ ▽ ￣)
     <summary>⚡ Recent GitHub Activity</summary>
     
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [github/gitignore](https://github.com/github/gitignore)
-2. ⭐ Starred [gitattributes/gitattributes](https://github.com/gitattributes/gitattributes)
-3. ⭐ Starred [TypeCellOS/BlockNote](https://github.com/TypeCellOS/BlockNote)
-4. 🎉 Merged PR [#1](https://github.com/Dadangdut33/Personal-Web-Backend/pull/1) in [Dadangdut33/Personal-Web-Backend](https://github.com/Dadangdut33/Personal-Web-Backend)
-5. 💪 Opened PR [#1](https://github.com/Dadangdut33/Personal-Web-Backend/pull/1) in [Dadangdut33/Personal-Web-Backend](https://github.com/Dadangdut33/Personal-Web-Backend)
-6. ⭐ Starred [prisma/prisma](https://github.com/prisma/prisma)
-7. ⭐ Starred [lucia-auth/lucia](https://github.com/lucia-auth/lucia)
-8. ⭐ Starred [steven-tey/novel](https://github.com/steven-tey/novel)
-9. ⭐ Starred [nicoalbanese/kirimase](https://github.com/nicoalbanese/kirimase)
-10. ⭐ Starred [red-prig/fpPS4](https://github.com/red-prig/fpPS4)
+1. ⭐ Starred [bokuweb/re-resizable](https://github.com/bokuweb/re-resizable)
+2. ❗️ Opened issue [#727](https://github.com/TypeCellOS/BlockNote/issues/727) in [TypeCellOS/BlockNote](https://github.com/TypeCellOS/BlockNote)
+3. ⭐ Starred [github/gitignore](https://github.com/github/gitignore)
+4. ⭐ Starred [gitattributes/gitattributes](https://github.com/gitattributes/gitattributes)
+5. ⭐ Starred [TypeCellOS/BlockNote](https://github.com/TypeCellOS/BlockNote)
+6. 🎉 Merged PR [#1](https://github.com/Dadangdut33/Personal-Web-Backend/pull/1) in [Dadangdut33/Personal-Web-Backend](https://github.com/Dadangdut33/Personal-Web-Backend)
+7. 💪 Opened PR [#1](https://github.com/Dadangdut33/Personal-Web-Backend/pull/1) in [Dadangdut33/Personal-Web-Backend](https://github.com/Dadangdut33/Personal-Web-Backend)
+8. ⭐ Starred [prisma/prisma](https://github.com/prisma/prisma)
+9. ⭐ Starred [lucia-auth/lucia](https://github.com/lucia-auth/lucia)
+10. ⭐ Starred [steven-tey/novel](https://github.com/steven-tey/novel)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
