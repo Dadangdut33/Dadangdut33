@@ -77,16 +77,16 @@ Hello There ヾ(￣ ▽ ￣)
     <summary>⚡ Recent GitHub Activity</summary>
     
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [bokuweb/re-resizable](https://github.com/bokuweb/re-resizable)
-2. ❗️ Opened issue [#727](https://github.com/TypeCellOS/BlockNote/issues/727) in [TypeCellOS/BlockNote](https://github.com/TypeCellOS/BlockNote)
-3. ⭐ Starred [github/gitignore](https://github.com/github/gitignore)
-4. ⭐ Starred [gitattributes/gitattributes](https://github.com/gitattributes/gitattributes)
-5. ⭐ Starred [TypeCellOS/BlockNote](https://github.com/TypeCellOS/BlockNote)
-6. 🎉 Merged PR [#1](https://github.com/Dadangdut33/Personal-Web-Backend/pull/1) in [Dadangdut33/Personal-Web-Backend](https://github.com/Dadangdut33/Personal-Web-Backend)
-7. 💪 Opened PR [#1](https://github.com/Dadangdut33/Personal-Web-Backend/pull/1) in [Dadangdut33/Personal-Web-Backend](https://github.com/Dadangdut33/Personal-Web-Backend)
-8. ⭐ Starred [prisma/prisma](https://github.com/prisma/prisma)
-9. ⭐ Starred [lucia-auth/lucia](https://github.com/lucia-auth/lucia)
-10. ⭐ Starred [steven-tey/novel](https://github.com/steven-tey/novel)
+1. ⭐ Starred [udecode/plate](https://github.com/udecode/plate)
+2. ⭐ Starred [bokuweb/re-resizable](https://github.com/bokuweb/re-resizable)
+3. ❗️ Opened issue [#727](https://github.com/TypeCellOS/BlockNote/issues/727) in [TypeCellOS/BlockNote](https://github.com/TypeCellOS/BlockNote)
+4. ⭐ Starred [github/gitignore](https://github.com/github/gitignore)
+5. ⭐ Starred [gitattributes/gitattributes](https://github.com/gitattributes/gitattributes)
+6. ⭐ Starred [TypeCellOS/BlockNote](https://github.com/TypeCellOS/BlockNote)
+7. 🎉 Merged PR [#1](https://github.com/Dadangdut33/Personal-Web-Backend/pull/1) in [Dadangdut33/Personal-Web-Backend](https://github.com/Dadangdut33/Personal-Web-Backend)
+8. 💪 Opened PR [#1](https://github.com/Dadangdut33/Personal-Web-Backend/pull/1) in [Dadangdut33/Personal-Web-Backend](https://github.com/Dadangdut33/Personal-Web-Backend)
+9. ⭐ Starred [prisma/prisma](https://github.com/prisma/prisma)
+10. ⭐ Starred [lucia-auth/lucia](https://github.com/lucia-auth/lucia)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
