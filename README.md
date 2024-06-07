@@ -77,16 +77,16 @@ Hello There ヾ(￣ ▽ ￣)
     <summary>⚡ Recent GitHub Activity</summary>
     
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#2394](https://github.com/drizzle-team/drizzle-orm/issues/2394) in [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm)
-2. ⭐ Starred [kubetail-org/edge-csrf](https://github.com/kubetail-org/edge-csrf)
-3. ⭐ Starred [zen-browser/desktop](https://github.com/zen-browser/desktop)
-4. ❗️ Opened issue [#2310](https://github.com/drizzle-team/drizzle-orm/issues/2310) in [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm)
-5. ⭐ Starred [udecode/plate](https://github.com/udecode/plate)
-6. ⭐ Starred [bokuweb/re-resizable](https://github.com/bokuweb/re-resizable)
-7. ❗️ Opened issue [#727](https://github.com/TypeCellOS/BlockNote/issues/727) in [TypeCellOS/BlockNote](https://github.com/TypeCellOS/BlockNote)
-8. ⭐ Starred [github/gitignore](https://github.com/github/gitignore)
-9. ⭐ Starred [gitattributes/gitattributes](https://github.com/gitattributes/gitattributes)
-10. ⭐ Starred [TypeCellOS/BlockNote](https://github.com/TypeCellOS/BlockNote)
+1. 🎉 Merged PR [#2](https://github.com/Dadangdut33/Personal-Web/pull/2) in [Dadangdut33/Personal-Web](https://github.com/Dadangdut33/Personal-Web)
+2. 💪 Opened PR [#2](https://github.com/Dadangdut33/Personal-Web/pull/2) in [Dadangdut33/Personal-Web](https://github.com/Dadangdut33/Personal-Web)
+3. 🎉 Merged PR [#1](https://github.com/Dadangdut33/Personal-Web/pull/1) in [Dadangdut33/Personal-Web](https://github.com/Dadangdut33/Personal-Web)
+4. 💪 Opened PR [#1](https://github.com/Dadangdut33/Personal-Web/pull/1) in [Dadangdut33/Personal-Web](https://github.com/Dadangdut33/Personal-Web)
+5. ❗️ Opened issue [#2394](https://github.com/drizzle-team/drizzle-orm/issues/2394) in [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm)
+6. ⭐ Starred [kubetail-org/edge-csrf](https://github.com/kubetail-org/edge-csrf)
+7. ⭐ Starred [zen-browser/desktop](https://github.com/zen-browser/desktop)
+8. ❗️ Opened issue [#2310](https://github.com/drizzle-team/drizzle-orm/issues/2310) in [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm)
+9. ⭐ Starred [udecode/plate](https://github.com/udecode/plate)
+10. ⭐ Starred [bokuweb/re-resizable](https://github.com/bokuweb/re-resizable)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
