@@ -77,16 +77,16 @@ Hello There ヾ(￣ ▽ ￣)
     <summary>⚡ Recent GitHub Activity</summary>
     
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#2](https://github.com/Dadangdut33/Personal-Web/pull/2) in [Dadangdut33/Personal-Web](https://github.com/Dadangdut33/Personal-Web)
-2. 💪 Opened PR [#2](https://github.com/Dadangdut33/Personal-Web/pull/2) in [Dadangdut33/Personal-Web](https://github.com/Dadangdut33/Personal-Web)
-3. 🎉 Merged PR [#1](https://github.com/Dadangdut33/Personal-Web/pull/1) in [Dadangdut33/Personal-Web](https://github.com/Dadangdut33/Personal-Web)
-4. 💪 Opened PR [#1](https://github.com/Dadangdut33/Personal-Web/pull/1) in [Dadangdut33/Personal-Web](https://github.com/Dadangdut33/Personal-Web)
-5. ❗️ Opened issue [#2394](https://github.com/drizzle-team/drizzle-orm/issues/2394) in [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm)
-6. ⭐ Starred [kubetail-org/edge-csrf](https://github.com/kubetail-org/edge-csrf)
-7. ⭐ Starred [zen-browser/desktop](https://github.com/zen-browser/desktop)
-8. ❗️ Opened issue [#2310](https://github.com/drizzle-team/drizzle-orm/issues/2310) in [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm)
-9. ⭐ Starred [udecode/plate](https://github.com/udecode/plate)
-10. ⭐ Starred [bokuweb/re-resizable](https://github.com/bokuweb/re-resizable)
+1. ⭐ Starred [SAWARATSUKI/KawaiiLogos](https://github.com/SAWARATSUKI/KawaiiLogos)
+2. 🎉 Merged PR [#2](https://github.com/Dadangdut33/Personal-Web/pull/2) in [Dadangdut33/Personal-Web](https://github.com/Dadangdut33/Personal-Web)
+3. 💪 Opened PR [#2](https://github.com/Dadangdut33/Personal-Web/pull/2) in [Dadangdut33/Personal-Web](https://github.com/Dadangdut33/Personal-Web)
+4. 🎉 Merged PR [#1](https://github.com/Dadangdut33/Personal-Web/pull/1) in [Dadangdut33/Personal-Web](https://github.com/Dadangdut33/Personal-Web)
+5. 💪 Opened PR [#1](https://github.com/Dadangdut33/Personal-Web/pull/1) in [Dadangdut33/Personal-Web](https://github.com/Dadangdut33/Personal-Web)
+6. ❗️ Opened issue [#2394](https://github.com/drizzle-team/drizzle-orm/issues/2394) in [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm)
+7. ⭐ Starred [kubetail-org/edge-csrf](https://github.com/kubetail-org/edge-csrf)
+8. ⭐ Starred [zen-browser/desktop](https://github.com/zen-browser/desktop)
+9. ❗️ Opened issue [#2310](https://github.com/drizzle-team/drizzle-orm/issues/2310) in [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm)
+10. ⭐ Starred [udecode/plate](https://github.com/udecode/plate)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
