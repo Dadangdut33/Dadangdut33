@@ -77,16 +77,16 @@ Hello There ヾ(￣ ▽ ￣)
     <summary>⚡ Recent GitHub Activity</summary>
     
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [glzr-io/zebar](https://github.com/glzr-io/zebar)
-2. ⭐ Starred [SAWARATSUKI/KawaiiLogos](https://github.com/SAWARATSUKI/KawaiiLogos)
-3. 🎉 Merged PR [#2](https://github.com/Dadangdut33/Personal-Web/pull/2) in [Dadangdut33/Personal-Web](https://github.com/Dadangdut33/Personal-Web)
-4. 💪 Opened PR [#2](https://github.com/Dadangdut33/Personal-Web/pull/2) in [Dadangdut33/Personal-Web](https://github.com/Dadangdut33/Personal-Web)
-5. 🎉 Merged PR [#1](https://github.com/Dadangdut33/Personal-Web/pull/1) in [Dadangdut33/Personal-Web](https://github.com/Dadangdut33/Personal-Web)
-6. 💪 Opened PR [#1](https://github.com/Dadangdut33/Personal-Web/pull/1) in [Dadangdut33/Personal-Web](https://github.com/Dadangdut33/Personal-Web)
-7. ❗️ Opened issue [#2394](https://github.com/drizzle-team/drizzle-orm/issues/2394) in [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm)
-8. ⭐ Starred [kubetail-org/edge-csrf](https://github.com/kubetail-org/edge-csrf)
-9. ⭐ Starred [zen-browser/desktop](https://github.com/zen-browser/desktop)
-10. ❗️ Opened issue [#2310](https://github.com/drizzle-team/drizzle-orm/issues/2310) in [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm)
+1. ⭐ Starred [CollapseLauncher/Collapse](https://github.com/CollapseLauncher/Collapse)
+2. ⭐ Starred [glzr-io/zebar](https://github.com/glzr-io/zebar)
+3. ⭐ Starred [SAWARATSUKI/KawaiiLogos](https://github.com/SAWARATSUKI/KawaiiLogos)
+4. 🎉 Merged PR [#2](https://github.com/Dadangdut33/Personal-Web/pull/2) in [Dadangdut33/Personal-Web](https://github.com/Dadangdut33/Personal-Web)
+5. 💪 Opened PR [#2](https://github.com/Dadangdut33/Personal-Web/pull/2) in [Dadangdut33/Personal-Web](https://github.com/Dadangdut33/Personal-Web)
+6. 🎉 Merged PR [#1](https://github.com/Dadangdut33/Personal-Web/pull/1) in [Dadangdut33/Personal-Web](https://github.com/Dadangdut33/Personal-Web)
+7. 💪 Opened PR [#1](https://github.com/Dadangdut33/Personal-Web/pull/1) in [Dadangdut33/Personal-Web](https://github.com/Dadangdut33/Personal-Web)
+8. ❗️ Opened issue [#2394](https://github.com/drizzle-team/drizzle-orm/issues/2394) in [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm)
+9. ⭐ Starred [kubetail-org/edge-csrf](https://github.com/kubetail-org/edge-csrf)
+10. ⭐ Starred [zen-browser/desktop](https://github.com/zen-browser/desktop)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
