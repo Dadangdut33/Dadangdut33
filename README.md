@@ -77,16 +77,16 @@ Hello There ヾ(￣ ▽ ￣)
     <summary>⚡ Recent GitHub Activity</summary>
     
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [erengy/taiga](https://github.com/erengy/taiga)
-2. ⭐ Starred [ThaUnknown/miru](https://github.com/ThaUnknown/miru)
-3. ⭐ Starred [CollapseLauncher/Collapse](https://github.com/CollapseLauncher/Collapse)
-4. ⭐ Starred [glzr-io/zebar](https://github.com/glzr-io/zebar)
-5. ⭐ Starred [SAWARATSUKI/KawaiiLogos](https://github.com/SAWARATSUKI/KawaiiLogos)
-6. 🎉 Merged PR [#2](https://github.com/Dadangdut33/Personal-Web/pull/2) in [Dadangdut33/Personal-Web](https://github.com/Dadangdut33/Personal-Web)
-7. 💪 Opened PR [#2](https://github.com/Dadangdut33/Personal-Web/pull/2) in [Dadangdut33/Personal-Web](https://github.com/Dadangdut33/Personal-Web)
-8. 🎉 Merged PR [#1](https://github.com/Dadangdut33/Personal-Web/pull/1) in [Dadangdut33/Personal-Web](https://github.com/Dadangdut33/Personal-Web)
-9. 💪 Opened PR [#1](https://github.com/Dadangdut33/Personal-Web/pull/1) in [Dadangdut33/Personal-Web](https://github.com/Dadangdut33/Personal-Web)
-10. ❗️ Opened issue [#2394](https://github.com/drizzle-team/drizzle-orm/issues/2394) in [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm)
+1. ⭐ Starred [stax76/awesome-mpv](https://github.com/stax76/awesome-mpv)
+2. ⭐ Starred [erengy/taiga](https://github.com/erengy/taiga)
+3. ⭐ Starred [ThaUnknown/miru](https://github.com/ThaUnknown/miru)
+4. ⭐ Starred [CollapseLauncher/Collapse](https://github.com/CollapseLauncher/Collapse)
+5. ⭐ Starred [glzr-io/zebar](https://github.com/glzr-io/zebar)
+6. ⭐ Starred [SAWARATSUKI/KawaiiLogos](https://github.com/SAWARATSUKI/KawaiiLogos)
+7. 🎉 Merged PR [#2](https://github.com/Dadangdut33/Personal-Web/pull/2) in [Dadangdut33/Personal-Web](https://github.com/Dadangdut33/Personal-Web)
+8. 💪 Opened PR [#2](https://github.com/Dadangdut33/Personal-Web/pull/2) in [Dadangdut33/Personal-Web](https://github.com/Dadangdut33/Personal-Web)
+9. 🎉 Merged PR [#1](https://github.com/Dadangdut33/Personal-Web/pull/1) in [Dadangdut33/Personal-Web](https://github.com/Dadangdut33/Personal-Web)
+10. 💪 Opened PR [#1](https://github.com/Dadangdut33/Personal-Web/pull/1) in [Dadangdut33/Personal-Web](https://github.com/Dadangdut33/Personal-Web)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
