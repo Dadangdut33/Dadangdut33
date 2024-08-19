@@ -77,16 +77,16 @@ Hello There ヾ(￣ ▽ ￣)
     <summary>⚡ Recent GitHub Activity</summary>
     
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [amnweb/yasb](https://github.com/amnweb/yasb)
-2. ❗️ Opened issue [#235](https://github.com/zen-browser/desktop/issues/235) in [zen-browser/desktop](https://github.com/zen-browser/desktop)
-3. ❗️ Opened issue [#190](https://github.com/zen-browser/desktop/issues/190) in [zen-browser/desktop](https://github.com/zen-browser/desktop)
-4. ⭐ Starred [payloadcms/payload](https://github.com/payloadcms/payload)
-5. ❗️ Opened issue [#124](https://github.com/zen-browser/desktop/issues/124) in [zen-browser/desktop](https://github.com/zen-browser/desktop)
-6. ⭐ Starred [simon-knuth/scanner](https://github.com/simon-knuth/scanner)
-7. ⭐ Starred [stax76/awesome-mpv](https://github.com/stax76/awesome-mpv)
-8. ⭐ Starred [erengy/taiga](https://github.com/erengy/taiga)
-9. ⭐ Starred [ThaUnknown/miru](https://github.com/ThaUnknown/miru)
-10. ⭐ Starred [CollapseLauncher/Collapse](https://github.com/CollapseLauncher/Collapse)
+1. ⭐ Starred [pyenv-win/pyenv-win](https://github.com/pyenv-win/pyenv-win)
+2. ❗️ Opened issue [#25](https://github.com/creewick/uWidgets/issues/25) in [creewick/uWidgets](https://github.com/creewick/uWidgets)
+3. ⭐ Starred [amnweb/yasb](https://github.com/amnweb/yasb)
+4. ❗️ Opened issue [#235](https://github.com/zen-browser/desktop/issues/235) in [zen-browser/desktop](https://github.com/zen-browser/desktop)
+5. ❗️ Opened issue [#190](https://github.com/zen-browser/desktop/issues/190) in [zen-browser/desktop](https://github.com/zen-browser/desktop)
+6. ⭐ Starred [payloadcms/payload](https://github.com/payloadcms/payload)
+7. ❗️ Opened issue [#124](https://github.com/zen-browser/desktop/issues/124) in [zen-browser/desktop](https://github.com/zen-browser/desktop)
+8. ⭐ Starred [simon-knuth/scanner](https://github.com/simon-knuth/scanner)
+9. ⭐ Starred [stax76/awesome-mpv](https://github.com/stax76/awesome-mpv)
+10. ⭐ Starred [erengy/taiga](https://github.com/erengy/taiga)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
