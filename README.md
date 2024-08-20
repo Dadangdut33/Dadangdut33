@@ -77,16 +77,16 @@ Hello There ヾ(￣ ▽ ￣)
     <summary>⚡ Recent GitHub Activity</summary>
     
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [pyenv-win/pyenv-win](https://github.com/pyenv-win/pyenv-win)
-2. ❗️ Opened issue [#25](https://github.com/creewick/uWidgets/issues/25) in [creewick/uWidgets](https://github.com/creewick/uWidgets)
-3. ⭐ Starred [amnweb/yasb](https://github.com/amnweb/yasb)
-4. ❗️ Opened issue [#235](https://github.com/zen-browser/desktop/issues/235) in [zen-browser/desktop](https://github.com/zen-browser/desktop)
-5. ❗️ Opened issue [#190](https://github.com/zen-browser/desktop/issues/190) in [zen-browser/desktop](https://github.com/zen-browser/desktop)
-6. ⭐ Starred [payloadcms/payload](https://github.com/payloadcms/payload)
-7. ❗️ Opened issue [#124](https://github.com/zen-browser/desktop/issues/124) in [zen-browser/desktop](https://github.com/zen-browser/desktop)
-8. ⭐ Starred [simon-knuth/scanner](https://github.com/simon-knuth/scanner)
-9. ⭐ Starred [stax76/awesome-mpv](https://github.com/stax76/awesome-mpv)
-10. ⭐ Starred [erengy/taiga](https://github.com/erengy/taiga)
+1. ⭐ Starred [eythaann/Seelen-UI](https://github.com/eythaann/Seelen-UI)
+2. ⭐ Starred [djlastnight/KeyboardSplitterXbox](https://github.com/djlastnight/KeyboardSplitterXbox)
+3. ⭐ Starred [pyenv-win/pyenv-win](https://github.com/pyenv-win/pyenv-win)
+4. ❗️ Opened issue [#25](https://github.com/creewick/uWidgets/issues/25) in [creewick/uWidgets](https://github.com/creewick/uWidgets)
+5. ⭐ Starred [amnweb/yasb](https://github.com/amnweb/yasb)
+6. ❗️ Opened issue [#235](https://github.com/zen-browser/desktop/issues/235) in [zen-browser/desktop](https://github.com/zen-browser/desktop)
+7. ❗️ Opened issue [#190](https://github.com/zen-browser/desktop/issues/190) in [zen-browser/desktop](https://github.com/zen-browser/desktop)
+8. ⭐ Starred [payloadcms/payload](https://github.com/payloadcms/payload)
+9. ❗️ Opened issue [#124](https://github.com/zen-browser/desktop/issues/124) in [zen-browser/desktop](https://github.com/zen-browser/desktop)
+10. ⭐ Starred [simon-knuth/scanner](https://github.com/simon-knuth/scanner)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
