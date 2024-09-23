@@ -77,16 +77,16 @@ Hello There ヾ(￣ ▽ ￣)
     <summary>⚡ Recent GitHub Activity</summary>
     
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [fn2006/PollyMC](https://github.com/fn2006/PollyMC)
-2. ❗️ Opened issue [#59](https://github.com/eythaann/Seelen-UI/issues/59) in [eythaann/Seelen-UI](https://github.com/eythaann/Seelen-UI)
-3. ✔️ Closed issue [#33](https://github.com/creewick/uWidgets/issues/33) in [creewick/uWidgets](https://github.com/creewick/uWidgets)
-4. ❗️ Opened issue [#33](https://github.com/creewick/uWidgets/issues/33) in [creewick/uWidgets](https://github.com/creewick/uWidgets)
-5. ❗️ Opened issue [#50](https://github.com/eythaann/Seelen-UI/issues/50) in [eythaann/Seelen-UI](https://github.com/eythaann/Seelen-UI)
-6. ❗️ Opened issue [#46](https://github.com/eythaann/Seelen-UI/issues/46) in [eythaann/Seelen-UI](https://github.com/eythaann/Seelen-UI)
-7. ❗️ Opened issue [#45](https://github.com/eythaann/Seelen-UI/issues/45) in [eythaann/Seelen-UI](https://github.com/eythaann/Seelen-UI)
-8. ❗️ Opened issue [#28](https://github.com/creewick/uWidgets/issues/28) in [creewick/uWidgets](https://github.com/creewick/uWidgets)
-9. ⭐ Starred [eythaann/Seelen-UI](https://github.com/eythaann/Seelen-UI)
-10. ⭐ Starred [djlastnight/KeyboardSplitterXbox](https://github.com/djlastnight/KeyboardSplitterXbox)
+1. ⭐ Starred [xpipe-io/xpipe](https://github.com/xpipe-io/xpipe)
+2. ⭐ Starred [fn2006/PollyMC](https://github.com/fn2006/PollyMC)
+3. ❗️ Opened issue [#59](https://github.com/eythaann/Seelen-UI/issues/59) in [eythaann/Seelen-UI](https://github.com/eythaann/Seelen-UI)
+4. ✔️ Closed issue [#33](https://github.com/creewick/uWidgets/issues/33) in [creewick/uWidgets](https://github.com/creewick/uWidgets)
+5. ❗️ Opened issue [#33](https://github.com/creewick/uWidgets/issues/33) in [creewick/uWidgets](https://github.com/creewick/uWidgets)
+6. ❗️ Opened issue [#50](https://github.com/eythaann/Seelen-UI/issues/50) in [eythaann/Seelen-UI](https://github.com/eythaann/Seelen-UI)
+7. ❗️ Opened issue [#46](https://github.com/eythaann/Seelen-UI/issues/46) in [eythaann/Seelen-UI](https://github.com/eythaann/Seelen-UI)
+8. ❗️ Opened issue [#45](https://github.com/eythaann/Seelen-UI/issues/45) in [eythaann/Seelen-UI](https://github.com/eythaann/Seelen-UI)
+9. ❗️ Opened issue [#28](https://github.com/creewick/uWidgets/issues/28) in [creewick/uWidgets](https://github.com/creewick/uWidgets)
+10. ⭐ Starred [eythaann/Seelen-UI](https://github.com/eythaann/Seelen-UI)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
