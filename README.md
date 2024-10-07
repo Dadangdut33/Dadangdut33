@@ -77,16 +77,16 @@ Hello There ヾ(￣ ▽ ￣)
     <summary>⚡ Recent GitHub Activity</summary>
     
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [0xJacky/nginx-ui](https://github.com/0xJacky/nginx-ui)
-2. ⭐ Starred [celzero/rethink-app](https://github.com/celzero/rethink-app)
-3. ⭐ Starred [Red5d/docker-autocompose](https://github.com/Red5d/docker-autocompose)
-4. ⭐ Starred [xpipe-io/xpipe](https://github.com/xpipe-io/xpipe)
-5. ⭐ Starred [fn2006/PollyMC](https://github.com/fn2006/PollyMC)
-6. ❗️ Opened issue [#59](https://github.com/eythaann/Seelen-UI/issues/59) in [eythaann/Seelen-UI](https://github.com/eythaann/Seelen-UI)
-7. ✔️ Closed issue [#33](https://github.com/creewick/uWidgets/issues/33) in [creewick/uWidgets](https://github.com/creewick/uWidgets)
-8. ❗️ Opened issue [#33](https://github.com/creewick/uWidgets/issues/33) in [creewick/uWidgets](https://github.com/creewick/uWidgets)
-9. ❗️ Opened issue [#50](https://github.com/eythaann/Seelen-UI/issues/50) in [eythaann/Seelen-UI](https://github.com/eythaann/Seelen-UI)
-10. ❗️ Opened issue [#46](https://github.com/eythaann/Seelen-UI/issues/46) in [eythaann/Seelen-UI](https://github.com/eythaann/Seelen-UI)
+1. ⭐ Starred [oxdev03/pm2.web](https://github.com/oxdev03/pm2.web)
+2. ⭐ Starred [0xJacky/nginx-ui](https://github.com/0xJacky/nginx-ui)
+3. ⭐ Starred [celzero/rethink-app](https://github.com/celzero/rethink-app)
+4. ⭐ Starred [Red5d/docker-autocompose](https://github.com/Red5d/docker-autocompose)
+5. ⭐ Starred [xpipe-io/xpipe](https://github.com/xpipe-io/xpipe)
+6. ⭐ Starred [fn2006/PollyMC](https://github.com/fn2006/PollyMC)
+7. ❗️ Opened issue [#59](https://github.com/eythaann/Seelen-UI/issues/59) in [eythaann/Seelen-UI](https://github.com/eythaann/Seelen-UI)
+8. ✔️ Closed issue [#33](https://github.com/creewick/uWidgets/issues/33) in [creewick/uWidgets](https://github.com/creewick/uWidgets)
+9. ❗️ Opened issue [#33](https://github.com/creewick/uWidgets/issues/33) in [creewick/uWidgets](https://github.com/creewick/uWidgets)
+10. ❗️ Opened issue [#50](https://github.com/eythaann/Seelen-UI/issues/50) in [eythaann/Seelen-UI](https://github.com/eythaann/Seelen-UI)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
