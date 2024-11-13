@@ -77,16 +77,16 @@ Hello There ヾ(￣ ▽ ￣)
     <summary>⚡ Recent GitHub Activity</summary>
     
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [museofficial/muse](https://github.com/museofficial/muse)
-2. ❗️ Opened issue [#2861](https://github.com/marticliment/UniGetUI/issues/2861) in [marticliment/UniGetUI](https://github.com/marticliment/UniGetUI)
-3. ⭐ Starred [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE)
-4. ⭐ Starred [netbirdio/netbird](https://github.com/netbirdio/netbird)
-5. ⭐ Starred [oxdev03/pm2.web](https://github.com/oxdev03/pm2.web)
-6. ⭐ Starred [0xJacky/nginx-ui](https://github.com/0xJacky/nginx-ui)
-7. ⭐ Starred [celzero/rethink-app](https://github.com/celzero/rethink-app)
-8. ⭐ Starred [Red5d/docker-autocompose](https://github.com/Red5d/docker-autocompose)
-9. ⭐ Starred [xpipe-io/xpipe](https://github.com/xpipe-io/xpipe)
-10. ⭐ Starred [fn2006/PollyMC](https://github.com/fn2006/PollyMC)
+1. ⭐ Starred [cronicle-edge/cronicle-edge](https://github.com/cronicle-edge/cronicle-edge)
+2. ⭐ Starred [museofficial/muse](https://github.com/museofficial/muse)
+3. ❗️ Opened issue [#2861](https://github.com/marticliment/UniGetUI/issues/2861) in [marticliment/UniGetUI](https://github.com/marticliment/UniGetUI)
+4. ⭐ Starred [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE)
+5. ⭐ Starred [netbirdio/netbird](https://github.com/netbirdio/netbird)
+6. ⭐ Starred [oxdev03/pm2.web](https://github.com/oxdev03/pm2.web)
+7. ⭐ Starred [0xJacky/nginx-ui](https://github.com/0xJacky/nginx-ui)
+8. ⭐ Starred [celzero/rethink-app](https://github.com/celzero/rethink-app)
+9. ⭐ Starred [Red5d/docker-autocompose](https://github.com/Red5d/docker-autocompose)
+10. ⭐ Starred [xpipe-io/xpipe](https://github.com/xpipe-io/xpipe)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
