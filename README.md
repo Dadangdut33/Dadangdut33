@@ -77,16 +77,16 @@ Hello There ヾ(￣ ▽ ￣)
     <summary>⚡ Recent GitHub Activity</summary>
     
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [cronicle-edge/cronicle-edge](https://github.com/cronicle-edge/cronicle-edge)
-2. ⭐ Starred [museofficial/muse](https://github.com/museofficial/muse)
-3. ❗️ Opened issue [#2861](https://github.com/marticliment/UniGetUI/issues/2861) in [marticliment/UniGetUI](https://github.com/marticliment/UniGetUI)
-4. ⭐ Starred [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE)
-5. ⭐ Starred [netbirdio/netbird](https://github.com/netbirdio/netbird)
-6. ⭐ Starred [oxdev03/pm2.web](https://github.com/oxdev03/pm2.web)
-7. ⭐ Starred [0xJacky/nginx-ui](https://github.com/0xJacky/nginx-ui)
-8. ⭐ Starred [celzero/rethink-app](https://github.com/celzero/rethink-app)
-9. ⭐ Starred [Red5d/docker-autocompose](https://github.com/Red5d/docker-autocompose)
-10. ⭐ Starred [xpipe-io/xpipe](https://github.com/xpipe-io/xpipe)
+1. ⭐ Starred [LibreHardwareMonitor/LibreHardwareMonitor](https://github.com/LibreHardwareMonitor/LibreHardwareMonitor)
+2. ⭐ Starred [cronicle-edge/cronicle-edge](https://github.com/cronicle-edge/cronicle-edge)
+3. ⭐ Starred [museofficial/muse](https://github.com/museofficial/muse)
+4. ❗️ Opened issue [#2861](https://github.com/marticliment/UniGetUI/issues/2861) in [marticliment/UniGetUI](https://github.com/marticliment/UniGetUI)
+5. ⭐ Starred [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE)
+6. ⭐ Starred [netbirdio/netbird](https://github.com/netbirdio/netbird)
+7. ⭐ Starred [oxdev03/pm2.web](https://github.com/oxdev03/pm2.web)
+8. ⭐ Starred [0xJacky/nginx-ui](https://github.com/0xJacky/nginx-ui)
+9. ⭐ Starred [celzero/rethink-app](https://github.com/celzero/rethink-app)
+10. ⭐ Starred [Red5d/docker-autocompose](https://github.com/Red5d/docker-autocompose)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
