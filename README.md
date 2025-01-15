@@ -77,11 +77,11 @@ Hello There ヾ(￣ ▽ ￣)
     <summary>⚡ Recent GitHub Activity</summary>
     
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [LibreHardwareMonitor/LibreHardwareMonitor](https://github.com/LibreHardwareMonitor/LibreHardwareMonitor)
-2. ⭐ Starred [cronicle-edge/cronicle-edge](https://github.com/cronicle-edge/cronicle-edge)
-3. ⭐ Starred [museofficial/muse](https://github.com/museofficial/muse)
-4. ❗️ Opened issue [#2861](https://github.com/marticliment/UniGetUI/issues/2861) in [marticliment/UniGetUI](https://github.com/marticliment/UniGetUI)
-5. ⭐ Starred [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE)
+1. 🔱 Forked [Dadangdut33/laratine](https://github.com/Dadangdut33/laratine) from [itamarack/laratine](https://github.com/itamarack/laratine)
+2. ⭐ Starred [LibreHardwareMonitor/LibreHardwareMonitor](https://github.com/LibreHardwareMonitor/LibreHardwareMonitor)
+3. ⭐ Starred [cronicle-edge/cronicle-edge](https://github.com/cronicle-edge/cronicle-edge)
+4. ⭐ Starred [museofficial/muse](https://github.com/museofficial/muse)
+5. ❗️ Opened issue [#2861](https://github.com/marticliment/UniGetUI/issues/2861) in [marticliment/UniGetUI](https://github.com/marticliment/UniGetUI)
 6. ⭐ Starred [netbirdio/netbird](https://github.com/netbirdio/netbird)
 7. ⭐ Starred [oxdev03/pm2.web](https://github.com/oxdev03/pm2.web)
 8. ⭐ Starred [0xJacky/nginx-ui](https://github.com/0xJacky/nginx-ui)
