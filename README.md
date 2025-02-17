@@ -77,8 +77,8 @@ Hello There ヾ(￣ ▽ ￣)
     <summary>⚡ Recent GitHub Activity</summary>
     
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [xeco23/WasIstLos](https://github.com/xeco23/WasIstLos)
-2. ⭐ Starred [LibreHardwareMonitor/LibreHardwareMonitor](https://github.com/LibreHardwareMonitor/LibreHardwareMonitor)
+1. ⭐ Starred [Audio4Linux/JDSP4Linux](https://github.com/Audio4Linux/JDSP4Linux)
+2. ⭐ Starred [xeco23/WasIstLos](https://github.com/xeco23/WasIstLos)
 3. ⭐ Starred [cronicle-edge/cronicle-edge](https://github.com/cronicle-edge/cronicle-edge)
 4. ⭐ Starred [museofficial/muse](https://github.com/museofficial/muse)
 5. ❗️ Opened issue [#2861](https://github.com/marticliment/UniGetUI/issues/2861) in [marticliment/UniGetUI](https://github.com/marticliment/UniGetUI)
