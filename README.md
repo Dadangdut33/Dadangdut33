@@ -77,10 +77,10 @@ Hello There ヾ(￣ ▽ ￣)
     <summary>⚡ Recent GitHub Activity</summary>
     
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Audio4Linux/JDSP4Linux](https://github.com/Audio4Linux/JDSP4Linux)
-2. ⭐ Starred [xeco23/WasIstLos](https://github.com/xeco23/WasIstLos)
-3. ⭐ Starred [cronicle-edge/cronicle-edge](https://github.com/cronicle-edge/cronicle-edge)
-4. ⭐ Starred [museofficial/muse](https://github.com/museofficial/muse)
+1. ⭐ Starred [mkasberg/ghostty-ubuntu](https://github.com/mkasberg/ghostty-ubuntu)
+2. ⭐ Starred [luisbocanegra/plasma-panel-colorizer](https://github.com/luisbocanegra/plasma-panel-colorizer)
+3. ⭐ Starred [Audio4Linux/JDSP4Linux](https://github.com/Audio4Linux/JDSP4Linux)
+4. ⭐ Starred [xeco23/WasIstLos](https://github.com/xeco23/WasIstLos)
 5. ❗️ Opened issue [#2861](https://github.com/marticliment/UniGetUI/issues/2861) in [marticliment/UniGetUI](https://github.com/marticliment/UniGetUI)
 6. ⭐ Starred [netbirdio/netbird](https://github.com/netbirdio/netbird)
 7. ⭐ Starred [oxdev03/pm2.web](https://github.com/oxdev03/pm2.web)
