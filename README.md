@@ -77,7 +77,7 @@ Hello There ヾ(￣ ▽ ￣)
     <summary>⚡ Recent GitHub Activity</summary>
     
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [magicuidesign/magicui](https://github.com/magicuidesign/magicui)
+1. ⭐ Starred [fosrl/pangolin](https://github.com/fosrl/pangolin)
 2. ⭐ Starred [luisbocanegra/plasma-panel-colorizer](https://github.com/luisbocanegra/plasma-panel-colorizer)
 3. ⭐ Starred [Audio4Linux/JDSP4Linux](https://github.com/Audio4Linux/JDSP4Linux)
 4. ⭐ Starred [xeco23/WasIstLos](https://github.com/xeco23/WasIstLos)
