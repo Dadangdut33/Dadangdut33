@@ -77,8 +77,8 @@ Hello There ヾ(￣ ▽ ￣)
     <summary>⚡ Recent GitHub Activity</summary>
     
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [adonisjs/core](https://github.com/adonisjs/core)
-2. ⭐ Starred [takeyamajp/docker-postfix](https://github.com/takeyamajp/docker-postfix)
+1. ❗️ Opened issue [#25](https://github.com/Darren80/AsusFanControlEnhanced/issues/25) in [Darren80/AsusFanControlEnhanced](https://github.com/Darren80/AsusFanControlEnhanced)
+2. ⭐ Starred [adonisjs/core](https://github.com/adonisjs/core)
 3. ⭐ Starred [Audio4Linux/JDSP4Linux](https://github.com/Audio4Linux/JDSP4Linux)
 4. ⭐ Starred [xeco23/WasIstLos](https://github.com/xeco23/WasIstLos)
 5. ❗️ Opened issue [#2861](https://github.com/marticliment/UniGetUI/issues/2861) in [marticliment/UniGetUI](https://github.com/marticliment/UniGetUI)
