@@ -13,11 +13,10 @@ Hello There ヾ(￣ ▽ ￣)
 ### 💬 About Me
 
 - Hi 👋🏻, my name is ~~Dadangdut33~~ Fauzan
-- I'm a fresh graduate 🎓 with a degree in Informatics Engineering from UIN Jakarta
-- I like games, anime, and stuff but I also like to code 💻 on my free time
+- I'm a Full Stack Developer
+- I like games, anime, and stuff but I also like to code 💻 on my free time (nowadays not much free time for open source stuff at all)
 - Feel free to checkout my projects and contribute if you want to ^^
-- Check 👉🏻[this](https://github.com/users/Dadangdut33/projects/3) out to see what i'm currently working on (when i'm not busy with other stuff)
-
+  
 <br />
 <br />
 
