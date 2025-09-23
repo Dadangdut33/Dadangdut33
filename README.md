@@ -76,11 +76,11 @@ Hello There ヾ(￣ ▽ ￣)
     <summary>⚡ Recent GitHub Activity</summary>
     
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#229](https://github.com/AvengeMedia/DankMaterialShell/issues/229) in [AvengeMedia/DankMaterialShell](https://github.com/AvengeMedia/DankMaterialShell)
-2. ❗️ Opened issue [#225](https://github.com/AvengeMedia/DankMaterialShell/issues/225) in [AvengeMedia/DankMaterialShell](https://github.com/AvengeMedia/DankMaterialShell)
-3. ⭐ Starred [AvengeMedia/DankMaterialShell](https://github.com/AvengeMedia/DankMaterialShell)
-4. ⭐ Starred [noctalia-dev/noctalia-shell](https://github.com/noctalia-dev/noctalia-shell)
-5. ❗️ Opened issue [#2861](https://github.com/marticliment/UniGetUI/issues/2861) in [marticliment/UniGetUI](https://github.com/marticliment/UniGetUI)
+1. ❗️ Opened issue [#230](https://github.com/AvengeMedia/DankMaterialShell/issues/230) in [AvengeMedia/DankMaterialShell](https://github.com/AvengeMedia/DankMaterialShell)
+2. ❗️ Opened issue [#229](https://github.com/AvengeMedia/DankMaterialShell/issues/229) in [AvengeMedia/DankMaterialShell](https://github.com/AvengeMedia/DankMaterialShell)
+3. ❗️ Opened issue [#225](https://github.com/AvengeMedia/DankMaterialShell/issues/225) in [AvengeMedia/DankMaterialShell](https://github.com/AvengeMedia/DankMaterialShell)
+4. ⭐ Starred [AvengeMedia/DankMaterialShell](https://github.com/AvengeMedia/DankMaterialShell)
+5. ⭐ Starred [noctalia-dev/noctalia-shell](https://github.com/noctalia-dev/noctalia-shell)
 6. ⭐ Starred [netbirdio/netbird](https://github.com/netbirdio/netbird)
 7. ⭐ Starred [oxdev03/pm2.web](https://github.com/oxdev03/pm2.web)
 8. ⭐ Starred [0xJacky/nginx-ui](https://github.com/0xJacky/nginx-ui)
