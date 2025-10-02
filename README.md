@@ -76,14 +76,14 @@ Hello There ヾ(￣ ▽ ￣)
     <summary>⚡ Recent GitHub Activity</summary>
     
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#249](https://github.com/AvengeMedia/DankMaterialShell/issues/249) in [AvengeMedia/DankMaterialShell](https://github.com/AvengeMedia/DankMaterialShell)
-2. ❗️ Opened issue [#230](https://github.com/AvengeMedia/DankMaterialShell/issues/230) in [AvengeMedia/DankMaterialShell](https://github.com/AvengeMedia/DankMaterialShell)
-3. ❗️ Opened issue [#229](https://github.com/AvengeMedia/DankMaterialShell/issues/229) in [AvengeMedia/DankMaterialShell](https://github.com/AvengeMedia/DankMaterialShell)
-4. ❗️ Opened issue [#225](https://github.com/AvengeMedia/DankMaterialShell/issues/225) in [AvengeMedia/DankMaterialShell](https://github.com/AvengeMedia/DankMaterialShell)
-5. ⭐ Starred [AvengeMedia/DankMaterialShell](https://github.com/AvengeMedia/DankMaterialShell)
-6. ⭐ Starred [noctalia-dev/noctalia-shell](https://github.com/noctalia-dev/noctalia-shell)
-7. ⭐ Starred [oxdev03/pm2.web](https://github.com/oxdev03/pm2.web)
-8. ⭐ Starred [0xJacky/nginx-ui](https://github.com/0xJacky/nginx-ui)
+1. ❗️ Opened issue [#285](https://github.com/AvengeMedia/DankMaterialShell/issues/285) in [AvengeMedia/DankMaterialShell](https://github.com/AvengeMedia/DankMaterialShell)
+2. ❗️ Opened issue [#284](https://github.com/AvengeMedia/DankMaterialShell/issues/284) in [AvengeMedia/DankMaterialShell](https://github.com/AvengeMedia/DankMaterialShell)
+3. ❗️ Opened issue [#249](https://github.com/AvengeMedia/DankMaterialShell/issues/249) in [AvengeMedia/DankMaterialShell](https://github.com/AvengeMedia/DankMaterialShell)
+4. ❗️ Opened issue [#230](https://github.com/AvengeMedia/DankMaterialShell/issues/230) in [AvengeMedia/DankMaterialShell](https://github.com/AvengeMedia/DankMaterialShell)
+5. ❗️ Opened issue [#229](https://github.com/AvengeMedia/DankMaterialShell/issues/229) in [AvengeMedia/DankMaterialShell](https://github.com/AvengeMedia/DankMaterialShell)
+6. ❗️ Opened issue [#225](https://github.com/AvengeMedia/DankMaterialShell/issues/225) in [AvengeMedia/DankMaterialShell](https://github.com/AvengeMedia/DankMaterialShell)
+7. ⭐ Starred [AvengeMedia/DankMaterialShell](https://github.com/AvengeMedia/DankMaterialShell)
+8. ⭐ Starred [noctalia-dev/noctalia-shell](https://github.com/noctalia-dev/noctalia-shell)
 9. ⭐ Starred [celzero/rethink-app](https://github.com/celzero/rethink-app)
 10. ⭐ Starred [Red5d/docker-autocompose](https://github.com/Red5d/docker-autocompose)
 <!--RECENT_ACTIVITY:end-->
