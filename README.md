@@ -84,7 +84,7 @@ Hello There ヾ(￣ ▽ ￣)
 6. ❗️ Opened issue [#225](https://github.com/AvengeMedia/DankMaterialShell/issues/225) in [AvengeMedia/DankMaterialShell](https://github.com/AvengeMedia/DankMaterialShell)
 7. ⭐ Starred [AvengeMedia/DankMaterialShell](https://github.com/AvengeMedia/DankMaterialShell)
 8. ⭐ Starred [noctalia-dev/noctalia-shell](https://github.com/noctalia-dev/noctalia-shell)
-9. ⭐ Starred [celzero/rethink-app](https://github.com/celzero/rethink-app)
+9. ❗️ Opened issue [#305](https://github.com/noctalia-dev/noctalia-shell/issues/305) in [noctalia-dev/noctalia-shell](https://github.com/noctalia-dev/noctalia-shell)
 10. ⭐ Starred [Red5d/docker-autocompose](https://github.com/Red5d/docker-autocompose)
 <!--RECENT_ACTIVITY:end-->
 
