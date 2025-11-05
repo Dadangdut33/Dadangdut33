@@ -76,7 +76,7 @@ Hello There ヾ(￣ ▽ ￣)
     <summary>⚡ Recent GitHub Activity</summary>
     
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#285](https://github.com/AvengeMedia/DankMaterialShell/issues/285) in [AvengeMedia/DankMaterialShell](https://github.com/AvengeMedia/DankMaterialShell)
+1. ⭐ Starred [5rahim/seanime](https://github.com/5rahim/seanime)
 2. ❗️ Opened issue [#284](https://github.com/AvengeMedia/DankMaterialShell/issues/284) in [AvengeMedia/DankMaterialShell](https://github.com/AvengeMedia/DankMaterialShell)
 3. ❗️ Opened issue [#249](https://github.com/AvengeMedia/DankMaterialShell/issues/249) in [AvengeMedia/DankMaterialShell](https://github.com/AvengeMedia/DankMaterialShell)
 4. ❗️ Opened issue [#230](https://github.com/AvengeMedia/DankMaterialShell/issues/230) in [AvengeMedia/DankMaterialShell](https://github.com/AvengeMedia/DankMaterialShell)
