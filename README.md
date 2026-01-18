@@ -76,8 +76,8 @@ Hello There ヾ(￣ ▽ ￣)
     <summary>⚡ Recent GitHub Activity</summary>
     
 <!--RECENT_ACTIVITY:start-->
-1. ✔️ Closed issue [#288](https://github.com/ramensoftware/windows-11-start-menu-styling-guide/issues/288) in [ramensoftware/windows-11-start-menu-styling-guide](https://github.com/ramensoftware/windows-11-start-menu-styling-guide)
-2. ⭐ Starred [5rahim/seanime](https://github.com/5rahim/seanime)
+1. ⭐ Starred [AntiMicroX/antimicrox](https://github.com/AntiMicroX/antimicrox)
+2. ⭐ Starred [System64fumo/sysboard](https://github.com/System64fumo/sysboard)
 3. ❗️ Opened issue [#249](https://github.com/AvengeMedia/DankMaterialShell/issues/249) in [AvengeMedia/DankMaterialShell](https://github.com/AvengeMedia/DankMaterialShell)
 4. ❗️ Opened issue [#230](https://github.com/AvengeMedia/DankMaterialShell/issues/230) in [AvengeMedia/DankMaterialShell](https://github.com/AvengeMedia/DankMaterialShell)
 5. ❗️ Opened issue [#229](https://github.com/AvengeMedia/DankMaterialShell/issues/229) in [AvengeMedia/DankMaterialShell](https://github.com/AvengeMedia/DankMaterialShell)
