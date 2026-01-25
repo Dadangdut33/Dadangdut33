@@ -76,12 +76,12 @@ Hello There ヾ(￣ ▽ ￣)
     <summary>⚡ Recent GitHub Activity</summary>
     
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [AntiMicroX/antimicrox](https://github.com/AntiMicroX/antimicrox)
-2. ⭐ Starred [System64fumo/sysboard](https://github.com/System64fumo/sysboard)
-3. ❗️ Opened issue [#249](https://github.com/AvengeMedia/DankMaterialShell/issues/249) in [AvengeMedia/DankMaterialShell](https://github.com/AvengeMedia/DankMaterialShell)
-4. ❗️ Opened issue [#230](https://github.com/AvengeMedia/DankMaterialShell/issues/230) in [AvengeMedia/DankMaterialShell](https://github.com/AvengeMedia/DankMaterialShell)
-5. ❗️ Opened issue [#229](https://github.com/AvengeMedia/DankMaterialShell/issues/229) in [AvengeMedia/DankMaterialShell](https://github.com/AvengeMedia/DankMaterialShell)
-6. ❗️ Opened issue [#225](https://github.com/AvengeMedia/DankMaterialShell/issues/225) in [AvengeMedia/DankMaterialShell](https://github.com/AvengeMedia/DankMaterialShell)
+1. ❗️ Opened issue [#1537](https://github.com/noctalia-dev/noctalia-shell/issues/1537) in [noctalia-dev/noctalia-shell](https://github.com/noctalia-dev/noctalia-shell)
+2. ❗️ Opened issue [#1536](https://github.com/noctalia-dev/noctalia-shell/issues/1536) in [noctalia-dev/noctalia-shell](https://github.com/noctalia-dev/noctalia-shell)
+3. ❗️ Opened issue [#1535](https://github.com/noctalia-dev/noctalia-shell/issues/1535) in [noctalia-dev/noctalia-shell](https://github.com/noctalia-dev/noctalia-shell)
+4. ❗️ Opened issue [#1534](https://github.com/noctalia-dev/noctalia-shell/issues/1534) in [noctalia-dev/noctalia-shell](https://github.com/noctalia-dev/noctalia-shell)
+5. ⭐ Starred [AntiMicroX/antimicrox](https://github.com/AntiMicroX/antimicrox)
+6. ⭐ Starred [System64fumo/sysboard](https://github.com/System64fumo/sysboard)
 7. ⭐ Starred [AvengeMedia/DankMaterialShell](https://github.com/AvengeMedia/DankMaterialShell)
 8. ⭐ Starred [noctalia-dev/noctalia-shell](https://github.com/noctalia-dev/noctalia-shell)
 9. ❗️ Opened issue [#305](https://github.com/noctalia-dev/noctalia-shell/issues/305) in [noctalia-dev/noctalia-shell](https://github.com/noctalia-dev/noctalia-shell)
