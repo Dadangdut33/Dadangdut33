@@ -76,10 +76,10 @@ Hello There ヾ(￣ ▽ ￣)
     <summary>⚡ Recent GitHub Activity</summary>
     
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [LGUG2Z/komorebi](https://github.com/LGUG2Z/komorebi)
-2. ⭐ Starred [wailsapp/wails](https://github.com/wailsapp/wails)
-3. 🔱 Forked [Dadangdut33/giscus](https://github.com/Dadangdut33/giscus) from [giscus/giscus](https://github.com/giscus/giscus)
-4. ❗️ Opened issue [#1816](https://github.com/AvengeMedia/DankMaterialShell/issues/1816) in [AvengeMedia/DankMaterialShell](https://github.com/AvengeMedia/DankMaterialShell)
+1. 💪 Opened PR [#173](undefined) in [AvengeMedia/dms-plugin-registry](https://github.com/AvengeMedia/dms-plugin-registry)
+2. 🔱 Forked [Dadangdut33/dms-plugin-registry](https://github.com/Dadangdut33/dms-plugin-registry) from [AvengeMedia/dms-plugin-registry](https://github.com/AvengeMedia/dms-plugin-registry)
+3. ⭐ Starred [LGUG2Z/komorebi](https://github.com/LGUG2Z/komorebi)
+4. ⭐ Starred [wailsapp/wails](https://github.com/wailsapp/wails)
 5. ❗️ Opened issue [#4](https://github.com/ToRvaLDz/monique/issues/4) in [ToRvaLDz/monique](https://github.com/ToRvaLDz/monique)
 6. 💪 Opened PR [#1918](undefined) in [noctalia-dev/noctalia-shell](https://github.com/noctalia-dev/noctalia-shell)
 7. 💪 Opened PR [#1912](undefined) in [noctalia-dev/noctalia-shell](https://github.com/noctalia-dev/noctalia-shell)
