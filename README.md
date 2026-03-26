@@ -76,12 +76,12 @@ Hello There ヾ(￣ ▽ ￣)
     <summary>⚡ Recent GitHub Activity</summary>
     
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#175](undefined) in [AvengeMedia/dms-plugin-registry](https://github.com/AvengeMedia/dms-plugin-registry)
-2. 💪 Opened PR [#173](undefined) in [AvengeMedia/dms-plugin-registry](https://github.com/AvengeMedia/dms-plugin-registry)
-3. 🔱 Forked [Dadangdut33/dms-plugin-registry](https://github.com/Dadangdut33/dms-plugin-registry) from [AvengeMedia/dms-plugin-registry](https://github.com/AvengeMedia/dms-plugin-registry)
-4. ⭐ Starred [LGUG2Z/komorebi](https://github.com/LGUG2Z/komorebi)
-5. ⭐ Starred [wailsapp/wails](https://github.com/wailsapp/wails)
-6. 💪 Opened PR [#1918](undefined) in [noctalia-dev/noctalia-shell](https://github.com/noctalia-dev/noctalia-shell)
+1. 💪 Opened PR [#181](undefined) in [AvengeMedia/dms-plugin-registry](https://github.com/AvengeMedia/dms-plugin-registry)
+2. 💪 Opened PR [#175](undefined) in [AvengeMedia/dms-plugin-registry](https://github.com/AvengeMedia/dms-plugin-registry)
+3. 💪 Opened PR [#173](undefined) in [AvengeMedia/dms-plugin-registry](https://github.com/AvengeMedia/dms-plugin-registry)
+4. 🔱 Forked [Dadangdut33/dms-plugin-registry](https://github.com/Dadangdut33/dms-plugin-registry) from [AvengeMedia/dms-plugin-registry](https://github.com/AvengeMedia/dms-plugin-registry)
+5. ⭐ Starred [LGUG2Z/komorebi](https://github.com/LGUG2Z/komorebi)
+6. ⭐ Starred [wailsapp/wails](https://github.com/wailsapp/wails)
 7. 💪 Opened PR [#1912](undefined) in [noctalia-dev/noctalia-shell](https://github.com/noctalia-dev/noctalia-shell)
 8. 💪 Opened PR [#1900](undefined) in [noctalia-dev/noctalia-shell](https://github.com/noctalia-dev/noctalia-shell)
 9. 🔱 Forked [Dadangdut33/noctalia-shell](https://github.com/Dadangdut33/noctalia-shell) from [noctalia-dev/noctalia-shell](https://github.com/noctalia-dev/noctalia-shell)
