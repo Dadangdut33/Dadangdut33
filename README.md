@@ -76,16 +76,16 @@ Hello There ヾ(￣ ▽ ￣)
     <summary>⚡ Recent GitHub Activity</summary>
     
 <!--RECENT_ACTIVITY:start-->
-1. ✔️ Closed issue [#18](https://github.com/Dadangdut33/simple-prayertime-reminder/issues/18) in [Dadangdut33/simple-prayertime-reminder](https://github.com/Dadangdut33/simple-prayertime-reminder)
-2. ✔️ Closed issue [#17](https://github.com/Dadangdut33/simple-prayertime-reminder/issues/17) in [Dadangdut33/simple-prayertime-reminder](https://github.com/Dadangdut33/simple-prayertime-reminder)
-3. ⭐ Starred [neavo/LinguaGacha](https://github.com/neavo/LinguaGacha)
-4. ✔️ Closed issue [#20](https://github.com/Dadangdut33/simple-prayertime-reminder/issues/20) in [Dadangdut33/simple-prayertime-reminder](https://github.com/Dadangdut33/simple-prayertime-reminder)
-5. ⭐ Starred [Soju06/codex-lb](https://github.com/Soju06/codex-lb)
-6. 💪 Opened PR [#181](undefined) in [AvengeMedia/dms-plugin-registry](https://github.com/AvengeMedia/dms-plugin-registry)
-7. 💪 Opened PR [#175](undefined) in [AvengeMedia/dms-plugin-registry](https://github.com/AvengeMedia/dms-plugin-registry)
-8. 💪 Opened PR [#173](undefined) in [AvengeMedia/dms-plugin-registry](https://github.com/AvengeMedia/dms-plugin-registry)
-9. 🔱 Forked [Dadangdut33/dms-plugin-registry](https://github.com/Dadangdut33/dms-plugin-registry) from [AvengeMedia/dms-plugin-registry](https://github.com/AvengeMedia/dms-plugin-registry)
-10. ❗️ Opened issue [#1888](https://github.com/noctalia-dev/noctalia-shell/issues/1888) in [noctalia-dev/noctalia-shell](https://github.com/noctalia-dev/noctalia-shell)
+1. ❗️ Opened issue [#29](https://github.com/Dadangdut33/Screen-Translate/issues/29) in [Dadangdut33/Screen-Translate](https://github.com/Dadangdut33/Screen-Translate)
+2. ✔️ Closed issue [#1](https://github.com/Dadangdut33/dms-plugins/issues/1) in [Dadangdut33/dms-plugins](https://github.com/Dadangdut33/dms-plugins)
+3. ✔️ Closed issue [#2](https://github.com/Dadangdut33/dms-plugins/issues/2) in [Dadangdut33/dms-plugins](https://github.com/Dadangdut33/dms-plugins)
+4. ✔️ Closed issue [#18](https://github.com/Dadangdut33/simple-prayertime-reminder/issues/18) in [Dadangdut33/simple-prayertime-reminder](https://github.com/Dadangdut33/simple-prayertime-reminder)
+5. ✔️ Closed issue [#17](https://github.com/Dadangdut33/simple-prayertime-reminder/issues/17) in [Dadangdut33/simple-prayertime-reminder](https://github.com/Dadangdut33/simple-prayertime-reminder)
+6. ⭐ Starred [neavo/LinguaGacha](https://github.com/neavo/LinguaGacha)
+7. ✔️ Closed issue [#20](https://github.com/Dadangdut33/simple-prayertime-reminder/issues/20) in [Dadangdut33/simple-prayertime-reminder](https://github.com/Dadangdut33/simple-prayertime-reminder)
+8. ⭐ Starred [Soju06/codex-lb](https://github.com/Soju06/codex-lb)
+9. 💪 Opened PR [#181](undefined) in [AvengeMedia/dms-plugin-registry](https://github.com/AvengeMedia/dms-plugin-registry)
+10. 💪 Opened PR [#175](undefined) in [AvengeMedia/dms-plugin-registry](https://github.com/AvengeMedia/dms-plugin-registry)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
