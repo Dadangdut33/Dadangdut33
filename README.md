@@ -76,16 +76,16 @@ Hello There ヾ(￣ ▽ ￣)
     <summary>⚡ Recent GitHub Activity</summary>
     
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#29](https://github.com/Dadangdut33/Screen-Translate/issues/29) in [Dadangdut33/Screen-Translate](https://github.com/Dadangdut33/Screen-Translate)
-2. ✔️ Closed issue [#1](https://github.com/Dadangdut33/dms-plugins/issues/1) in [Dadangdut33/dms-plugins](https://github.com/Dadangdut33/dms-plugins)
-3. ✔️ Closed issue [#2](https://github.com/Dadangdut33/dms-plugins/issues/2) in [Dadangdut33/dms-plugins](https://github.com/Dadangdut33/dms-plugins)
-4. ✔️ Closed issue [#18](https://github.com/Dadangdut33/simple-prayertime-reminder/issues/18) in [Dadangdut33/simple-prayertime-reminder](https://github.com/Dadangdut33/simple-prayertime-reminder)
-5. ✔️ Closed issue [#17](https://github.com/Dadangdut33/simple-prayertime-reminder/issues/17) in [Dadangdut33/simple-prayertime-reminder](https://github.com/Dadangdut33/simple-prayertime-reminder)
-6. ⭐ Starred [neavo/LinguaGacha](https://github.com/neavo/LinguaGacha)
-7. ✔️ Closed issue [#20](https://github.com/Dadangdut33/simple-prayertime-reminder/issues/20) in [Dadangdut33/simple-prayertime-reminder](https://github.com/Dadangdut33/simple-prayertime-reminder)
-8. ⭐ Starred [Soju06/codex-lb](https://github.com/Soju06/codex-lb)
-9. 💪 Opened PR [#181](undefined) in [AvengeMedia/dms-plugin-registry](https://github.com/AvengeMedia/dms-plugin-registry)
-10. 💪 Opened PR [#175](undefined) in [AvengeMedia/dms-plugin-registry](https://github.com/AvengeMedia/dms-plugin-registry)
+1. ⭐ Starred [claymorwan/lncur](https://github.com/claymorwan/lncur)
+2. ❗️ Opened issue [#29](https://github.com/Dadangdut33/Screen-Translate/issues/29) in [Dadangdut33/Screen-Translate](https://github.com/Dadangdut33/Screen-Translate)
+3. ✔️ Closed issue [#1](https://github.com/Dadangdut33/dms-plugins/issues/1) in [Dadangdut33/dms-plugins](https://github.com/Dadangdut33/dms-plugins)
+4. ✔️ Closed issue [#2](https://github.com/Dadangdut33/dms-plugins/issues/2) in [Dadangdut33/dms-plugins](https://github.com/Dadangdut33/dms-plugins)
+5. ✔️ Closed issue [#18](https://github.com/Dadangdut33/simple-prayertime-reminder/issues/18) in [Dadangdut33/simple-prayertime-reminder](https://github.com/Dadangdut33/simple-prayertime-reminder)
+6. ✔️ Closed issue [#17](https://github.com/Dadangdut33/simple-prayertime-reminder/issues/17) in [Dadangdut33/simple-prayertime-reminder](https://github.com/Dadangdut33/simple-prayertime-reminder)
+7. ⭐ Starred [neavo/LinguaGacha](https://github.com/neavo/LinguaGacha)
+8. ✔️ Closed issue [#20](https://github.com/Dadangdut33/simple-prayertime-reminder/issues/20) in [Dadangdut33/simple-prayertime-reminder](https://github.com/Dadangdut33/simple-prayertime-reminder)
+9. ⭐ Starred [Soju06/codex-lb](https://github.com/Soju06/codex-lb)
+10. 💪 Opened PR [#181](undefined) in [AvengeMedia/dms-plugin-registry](https://github.com/AvengeMedia/dms-plugin-registry)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
