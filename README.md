@@ -76,10 +76,10 @@ Hello There ヾ(￣ ▽ ￣)
     <summary>⚡ Recent GitHub Activity</summary>
     
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#2344](https://github.com/AvengeMedia/DankMaterialShell/issues/2344) in [AvengeMedia/DankMaterialShell](https://github.com/AvengeMedia/DankMaterialShell)
-2. ❗️ Opened issue [#2272](https://github.com/AvengeMedia/DankMaterialShell/issues/2272) in [AvengeMedia/DankMaterialShell](https://github.com/AvengeMedia/DankMaterialShell)
-3. 💪 Opened PR [#204](undefined) in [AvengeMedia/dms-plugin-registry](https://github.com/AvengeMedia/dms-plugin-registry)
-4. ⭐ Starred [claymorwan/lncur](https://github.com/claymorwan/lncur)
+1. ❗️ Opened issue [#1](https://github.com/JDKamalakar/DMS-Quick_Tote/issues/1) in [JDKamalakar/DMS-Quick_Tote](https://github.com/JDKamalakar/DMS-Quick_Tote)
+2. ❗️ Opened issue [#2344](https://github.com/AvengeMedia/DankMaterialShell/issues/2344) in [AvengeMedia/DankMaterialShell](https://github.com/AvengeMedia/DankMaterialShell)
+3. ❗️ Opened issue [#2272](https://github.com/AvengeMedia/DankMaterialShell/issues/2272) in [AvengeMedia/DankMaterialShell](https://github.com/AvengeMedia/DankMaterialShell)
+4. 💪 Opened PR [#204](undefined) in [AvengeMedia/dms-plugin-registry](https://github.com/AvengeMedia/dms-plugin-registry)
 5. ❗️ Opened issue [#29](https://github.com/Dadangdut33/Screen-Translate/issues/29) in [Dadangdut33/Screen-Translate](https://github.com/Dadangdut33/Screen-Translate)
 6. ✔️ Closed issue [#1](https://github.com/Dadangdut33/dms-plugins/issues/1) in [Dadangdut33/dms-plugins](https://github.com/Dadangdut33/dms-plugins)
 7. ✔️ Closed issue [#2](https://github.com/Dadangdut33/dms-plugins/issues/2) in [Dadangdut33/dms-plugins](https://github.com/Dadangdut33/dms-plugins)
