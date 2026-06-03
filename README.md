@@ -76,16 +76,16 @@ Hello There ヾ(￣ ▽ ￣)
     <summary>⚡ Recent GitHub Activity</summary>
     
 <!--RECENT_ACTIVITY:start-->
-1. ❌ Closed PR [#2](undefined) in [Dadangdut33/hymission](https://github.com/Dadangdut33/hymission)
-2. 💪 Opened PR [#2](undefined) in [Dadangdut33/hymission](https://github.com/Dadangdut33/hymission)
-3. ✔️ Closed issue [#2553](https://github.com/AvengeMedia/DankMaterialShell/issues/2553) in [AvengeMedia/DankMaterialShell](https://github.com/AvengeMedia/DankMaterialShell)
-4. ❗️ Opened issue [#2553](https://github.com/AvengeMedia/DankMaterialShell/issues/2553) in [AvengeMedia/DankMaterialShell](https://github.com/AvengeMedia/DankMaterialShell)
-5. 💪 Opened PR [#1](undefined) in [Dadangdut33/hymission](https://github.com/Dadangdut33/hymission)
-6. 🔱 Forked [Dadangdut33/hymission](https://github.com/Dadangdut33/hymission) from [gfhdhytghd/hymission](https://github.com/gfhdhytghd/hymission)
-7. ⭐ Starred [gfhdhytghd/hymission](https://github.com/gfhdhytghd/hymission)
-8. ✔️ Closed issue [#5](https://github.com/Dadangdut33/dms-plugins/issues/5) in [Dadangdut33/dms-plugins](https://github.com/Dadangdut33/dms-plugins)
-9. 💪 Opened PR [#282](undefined) in [AvengeMedia/dms-plugin-registry](https://github.com/AvengeMedia/dms-plugin-registry)
-10. ❗️ Opened issue [#1](https://github.com/JDKamalakar/DMS-Quick_Tote/issues/1) in [JDKamalakar/DMS-Quick_Tote](https://github.com/JDKamalakar/DMS-Quick_Tote)
+1. ⭐ Starred [niri-wm/niri](https://github.com/niri-wm/niri)
+2. ⭐ Starred [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland)
+3. ❌ Closed PR [#2](undefined) in [Dadangdut33/hymission](https://github.com/Dadangdut33/hymission)
+4. 💪 Opened PR [#2](undefined) in [Dadangdut33/hymission](https://github.com/Dadangdut33/hymission)
+5. ✔️ Closed issue [#2553](https://github.com/AvengeMedia/DankMaterialShell/issues/2553) in [AvengeMedia/DankMaterialShell](https://github.com/AvengeMedia/DankMaterialShell)
+6. ❗️ Opened issue [#2553](https://github.com/AvengeMedia/DankMaterialShell/issues/2553) in [AvengeMedia/DankMaterialShell](https://github.com/AvengeMedia/DankMaterialShell)
+7. 💪 Opened PR [#1](undefined) in [Dadangdut33/hymission](https://github.com/Dadangdut33/hymission)
+8. 🔱 Forked [Dadangdut33/hymission](https://github.com/Dadangdut33/hymission) from [gfhdhytghd/hymission](https://github.com/gfhdhytghd/hymission)
+9. ⭐ Starred [gfhdhytghd/hymission](https://github.com/gfhdhytghd/hymission)
+10. ✔️ Closed issue [#5](https://github.com/Dadangdut33/dms-plugins/issues/5) in [Dadangdut33/dms-plugins](https://github.com/Dadangdut33/dms-plugins)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
