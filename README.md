@@ -76,16 +76,16 @@ Hello There ヾ(￣ ▽ ￣)
     <summary>⚡ Recent GitHub Activity</summary>
     
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [ladybug-me/end-4dots-kde](https://github.com/ladybug-me/end-4dots-kde)
-2. ⭐ Starred [niri-wm/niri](https://github.com/niri-wm/niri)
-3. ⭐ Starred [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland)
-4. ❌ Closed PR [#2](undefined) in [Dadangdut33/hymission](https://github.com/Dadangdut33/hymission)
-5. 💪 Opened PR [#2](undefined) in [Dadangdut33/hymission](https://github.com/Dadangdut33/hymission)
-6. ✔️ Closed issue [#2553](https://github.com/AvengeMedia/DankMaterialShell/issues/2553) in [AvengeMedia/DankMaterialShell](https://github.com/AvengeMedia/DankMaterialShell)
-7. ❗️ Opened issue [#2553](https://github.com/AvengeMedia/DankMaterialShell/issues/2553) in [AvengeMedia/DankMaterialShell](https://github.com/AvengeMedia/DankMaterialShell)
-8. 💪 Opened PR [#1](undefined) in [Dadangdut33/hymission](https://github.com/Dadangdut33/hymission)
-9. 🔱 Forked [Dadangdut33/hymission](https://github.com/Dadangdut33/hymission) from [gfhdhytghd/hymission](https://github.com/gfhdhytghd/hymission)
-10. ⭐ Starred [gfhdhytghd/hymission](https://github.com/gfhdhytghd/hymission)
+1. ⭐ Starred [jcardama/LeopardWM](https://github.com/jcardama/LeopardWM)
+2. ⭐ Starred [ladybug-me/end-4dots-kde](https://github.com/ladybug-me/end-4dots-kde)
+3. ⭐ Starred [niri-wm/niri](https://github.com/niri-wm/niri)
+4. ⭐ Starred [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland)
+5. ❌ Closed PR [#2](undefined) in [Dadangdut33/hymission](https://github.com/Dadangdut33/hymission)
+6. 💪 Opened PR [#2](undefined) in [Dadangdut33/hymission](https://github.com/Dadangdut33/hymission)
+7. ✔️ Closed issue [#2553](https://github.com/AvengeMedia/DankMaterialShell/issues/2553) in [AvengeMedia/DankMaterialShell](https://github.com/AvengeMedia/DankMaterialShell)
+8. ❗️ Opened issue [#2553](https://github.com/AvengeMedia/DankMaterialShell/issues/2553) in [AvengeMedia/DankMaterialShell](https://github.com/AvengeMedia/DankMaterialShell)
+9. 💪 Opened PR [#1](undefined) in [Dadangdut33/hymission](https://github.com/Dadangdut33/hymission)
+10. 🔱 Forked [Dadangdut33/hymission](https://github.com/Dadangdut33/hymission) from [gfhdhytghd/hymission](https://github.com/gfhdhytghd/hymission)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
