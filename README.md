@@ -76,16 +76,16 @@ Hello There ヾ(￣ ▽ ￣)
     <summary>⚡ Recent GitHub Activity</summary>
     
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [ladybug-me/caelestia-dots-kde](https://github.com/ladybug-me/caelestia-dots-kde)
-2. ⭐ Starred [jcardama/LeopardWM](https://github.com/jcardama/LeopardWM)
-3. ⭐ Starred [ladybug-me/end-4dots-kde](https://github.com/ladybug-me/end-4dots-kde)
-4. ⭐ Starred [niri-wm/niri](https://github.com/niri-wm/niri)
-5. ⭐ Starred [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland)
-6. ❌ Closed PR [#2](undefined) in [Dadangdut33/hymission](https://github.com/Dadangdut33/hymission)
-7. 💪 Opened PR [#2](undefined) in [Dadangdut33/hymission](https://github.com/Dadangdut33/hymission)
-8. ✔️ Closed issue [#2553](https://github.com/AvengeMedia/DankMaterialShell/issues/2553) in [AvengeMedia/DankMaterialShell](https://github.com/AvengeMedia/DankMaterialShell)
-9. ❗️ Opened issue [#2553](https://github.com/AvengeMedia/DankMaterialShell/issues/2553) in [AvengeMedia/DankMaterialShell](https://github.com/AvengeMedia/DankMaterialShell)
-10. 💪 Opened PR [#1](undefined) in [Dadangdut33/hymission](https://github.com/Dadangdut33/hymission)
+1. ⭐ Starred [bea4dev/ShojiWM](https://github.com/bea4dev/ShojiWM)
+2. ⭐ Starred [ladybug-me/caelestia-dots-kde](https://github.com/ladybug-me/caelestia-dots-kde)
+3. ⭐ Starred [jcardama/LeopardWM](https://github.com/jcardama/LeopardWM)
+4. ⭐ Starred [ladybug-me/end-4dots-kde](https://github.com/ladybug-me/end-4dots-kde)
+5. ⭐ Starred [niri-wm/niri](https://github.com/niri-wm/niri)
+6. ⭐ Starred [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland)
+7. ❌ Closed PR [#2](undefined) in [Dadangdut33/hymission](https://github.com/Dadangdut33/hymission)
+8. 💪 Opened PR [#2](undefined) in [Dadangdut33/hymission](https://github.com/Dadangdut33/hymission)
+9. ✔️ Closed issue [#2553](https://github.com/AvengeMedia/DankMaterialShell/issues/2553) in [AvengeMedia/DankMaterialShell](https://github.com/AvengeMedia/DankMaterialShell)
+10. ❗️ Opened issue [#2553](https://github.com/AvengeMedia/DankMaterialShell/issues/2553) in [AvengeMedia/DankMaterialShell](https://github.com/AvengeMedia/DankMaterialShell)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
