@@ -76,12 +76,12 @@ Hello There ヾ(￣ ▽ ￣)
     <summary>⚡ Recent GitHub Activity</summary>
     
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [yayuuu/hyprland-scroll-overview](https://github.com/yayuuu/hyprland-scroll-overview)
-2. ⭐ Starred [bea4dev/ShojiWM](https://github.com/bea4dev/ShojiWM)
-3. ⭐ Starred [ladybug-me/caelestia-dots-kde](https://github.com/ladybug-me/caelestia-dots-kde)
-4. ⭐ Starred [jcardama/LeopardWM](https://github.com/jcardama/LeopardWM)
-5. ⭐ Starred [ladybug-me/end-4dots-kde](https://github.com/ladybug-me/end-4dots-kde)
-6. ⭐ Starred [niri-wm/niri](https://github.com/niri-wm/niri)
+1. ✔️ Closed issue [#7](https://github.com/Dadangdut33/dms-plugins/issues/7) in [Dadangdut33/dms-plugins](https://github.com/Dadangdut33/dms-plugins)
+2. ⭐ Starred [yayuuu/hyprland-scroll-overview](https://github.com/yayuuu/hyprland-scroll-overview)
+3. ⭐ Starred [bea4dev/ShojiWM](https://github.com/bea4dev/ShojiWM)
+4. ⭐ Starred [ladybug-me/caelestia-dots-kde](https://github.com/ladybug-me/caelestia-dots-kde)
+5. ⭐ Starred [jcardama/LeopardWM](https://github.com/jcardama/LeopardWM)
+6. ⭐ Starred [ladybug-me/end-4dots-kde](https://github.com/ladybug-me/end-4dots-kde)
 7. ⭐ Starred [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland)
 8. 💪 Opened PR [#2](undefined) in [Dadangdut33/hymission](https://github.com/Dadangdut33/hymission)
 9. ✔️ Closed issue [#2553](https://github.com/AvengeMedia/DankMaterialShell/issues/2553) in [AvengeMedia/DankMaterialShell](https://github.com/AvengeMedia/DankMaterialShell)
