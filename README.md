@@ -76,15 +76,15 @@ Hello There ヾ(￣ ▽ ￣)
     <summary>⚡ Recent GitHub Activity</summary>
     
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#3](https://github.com/gemb0-0/Network-Indicator/issues/3) in [gemb0-0/Network-Indicator](https://github.com/gemb0-0/Network-Indicator)
-2. ✔️ Closed issue [#7](https://github.com/Dadangdut33/dms-plugins/issues/7) in [Dadangdut33/dms-plugins](https://github.com/Dadangdut33/dms-plugins)
-3. ⭐ Starred [yayuuu/hyprland-scroll-overview](https://github.com/yayuuu/hyprland-scroll-overview)
-4. ⭐ Starred [bea4dev/ShojiWM](https://github.com/bea4dev/ShojiWM)
-5. ⭐ Starred [ladybug-me/caelestia-dots-kde](https://github.com/ladybug-me/caelestia-dots-kde)
-6. ⭐ Starred [jcardama/LeopardWM](https://github.com/jcardama/LeopardWM)
-7. ⭐ Starred [ladybug-me/end-4dots-kde](https://github.com/ladybug-me/end-4dots-kde)
-8. 💪 Opened PR [#2](undefined) in [Dadangdut33/hymission](https://github.com/Dadangdut33/hymission)
-9. ✔️ Closed issue [#2553](https://github.com/AvengeMedia/DankMaterialShell/issues/2553) in [AvengeMedia/DankMaterialShell](https://github.com/AvengeMedia/DankMaterialShell)
+1. ❗️ Opened issue [#21](https://github.com/bea4dev/ShojiWM/issues/21) in [bea4dev/ShojiWM](https://github.com/bea4dev/ShojiWM)
+2. ❗️ Opened issue [#2](https://github.com/bea4dev/shoji-bar-2/issues/2) in [bea4dev/shoji-bar-2](https://github.com/bea4dev/shoji-bar-2)
+3. ❗️ Opened issue [#3](https://github.com/gemb0-0/Network-Indicator/issues/3) in [gemb0-0/Network-Indicator](https://github.com/gemb0-0/Network-Indicator)
+4. ✔️ Closed issue [#7](https://github.com/Dadangdut33/dms-plugins/issues/7) in [Dadangdut33/dms-plugins](https://github.com/Dadangdut33/dms-plugins)
+5. ⭐ Starred [yayuuu/hyprland-scroll-overview](https://github.com/yayuuu/hyprland-scroll-overview)
+6. ⭐ Starred [bea4dev/ShojiWM](https://github.com/bea4dev/ShojiWM)
+7. ⭐ Starred [ladybug-me/caelestia-dots-kde](https://github.com/ladybug-me/caelestia-dots-kde)
+8. ⭐ Starred [jcardama/LeopardWM](https://github.com/jcardama/LeopardWM)
+9. ⭐ Starred [ladybug-me/end-4dots-kde](https://github.com/ladybug-me/end-4dots-kde)
 10. ❗️ Opened issue [#2553](https://github.com/AvengeMedia/DankMaterialShell/issues/2553) in [AvengeMedia/DankMaterialShell](https://github.com/AvengeMedia/DankMaterialShell)
 <!--RECENT_ACTIVITY:end-->
 
