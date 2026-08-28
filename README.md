@@ -76,7 +76,7 @@ Hello There ヾ(￣ ▽ ￣)
     <summary>⚡ Recent GitHub Activity</summary>
     
 <!--RECENT_ACTIVITY:start-->
-1. ✔️ Closed issue [#10](https://github.com/Dadangdut33/dms-plugins/issues/10) in [Dadangdut33/dms-plugins](https://github.com/Dadangdut33/dms-plugins)
+1. ⭐ Starred [LumoRez07/Flow](https://github.com/LumoRez07/Flow)
 2. ❗️ Opened issue [#21](https://github.com/bea4dev/ShojiWM/issues/21) in [bea4dev/ShojiWM](https://github.com/bea4dev/ShojiWM)
 3. ❗️ Opened issue [#2](https://github.com/bea4dev/shoji-bar-2/issues/2) in [bea4dev/shoji-bar-2](https://github.com/bea4dev/shoji-bar-2)
 4. ❗️ Opened issue [#3](https://github.com/gemb0-0/Network-Indicator/issues/3) in [gemb0-0/Network-Indicator](https://github.com/gemb0-0/Network-Indicator)
