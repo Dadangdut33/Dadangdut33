@@ -76,10 +76,10 @@ Hello There ヾ(￣ ▽ ￣)
     <summary>⚡ Recent GitHub Activity</summary>
     
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [JiaFeiMiao-K-Cat/DiscImageStudio](https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio)
-2. ⭐ Starred [ThatUsernameAlreadyExist/Motion-Assistant-Power-Mod](https://github.com/ThatUsernameAlreadyExist/Motion-Assistant-Power-Mod)
-3. ⭐ Starred [OpenWinControls/OpenWinControls](https://github.com/OpenWinControls/OpenWinControls)
-4. ⭐ Starred [hieunc229/mailflare](https://github.com/hieunc229/mailflare)
+1. ⭐ Starred [JanDeDobbeleer/waku](https://github.com/JanDeDobbeleer/waku)
+2. ⭐ Starred [JiaFeiMiao-K-Cat/DiscImageStudio](https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio)
+3. ⭐ Starred [ThatUsernameAlreadyExist/Motion-Assistant-Power-Mod](https://github.com/ThatUsernameAlreadyExist/Motion-Assistant-Power-Mod)
+4. ⭐ Starred [OpenWinControls/OpenWinControls](https://github.com/OpenWinControls/OpenWinControls)
 5. ✔️ Closed issue [#7](https://github.com/Dadangdut33/dms-plugins/issues/7) in [Dadangdut33/dms-plugins](https://github.com/Dadangdut33/dms-plugins)
 6. ⭐ Starred [yayuuu/hyprland-scroll-overview](https://github.com/yayuuu/hyprland-scroll-overview)
 7. ⭐ Starred [bea4dev/ShojiWM](https://github.com/bea4dev/ShojiWM)
