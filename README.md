@@ -76,11 +76,11 @@ Hello There ヾ(￣ ▽ ￣)
     <summary>⚡ Recent GitHub Activity</summary>
     
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [JanDeDobbeleer/waku](https://github.com/JanDeDobbeleer/waku)
-2. ⭐ Starred [JiaFeiMiao-K-Cat/DiscImageStudio](https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio)
-3. ⭐ Starred [ThatUsernameAlreadyExist/Motion-Assistant-Power-Mod](https://github.com/ThatUsernameAlreadyExist/Motion-Assistant-Power-Mod)
-4. ⭐ Starred [OpenWinControls/OpenWinControls](https://github.com/OpenWinControls/OpenWinControls)
-5. ✔️ Closed issue [#7](https://github.com/Dadangdut33/dms-plugins/issues/7) in [Dadangdut33/dms-plugins](https://github.com/Dadangdut33/dms-plugins)
+1. ⭐ Starred [Koimsurai/Arke](https://github.com/Koimsurai/Arke)
+2. ⭐ Starred [JanDeDobbeleer/waku](https://github.com/JanDeDobbeleer/waku)
+3. ⭐ Starred [JiaFeiMiao-K-Cat/DiscImageStudio](https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio)
+4. ⭐ Starred [ThatUsernameAlreadyExist/Motion-Assistant-Power-Mod](https://github.com/ThatUsernameAlreadyExist/Motion-Assistant-Power-Mod)
+5. ⭐ Starred [OpenWinControls/OpenWinControls](https://github.com/OpenWinControls/OpenWinControls)
 6. ⭐ Starred [yayuuu/hyprland-scroll-overview](https://github.com/yayuuu/hyprland-scroll-overview)
 7. ⭐ Starred [bea4dev/ShojiWM](https://github.com/bea4dev/ShojiWM)
 8. ⭐ Starred [ladybug-me/caelestia-dots-kde](https://github.com/ladybug-me/caelestia-dots-kde)
