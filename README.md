@@ -76,12 +76,12 @@ Hello There ヾ(￣ ▽ ￣)
     <summary>⚡ Recent GitHub Activity</summary>
     
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Koimsurai/Arke](https://github.com/Koimsurai/Arke)
-2. ⭐ Starred [JanDeDobbeleer/waku](https://github.com/JanDeDobbeleer/waku)
-3. ⭐ Starred [JiaFeiMiao-K-Cat/DiscImageStudio](https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio)
-4. ⭐ Starred [ThatUsernameAlreadyExist/Motion-Assistant-Power-Mod](https://github.com/ThatUsernameAlreadyExist/Motion-Assistant-Power-Mod)
-5. ⭐ Starred [OpenWinControls/OpenWinControls](https://github.com/OpenWinControls/OpenWinControls)
-6. ⭐ Starred [yayuuu/hyprland-scroll-overview](https://github.com/yayuuu/hyprland-scroll-overview)
+1. ⭐ Starred [Page011/Astur](https://github.com/Page011/Astur)
+2. ⭐ Starred [Koimsurai/Arke](https://github.com/Koimsurai/Arke)
+3. ⭐ Starred [JanDeDobbeleer/waku](https://github.com/JanDeDobbeleer/waku)
+4. ⭐ Starred [JiaFeiMiao-K-Cat/DiscImageStudio](https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio)
+5. ⭐ Starred [ThatUsernameAlreadyExist/Motion-Assistant-Power-Mod](https://github.com/ThatUsernameAlreadyExist/Motion-Assistant-Power-Mod)
+6. ⭐ Starred [OpenWinControls/OpenWinControls](https://github.com/OpenWinControls/OpenWinControls)
 7. ⭐ Starred [bea4dev/ShojiWM](https://github.com/bea4dev/ShojiWM)
 8. ⭐ Starred [ladybug-me/caelestia-dots-kde](https://github.com/ladybug-me/caelestia-dots-kde)
 9. ⭐ Starred [jcardama/LeopardWM](https://github.com/jcardama/LeopardWM)
